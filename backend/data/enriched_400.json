@@ -17168,7 +17168,7 @@
       "trailer_subtitles": [],
       "attachments": [],
       "poster_s3_key": null,
-      "encrypted": false,
+      "encrypted": true,
       "media_codecs": null,
       "torrent_options_720p": [
         {
@@ -17231,7 +17231,8 @@
           "contentScore": 10
         }
       ],
-      "current_torrent_index": 0
+      "current_torrent_index": 0,
+      "hls_playlist_s3_key": "videos/the-honeymooners-1955-tv/hls/index.m3u8"
     },
     {
       "id": "a-dog-s-will-2000-movie",
