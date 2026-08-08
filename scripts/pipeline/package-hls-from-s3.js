@@ -198,24 +198,49 @@ async function uploadFile(client, bucket, key, filePath, contentType) {
   throw lastErr;
 }
 
-/** Upload many objects with bounded concurrency. */
-async function uploadMany(client, bucket, jobs, concurrency = 12) {
+/** Upload many objects with bounded concurrency, resilient to transient failures. */
+async function uploadMany(client, bucket, jobs, concurrency = 8) {
   let done = 0;
+  const failed = [];
   let i = 0;
   async function worker() {
     while (i < jobs.length) {
       const idx = i++;
       const job = jobs[idx];
-      await uploadFile(client, bucket, job.key, job.filePath, job.contentType);
-      done++;
-      if (done % 25 === 0 || done === jobs.length) {
-        console.log(`  ↑ ${done}/${jobs.length}`);
+      try {
+        await uploadFile(client, bucket, job.key, job.filePath, job.contentType);
+        done++;
+        if (done % 25 === 0 || done === jobs.length) {
+          console.log(`  ↑ ${done}/${jobs.length}`);
+        }
+      } catch (e) {
+        failed.push(job);
       }
     }
   }
   await Promise.all(
     Array.from({ length: Math.min(concurrency, jobs.length) }, () => worker()),
   );
+
+  // Second pass: retry failed jobs with lower concurrency
+  if (failed.length > 0) {
+    console.log(`  ↻ retrying ${failed.length}/${jobs.length} failed uploads…`);
+    let rDone = 0;
+    let rI = 0;
+    async function retryWorker() {
+      while (rI < failed.length) {
+        const idx = rI++;
+        const job = failed[idx];
+        await uploadFile(client, bucket, job.key, job.filePath, job.contentType);
+        rDone++;
+      }
+    }
+    await Promise.all(
+      Array.from({ length: Math.min(4, failed.length) }, () => retryWorker()),
+    );
+    done += failed.length;
+    console.log(`  ↑ ${done}/${jobs.length} (after retry)`);
+  }
 }
 
 /**
