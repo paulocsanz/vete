@@ -14500,8 +14500,9 @@
       "trailer_subtitles": [],
       "attachments": [],
       "poster_s3_key": null,
-      "encrypted": false,
-      "media_codecs": null
+      "encrypted": true,
+      "media_codecs": null,
+      "hls_playlist_s3_key": "videos/upstairs-downstairs-1971-tv/hls/index.m3u8"
     },
     {
       "id": "primal-2019-tv",
