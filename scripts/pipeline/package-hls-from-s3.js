@@ -414,8 +414,10 @@ Env: S3_* ENCRYPTION_CATALOG_KEY`);
             `${results.filter((r) => !r.error && !r.skipped).length}/${opts.ids.length} complete`,
         );
       } catch (e) {
-        console.error(`FAIL ${id}:`, e.message || e);
-        results.push({ id, error: String(e.message || e) });
+        console.error(`FAIL ${id}:`, e?.message || e);
+        console.error(`  ${e?.stack || e}`);
+        if (e?.Code || e?.name) console.error(`  name=${e?.name} code=${e?.Code}`);
+        results.push({ id, error: String(e?.message || e) });
       }
     }
   }
