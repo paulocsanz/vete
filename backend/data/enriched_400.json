@@ -15726,7 +15726,8 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": true,
-      "media_codecs": null
+      "media_codecs": null,
+      "hls_playlist_s3_key": "videos/terminator-2-judgment-day-1991-movie/hls/index.m3u8"
     },
     {
       "id": "mindhunter-2017-tv",
