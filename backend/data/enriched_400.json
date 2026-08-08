@@ -14385,8 +14385,10 @@
       "trailer_key": "F4da9uRIg8c",
       "enrichment_status": "ok",
       "torrent_file": "One_Flew_Over_the_Cuckoo's_Nest_x",
-      "s3_key": null,
-      "s3_keys": [],
+      "s3_key": "videos/one-flew-over-the-cuckoo-s-nest-1975-movie/One Flew Over the Cuckoo's Nest (1975) (1080p BluRay x265 Silence).mp4",
+      "s3_keys": [
+        "videos/one-flew-over-the-cuckoo-s-nest-1975-movie/One Flew Over the Cuckoo's Nest (1975) (1080p BluRay x265 Silence).mp4"
+      ],
       "subtitles": [],
       "episodes": [],
       "keywords": [],
@@ -15049,7 +15051,8 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": true,
-      "media_codecs": "avc1.640029, mp4a.40.2"
+      "media_codecs": "avc1.640029, mp4a.40.2",
+      "hls_playlist_s3_key": "videos/spider-man-across-the-spider-verse-2023-movie/hls/index.m3u8"
     },
     {
       "id": "severance-2022-tv",
@@ -26905,7 +26908,8 @@
           "contentScore": 800
         }
       ],
-      "current_torrent_index": 0
+      "current_torrent_index": 0,
+      "s3_key": "videos/star-wars-episode-vi-return-of-the-jedi-1983-movie/Star.Wars.Episode.6.Return.of.the.Jedi.1983.1080p.BrRip.x264.BOKUTOX.YIFY.mp4"
     },
     {
       "id": "sob-pressao-2017-tv",
@@ -30424,9 +30428,20 @@
       "trailer_key": "3eajzW3XW7Q",
       "enrichment_status": "ok",
       "torrent_file": null,
-      "s3_key": null,
-      "s3_keys": [],
-      "subtitles": [],
+      "s3_key": "videos/the-help-2011-movie/The.Help.2011.720p.BrRip.x264.YIFY.mp4",
+      "s3_keys": [
+        "videos/the-help-2011-movie/The.Help.2011.720p.BrRip.x264.YIFY.mp4"
+      ],
+      "subtitles": [
+        {
+          "episode": 0,
+          "id": "und",
+          "lang": "und",
+          "label": "Unknown",
+          "forced": false,
+          "s3_key": "videos/the-help-2011-movie/The.Help.2011.720p.BrRip.x264.YIFY.und.vtt"
+        }
+      ],
       "episodes": [],
       "keywords": [],
       "award_entries": [],
