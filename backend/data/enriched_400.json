@@ -14385,10 +14385,8 @@
       "trailer_key": "F4da9uRIg8c",
       "enrichment_status": "ok",
       "torrent_file": "One_Flew_Over_the_Cuckoo's_Nest_x",
-      "s3_key": "videos/one-flew-over-the-cuckoo-s-nest-1975-movie/One Flew Over the Cuckoo's Nest (1975) (1080p BluRay x265 Silence).mp4",
-      "s3_keys": [
-        "videos/one-flew-over-the-cuckoo-s-nest-1975-movie/One Flew Over the Cuckoo's Nest (1975) (1080p BluRay x265 Silence).mp4"
-      ],
+      "s3_key": null,
+      "s3_keys": [],
       "subtitles": [],
       "episodes": [],
       "keywords": [],
@@ -15667,7 +15665,8 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": true,
-      "media_codecs": "avc1.640028, mp4a.40.2"
+      "media_codecs": "avc1.640028, mp4a.40.2",
+      "hls_playlist_s3_key": "videos/the-silence-of-the-lambs-1991-movie/hls/index.m3u8"
     },
     {
       "id": "terminator-2-judgment-day-1991-movie",
