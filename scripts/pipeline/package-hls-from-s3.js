@@ -51,6 +51,7 @@ function parseArgs(argv) {
     singleOnly: true,
     limit: null,
     skipExisting: true,
+    concurrency: 1,
   };
   for (let i = 0; i < argv.length; i++) {
     const a = argv[i];
@@ -67,6 +68,7 @@ function parseArgs(argv) {
     else if (a === "--limit") out.limit = parseInt(argv[++i], 10);
     else if (a === "--force") out.skipExisting = false;
     else if (a === "--keep-local") out.keepLocal = true;
+    else if (a === "--concurrency") out.concurrency = Math.max(1, parseInt(argv[++i], 10) || 1);
     else if (a === "--help" || a === "-h") out.help = true;
     else throw new Error(`unknown arg: ${a}`);
   }
@@ -173,15 +175,27 @@ async function downloadToFile(client, bucket, key, dest) {
 
 async function uploadFile(client, bucket, key, filePath, contentType) {
   const body = fs.readFileSync(filePath);
-  await client.send(
-    new PutObjectCommand({
-      Bucket: bucket,
-      Key: key,
-      Body: body,
-      ContentType: contentType,
-    }),
-  );
-  return body.length;
+  let lastErr;
+  for (let attempt = 0; attempt < 4; attempt++) {
+    try {
+      await client.send(
+        new PutObjectCommand({
+          Bucket: bucket,
+          Key: key,
+          Body: body,
+          ContentType: contentType,
+        }),
+      );
+      return body.length;
+    } catch (e) {
+      lastErr = e;
+      if (attempt < 3) {
+        const delay = 1000 * Math.pow(2, attempt); // 1s, 2s, 4s
+        await new Promise((r) => setTimeout(r, delay));
+      }
+    }
+  }
+  throw lastErr;
 }
 
 /** Upload many objects with bounded concurrency. */
@@ -215,6 +229,20 @@ async function packageOne(client, creds, catalog, catalogKey, id, opts) {
   if (!item) throw new Error(`catalog id not found: ${id}`);
   const keys = sourceKeys(item);
   if (keys.length === 0) throw new Error(`${id}: no s3_key/s3_keys`);
+
+  // Disk-space guard: bail early with a clear message if temp disk is nearly full.
+  try {
+    const tmpStat = fs.statfsSync(os.tmpdir());
+    const freeGB = (tmpStat.bavail * tmpStat.bsize) / 1e9;
+    if (freeGB < 5) {
+      throw new Error(
+        `disk almost full (${freeGB.toFixed(1)} GB free in ${os.tmpdir()}) — skipping ${id}`,
+      );
+    }
+  } catch (checkErr) {
+    if (checkErr.message.includes("disk almost full")) throw checkErr;
+    // statfsSync might not exist on all platforms — skip guard silently
+  }
 
   const workDir = fs.mkdtempSync(path.join(os.tmpdir(), "hls-"));
   const multi = keys.length > 1;
@@ -255,7 +283,7 @@ async function packageOne(client, creds, catalog, catalogKey, id, opts) {
         contentType: "video/mp2t",
       }));
       console.log(`  ↑ uploading ${jobs.length} segments (${label})…`);
-      await uploadMany(client, creds.bucketName, jobs, 16);
+      await uploadMany(client, creds.bucketName, jobs, 8);
       const playlistKey = `${prefix}/index.m3u8`;
       await uploadFile(
         client,
@@ -307,7 +335,7 @@ async function main() {
     console.log(`Usage:
   node scripts/pipeline/package-hls-from-s3.js --id <catalog-id>
   node scripts/pipeline/package-hls-from-s3.js --ids id1,id2
-  node scripts/pipeline/package-hls-from-s3.js --all [--limit N] [--include-series] [--force]
+  node scripts/pipeline/package-hls-from-s3.js --all [--limit N] [--include-series] [--force] [--concurrency N]
   (default --all = single-file only; --include-series packages multi-ep as e1..eN)
 Env: S3_* ENCRYPTION_CATALOG_KEY`);
     process.exit(opts.help ? 0 : 1);
@@ -332,23 +360,48 @@ Env: S3_* ENCRYPTION_CATALOG_KEY`);
     );
   }
 
+  // --- concurrent packaging pool ---
+  // Catalog saves are concurrency-safe: recordHlsPackaged() writes to a durable
+  // sidecar synchronously, and saveCatalog() calls applyHlsIndex() before every
+  // write, re-applying ALL sidecar flags. Even if two workers race on
+  // load-modify-save, the last writer's applyHlsIndex heals every flag.
+  const concurrency = Math.min(opts.concurrency, opts.ids.length);
   const results = [];
-  for (const id of opts.ids) {
-    catalog = loadCatalog(); // refresh between titles
-    try {
-      if (opts.skipExisting) {
-        const cur = catalog.items.find((x) => x && x.id === id);
-        if (cur?.hls_playlist_s3_key) {
-          console.log(`skip ${id} (already has HLS)`);
-          results.push({ id, skipped: true });
-          continue;
+  let nextIdx = 0;
+
+  async function poolWorker(workerNum) {
+    while (nextIdx < opts.ids.length) {
+      const myIdx = nextIdx++;
+      const id = opts.ids[myIdx];
+      try {
+        if (opts.skipExisting) {
+          const cur = loadCatalog().items.find((x) => x && x.id === id);
+          if (cur?.hls_playlist_s3_key) {
+            console.log(`skip ${id} (already has HLS)`);
+            results.push({ id, skipped: true });
+            continue;
+          }
         }
+        const res = await packageOne(client, creds, loadCatalog(), catalogKey, id, opts);
+        results.push(res);
+        console.log(
+          `  [worker ${workerNum}] done: ${id} (${res.segments} segs) — ` +
+            `${results.filter((r) => !r.error && !r.skipped).length}/${opts.ids.length} complete`,
+        );
+      } catch (e) {
+        console.error(`FAIL ${id}:`, e.message || e);
+        results.push({ id, error: String(e.message || e) });
       }
-      results.push(await packageOne(client, creds, catalog, catalogKey, id, opts));
-    } catch (e) {
-      console.error(`FAIL ${id}:`, e.message || e);
-      results.push({ id, error: String(e.message || e) });
     }
+  }
+
+  if (concurrency > 1) {
+    console.log(`── concurrent pool: ${concurrency} workers, ${opts.ids.length} title(s)`);
+    await Promise.all(
+      Array.from({ length: concurrency }, (_, i) => poolWorker(i + 1)),
+    );
+  } else {
+    await poolWorker(1);
   }
   console.log("\n── summary ──");
   let ok = 0,
