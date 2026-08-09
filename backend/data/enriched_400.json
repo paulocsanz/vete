@@ -18111,8 +18111,9 @@
       "trailer_subtitles": [],
       "attachments": [],
       "poster_s3_key": null,
-      "encrypted": false,
-      "media_codecs": null
+      "encrypted": true,
+      "media_codecs": null,
+      "hls_playlist_s3_key": "videos/seven-samurai-1954-movie/hls/index.m3u8"
     },
     {
       "id": "the-chaser-s-war-on-everything-2006-tv",

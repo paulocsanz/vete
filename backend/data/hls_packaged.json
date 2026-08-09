@@ -54,5 +54,6 @@
   "dune-part-two-2024-movie": "videos/dune-part-two-2024-movie/hls/index.m3u8",
   "the-usual-suspects-1995-movie": "videos/the-usual-suspects-1995-movie/hls/index.m3u8",
   "the-departed-2006-movie": "videos/the-departed-2006-movie/hls/index.m3u8",
-  "psycho-1960-movie": "videos/psycho-1960-movie/hls/index.m3u8"
+  "psycho-1960-movie": "videos/psycho-1960-movie/hls/index.m3u8",
+  "seven-samurai-1954-movie": "videos/seven-samurai-1954-movie/hls/index.m3u8"
 }
