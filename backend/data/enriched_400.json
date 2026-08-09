@@ -30711,9 +30711,36 @@
       "trailer_key": "OBGKGm3RYos",
       "enrichment_status": "ok",
       "torrent_file": null,
-      "s3_key": null,
-      "s3_keys": [],
-      "subtitles": [],
+      "s3_key": "videos/pan-s-labyrinth-2006-movie/El Laberinto Del Fauno 2006 BRRip 720p x264 AC3 [Castellano_Eng.Sub] URBiN4HD.mp4",
+      "s3_keys": [
+        "videos/pan-s-labyrinth-2006-movie/El Laberinto Del Fauno 2006 BRRip 720p x264 AC3 [Castellano_Eng.Sub] URBiN4HD.mp4"
+      ],
+      "subtitles": [
+        {
+          "episode": 0,
+          "id": "und",
+          "lang": "und",
+          "label": "Unknown",
+          "forced": false,
+          "s3_key": "videos/pan-s-labyrinth-2006-movie/El Laberinto Del Fauno 2006 BRRip 720p x264 AC3 [Castellano_Eng.Sub] URBiN4HD.und.vtt"
+        },
+        {
+          "episode": 0,
+          "id": "eng",
+          "lang": "eng",
+          "label": "English",
+          "forced": false,
+          "s3_key": "videos/pan-s-labyrinth-2006-movie/El Laberinto Del Fauno 2006 BRRip 720p x264 AC3 [Castellano_Eng.Sub] URBiN4HD.eng.vtt"
+        },
+        {
+          "episode": 0,
+          "id": "eng-2",
+          "lang": "eng",
+          "label": "English",
+          "forced": false,
+          "s3_key": "videos/pan-s-labyrinth-2006-movie/El Laberinto Del Fauno 2006 BRRip 720p x264 AC3 [Castellano_Eng.Sub] URBiN4HD.eng-2.vtt"
+        }
+      ],
       "episodes": [],
       "keywords": [],
       "award_entries": [],
