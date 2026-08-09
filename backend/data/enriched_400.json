@@ -19666,8 +19666,9 @@
       "trailer_subtitles": [],
       "attachments": [],
       "poster_s3_key": null,
-      "encrypted": false,
-      "media_codecs": null
+      "encrypted": true,
+      "media_codecs": null,
+      "hls_playlist_s3_key": "videos/dune-part-two-2024-movie/hls/index.m3u8"
     },
     {
       "id": "rear-window-1954-movie",
@@ -27983,9 +27984,28 @@
       "trailer_key": "tAaBkFChaRg",
       "enrichment_status": "ok",
       "torrent_file": null,
-      "s3_key": null,
-      "s3_keys": [],
-      "subtitles": [],
+      "s3_key": "videos/oldboy-2003-movie/Oldboy (2003).mp4",
+      "s3_keys": [
+        "videos/oldboy-2003-movie/Oldboy (2003).mp4"
+      ],
+      "subtitles": [
+        {
+          "episode": 0,
+          "id": "por",
+          "lang": "por",
+          "label": "Portuguese",
+          "forced": false,
+          "s3_key": "videos/oldboy-2003-movie/Oldboy (2003).por.vtt"
+        },
+        {
+          "episode": 0,
+          "id": "und",
+          "lang": "und",
+          "label": "Unknown",
+          "forced": false,
+          "s3_key": "videos/oldboy-2003-movie/Oldboy (2003).und.vtt"
+        }
+      ],
       "episodes": [],
       "keywords": [],
       "award_entries": [],
