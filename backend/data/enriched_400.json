@@ -31917,8 +31917,10 @@
       "trailer_key": "ARCQf2CEr8k",
       "enrichment_status": "ok",
       "torrent_file": null,
-      "s3_key": null,
-      "s3_keys": [],
+      "s3_key": "videos/howl-s-moving-castle-2004-movie/Howl's.Moving.Castle.2004.720p.BluRay.x264-[YTS.AM].mp4",
+      "s3_keys": [
+        "videos/howl-s-moving-castle-2004-movie/Howl's.Moving.Castle.2004.720p.BluRay.x264-[YTS.AM].mp4"
+      ],
       "subtitles": [],
       "episodes": [],
       "keywords": [],
