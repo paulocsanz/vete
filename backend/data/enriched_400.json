@@ -17293,7 +17293,7 @@
       "trailer_subtitles": [],
       "attachments": [],
       "poster_s3_key": null,
-      "encrypted": false,
+      "encrypted": true,
       "media_codecs": null,
       "torrent_options_720p": [
         {
@@ -17335,7 +17335,8 @@
           "provider": "Torrentio/ThePirateBay"
         }
       ],
-      "current_torrent_index": 0
+      "current_torrent_index": 0,
+      "hls_playlist_s3_key": "videos/a-dog-s-will-2000-movie/hls/index.m3u8"
     },
     {
       "id": "life-is-beautiful-1997-movie",
