@@ -167,13 +167,24 @@ async function downloadToFile(client, bucket, key, dest) {
   );
   const total = head.ContentLength ?? 0;
   console.log(`  ↓ ${key} (${(total / 1e6).toFixed(1)} MB)`);
+
   let lastErr;
   for (let attempt = 0; attempt < 4; attempt++) {
+    // Clean any partial file from previous attempt
+    try { fs.rmSync(dest, { force: true }); } catch {}
     try {
       const res = await client.send(
         new GetObjectCommand({ Bucket: bucket, Key: key }),
       );
-      await pipeline(res.Body, createWriteStream(dest));
+      // Explicitly handle stream errors that escape pipeline's Promise
+      const streamErr = new Promise((_, reject) => {
+        res.Body.on("error", reject);
+      });
+      await Promise.race([
+        pipeline(res.Body, createWriteStream(dest)),
+        streamErr,
+      ]);
+      res.Body.removeAllListeners("error");
       return;
     } catch (e) {
       lastErr = e;
