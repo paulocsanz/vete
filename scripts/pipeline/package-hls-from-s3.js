@@ -167,10 +167,23 @@ async function downloadToFile(client, bucket, key, dest) {
   );
   const total = head.ContentLength ?? 0;
   console.log(`  ↓ ${key} (${(total / 1e6).toFixed(1)} MB)`);
-  const res = await client.send(
-    new GetObjectCommand({ Bucket: bucket, Key: key }),
-  );
-  await pipeline(res.Body, createWriteStream(dest));
+  let lastErr;
+  for (let attempt = 0; attempt < 4; attempt++) {
+    try {
+      const res = await client.send(
+        new GetObjectCommand({ Bucket: bucket, Key: key }),
+      );
+      await pipeline(res.Body, createWriteStream(dest));
+      return;
+    } catch (e) {
+      lastErr = e;
+      if (attempt < 3) {
+        console.log(`  ↻ download retry ${attempt + 1}/3 (${e.message})…`);
+        await new Promise((r) => setTimeout(r, 1000 * Math.pow(2, attempt)));
+      }
+    }
+  }
+  throw lastErr;
 }
 
 async function uploadFile(client, bucket, key, filePath, contentType) {
