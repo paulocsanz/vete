@@ -20462,8 +20462,9 @@
       "trailer_subtitles": [],
       "attachments": [],
       "poster_s3_key": null,
-      "encrypted": false,
-      "media_codecs": null
+      "encrypted": true,
+      "media_codecs": null,
+      "hls_playlist_s3_key": "videos/psycho-1960-movie/hls/index.m3u8"
     },
     {
       "id": "grave-of-the-fireflies-1988-movie",
