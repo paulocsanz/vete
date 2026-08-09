@@ -19789,7 +19789,8 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": true,
-      "media_codecs": "avc1.640029, mp4a.40.2"
+      "media_codecs": "avc1.640029, mp4a.40.2",
+      "hls_playlist_s3_key": "videos/the-usual-suspects-1995-movie/hls/index.m3u8"
     },
     {
       "id": "the-departed-2006-movie",
@@ -31619,8 +31620,10 @@
       "trailer_key": "v30H0qj_b9E",
       "enrichment_status": "ok",
       "torrent_file": null,
-      "s3_key": null,
-      "s3_keys": [],
+      "s3_key": "videos/demon-slayer-mugen-train-2020-movie/Demon.Slayer.The.Movie.Mugen.Train.2020.JAPANESE.REPACK.720p.WEBRip.x264.AAC-[YTS.MX].mp4",
+      "s3_keys": [
+        "videos/demon-slayer-mugen-train-2020-movie/Demon.Slayer.The.Movie.Mugen.Train.2020.JAPANESE.REPACK.720p.WEBRip.x264.AAC-[YTS.MX].mp4"
+      ],
       "subtitles": [],
       "episodes": [],
       "keywords": [],
