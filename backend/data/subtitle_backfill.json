@@ -8602,5 +8602,173 @@
         "s3_key": "videos/the-help-2011-movie/external.0.por.vtt"
       }
     ]
+  },
+  "the-sopranos-1999-tv": {
+    "subtitles": [
+      {
+        "episode": 1,
+        "id": "eng-1",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-sopranos-1999-tv/subdl.1.eng-1.vtt"
+      },
+      {
+        "episode": 2,
+        "id": "eng-2",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-sopranos-1999-tv/subdl.2.eng-2.vtt"
+      },
+      {
+        "episode": 3,
+        "id": "eng-3",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-sopranos-1999-tv/subdl.3.eng-3.vtt"
+      },
+      {
+        "episode": 4,
+        "id": "eng-4",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-sopranos-1999-tv/subdl.4.eng-4.vtt"
+      },
+      {
+        "episode": 5,
+        "id": "eng-5",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-sopranos-1999-tv/subdl.5.eng-5.vtt"
+      },
+      {
+        "episode": 6,
+        "id": "eng-6",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-sopranos-1999-tv/subdl.6.eng-6.vtt"
+      },
+      {
+        "episode": 7,
+        "id": "eng-7",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-sopranos-1999-tv/subdl.7.eng-7.vtt"
+      },
+      {
+        "episode": 8,
+        "id": "eng-8",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-sopranos-1999-tv/subdl.8.eng-8.vtt"
+      },
+      {
+        "episode": 9,
+        "id": "eng-9",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-sopranos-1999-tv/subdl.9.eng-9.vtt"
+      },
+      {
+        "episode": 10,
+        "id": "eng-10",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-sopranos-1999-tv/subdl.10.eng-10.vtt"
+      },
+      {
+        "episode": 11,
+        "id": "eng-11",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-sopranos-1999-tv/subdl.11.eng-11.vtt"
+      },
+      {
+        "episode": 12,
+        "id": "eng-12",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-sopranos-1999-tv/subdl.12.eng-12.vtt"
+      },
+      {
+        "episode": 13,
+        "id": "eng-13",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-sopranos-1999-tv/subdl.13.eng-13.vtt"
+      },
+      {
+        "episode": 1,
+        "id": "spa-1",
+        "lang": "spa",
+        "label": "Spanish",
+        "forced": false,
+        "s3_key": "videos/the-sopranos-1999-tv/subdl.1.spa-1.vtt"
+      }
+    ]
+  },
+  "the-prisoner-1967-tv": {
+    "subtitles": [
+      {
+        "episode": 1,
+        "id": "eng-1",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-prisoner-1967-tv/subdl.1.eng-1.vtt"
+      },
+      {
+        "episode": 2,
+        "id": "eng-2",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-prisoner-1967-tv/subdl.2.eng-2.vtt"
+      },
+      {
+        "episode": 3,
+        "id": "eng-3",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-prisoner-1967-tv/subdl.3.eng-3.vtt"
+      },
+      {
+        "episode": 4,
+        "id": "eng-4",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-prisoner-1967-tv/subdl.4.eng-4.vtt"
+      },
+      {
+        "episode": 5,
+        "id": "eng-5",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-prisoner-1967-tv/subdl.5.eng-5.vtt"
+      },
+      {
+        "episode": 6,
+        "id": "eng-6",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-prisoner-1967-tv/subdl.6.eng-6.vtt"
+      }
+    ]
   }
 }
