@@ -31994,9 +31994,20 @@
       "trailer_key": "sXwXk3jcrfU",
       "enrichment_status": "ok",
       "torrent_file": null,
-      "s3_key": null,
-      "s3_keys": [],
-      "subtitles": [],
+      "s3_key": "videos/kill-bill-vol-1-2003-movie/Kill.Bill.Vol.1.2003.720p.BrRip.x264.YIFY.mp4",
+      "s3_keys": [
+        "videos/kill-bill-vol-1-2003-movie/Kill.Bill.Vol.1.2003.720p.BrRip.x264.YIFY.mp4"
+      ],
+      "subtitles": [
+        {
+          "episode": 0,
+          "id": "und",
+          "lang": "und",
+          "label": "Unknown",
+          "forced": false,
+          "s3_key": "videos/kill-bill-vol-1-2003-movie/Kill.Bill.Vol.1.2003.720p.BrRip.x264.YIFY.und.vtt"
+        }
+      ],
       "episodes": [],
       "keywords": [],
       "award_entries": [],
