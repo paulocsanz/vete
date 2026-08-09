@@ -19909,7 +19909,8 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": true,
-      "media_codecs": "avc1.4d0028, mp4a.40.2"
+      "media_codecs": "avc1.4d0028, mp4a.40.2",
+      "hls_playlist_s3_key": "videos/american-history-x-1998-movie/hls/index.m3u8"
     },
     {
       "id": "psych-2006-tv",
