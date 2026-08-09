@@ -17456,7 +17456,8 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": true,
-      "media_codecs": "avc1.640028, mp4a.40.2"
+      "media_codecs": "avc1.640028, mp4a.40.2",
+      "hls_playlist_s3_key": "videos/the-green-mile-1999-movie/hls/index.m3u8"
     },
     {
       "id": "it-s-a-wonderful-life-1946-movie",
