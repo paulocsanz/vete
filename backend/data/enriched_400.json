@@ -20405,7 +20405,8 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": true,
-      "media_codecs": "avc1.640029, mp4a.40.2"
+      "media_codecs": "avc1.640029, mp4a.40.2",
+      "hls_playlist_s3_key": "videos/whiplash-2014-movie/hls/index.m3u8"
     },
     {
       "id": "psycho-1960-movie",
