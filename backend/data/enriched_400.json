@@ -17516,8 +17516,9 @@
       "trailer_subtitles": [],
       "attachments": [],
       "poster_s3_key": null,
-      "encrypted": false,
-      "media_codecs": null
+      "encrypted": true,
+      "media_codecs": null,
+      "hls_playlist_s3_key": "videos/it-s-a-wonderful-life-1946-movie/hls/index.m3u8"
     },
     {
       "id": "avenida-brasil-2012-tv",
@@ -31530,7 +31531,6 @@
       "trailer_key": "ySvzHdtCiWE",
       "enrichment_status": "ok",
       "torrent_file": null,
-      "s3_key": null,
       "s3_keys": [],
       "subtitles": [],
       "episodes": [],
