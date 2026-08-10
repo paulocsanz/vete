@@ -24967,7 +24967,7 @@
       "trailer_subtitles": [],
       "attachments": [],
       "poster_s3_key": null,
-      "encrypted": false,
+      "encrypted": true,
       "media_codecs": null,
       "torrent_options_720p": [
         {
@@ -25038,7 +25038,8 @@
           "contentScore": 10
         }
       ],
-      "current_torrent_index": 0
+      "current_torrent_index": 0,
+      "hls_playlist_s3_key": "videos/star-wars-the-clone-wars-2008-tv/hls/index.m3u8"
     },
     {
       "id": "generation-kill-2008-tv",
