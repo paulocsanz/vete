@@ -32706,9 +32706,20 @@
       "trailer_key": "0n_HQwQU8ls",
       "enrichment_status": "ok",
       "torrent_file": null,
-      "s3_key": null,
-      "s3_keys": [],
-      "subtitles": [],
+      "s3_key": "videos/memories-of-murder-2003-movie/Memories.Of.Murder.2003.720p.BluRay.x264.AAC-[YTS.MX].mp4",
+      "s3_keys": [
+        "videos/memories-of-murder-2003-movie/Memories.Of.Murder.2003.720p.BluRay.x264.AAC-[YTS.MX].mp4"
+      ],
+      "subtitles": [
+        {
+          "episode": 0,
+          "id": "und",
+          "lang": "und",
+          "label": "Unknown",
+          "forced": false,
+          "s3_key": "videos/memories-of-murder-2003-movie/Memories.Of.Murder.2003.720p.BluRay.x264.AAC-[YTS.MX].und.vtt"
+        }
+      ],
       "episodes": [],
       "keywords": [],
       "award_entries": [],
@@ -116475,108 +116486,6 @@
       "poster_s3_key": "videos/cultivo-de-maconha-2026-course/poster.jpg",
       "encrypted": false,
       "media_codecs": null
-    },
-    {
-      "title": "RuPaul's Drag Race Brasil",
-      "title_pt": "RuPaul's Drag Race Brasil",
-      "year": 2021,
-      "id": "rupauls-drag-race-brasil-2021-tv",
-      "imdb_id": "tt14792058",
-      "creator": "RuPaul",
-      "genres": [
-        "Reality-TV"
-      ],
-      "genres_pt": [
-        "Reality"
-      ],
-      "rated": "TV-MA",
-      "rated_pt": "14",
-      "origin": "Brazilian",
-      "plot": "Brazilian version of the hit drag queen competition show hosted by RuPaul and judge Gretchen.",
-      "plot_pt": "Versão brasileira do reality show de drag queens apresentado por RuPaul com a judge Gretchen.",
-      "torrent_options": [],
-      "torrent_options_720p": [],
-      "content_type": "tv",
-      "original_title": null,
-      "director": null,
-      "curated_imdb_rating": null,
-      "poster_url": null,
-      "backdrop_url": null,
-      "actors": [],
-      "awards": null,
-      "tmdb_id": null,
-      "collection_id": null,
-      "collection_name": null,
-      "trailer_key": null,
-      "enrichment_status": "ok",
-      "s3_key": null,
-      "s3_keys": [],
-      "subtitles": [],
-      "episodes": [],
-      "keywords": [],
-      "award_entries": [],
-      "trailer_s3_key": null,
-      "trailer_subtitles": [],
-      "attachments": [],
-      "poster_s3_key": null,
-      "encrypted": false,
-      "media_codecs": null,
-      "current_torrent_index": 0,
-      "current_torrent_index_720p": 0
-    },
-    {
-      "title": "RuPaul's Drag Race All Stars",
-      "title_pt": "RuPaul's Drag Race All Stars",
-      "year": 2012,
-      "id": "rupauls-drag-race-all-stars-2012-tv",
-      "imdb_id": "tt3173600",
-      "creator": "RuPaul",
-      "genres": [
-        "Reality-TV",
-        "Game-Show"
-      ],
-      "genres_pt": [
-        "Reality"
-      ],
-      "rated": "TV-MA",
-      "rated_pt": "14",
-      "origin": "International",
-      "plot": "Past contestants from RuPaul's Drag Race return to compete for a spot in the Drag Race Hall of Fame.",
-      "plot_pt": "Ex-participantes de RuPaul's Drag Race retornam para competir por um lugar no Hall da Fama.",
-      "actors": [
-        "Milan Bahúl",
-        "Dominika Byrtusová",
-        "Igor Chmela",
-        "Marie Dolezalová"
-      ],
-      "torrent_options": [],
-      "torrent_options_720p": [],
-      "content_type": "tv",
-      "original_title": null,
-      "director": null,
-      "curated_imdb_rating": null,
-      "poster_url": null,
-      "backdrop_url": null,
-      "awards": null,
-      "tmdb_id": null,
-      "collection_id": null,
-      "collection_name": null,
-      "trailer_key": null,
-      "enrichment_status": "ok",
-      "s3_key": null,
-      "s3_keys": [],
-      "subtitles": [],
-      "episodes": [],
-      "keywords": [],
-      "award_entries": [],
-      "trailer_s3_key": null,
-      "trailer_subtitles": [],
-      "attachments": [],
-      "poster_s3_key": null,
-      "encrypted": false,
-      "media_codecs": null,
-      "current_torrent_index": 0,
-      "current_torrent_index_720p": 0
     }
   ]
 }

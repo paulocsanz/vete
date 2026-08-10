@@ -2192,6 +2192,14 @@
         "label": "English",
         "forced": false,
         "s3_key": "videos/neighboring-sounds-2012-movie/external.0.eng.vtt"
+      },
+      {
+        "episode": 0,
+        "id": "spa-0",
+        "lang": "spa",
+        "label": "Spanish",
+        "forced": false,
+        "s3_key": "videos/neighboring-sounds-2012-movie/subdl.0.spa-0.vtt"
       }
     ]
   },
@@ -4036,6 +4044,22 @@
         "label": "Portuguese",
         "forced": false,
         "s3_key": "videos/house-2004-tv/external.0.por.vtt"
+      },
+      {
+        "episode": 0,
+        "id": "eng-0",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/house-2004-tv/subdl.0.eng-0.vtt"
+      },
+      {
+        "episode": 0,
+        "id": "spa-0",
+        "lang": "spa",
+        "label": "Spanish",
+        "forced": false,
+        "s3_key": "videos/house-2004-tv/subdl.0.spa-0.vtt"
       }
     ]
   },
@@ -4432,6 +4456,22 @@
         "label": "Spanish",
         "forced": false,
         "s3_key": "videos/the-professional-1994-movie/external.0.spa.vtt"
+      },
+      {
+        "episode": 0,
+        "id": "por-0",
+        "lang": "por",
+        "label": "Portuguese",
+        "forced": false,
+        "s3_key": "videos/the-professional-1994-movie/subdl.0.por-0.vtt"
+      },
+      {
+        "episode": 0,
+        "id": "eng-0",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-professional-1994-movie/subdl.0.eng-0.vtt"
       }
     ]
   },
@@ -6612,6 +6652,14 @@
         "label": "English",
         "forced": false,
         "s3_key": "videos/the-office-2005-tv/external.0.eng.vtt"
+      },
+      {
+        "episode": 0,
+        "id": "spa",
+        "lang": "spa",
+        "label": "Spanish",
+        "forced": false,
+        "s3_key": "videos/the-office-2005-tv/external.0.spa.vtt"
       }
     ]
   },
@@ -8576,6 +8624,14 @@
         "label": "Portuguese",
         "forced": false,
         "s3_key": "videos/pan-s-labyrinth-2006-movie/external.0.por.vtt"
+      },
+      {
+        "episode": 0,
+        "id": "spa",
+        "lang": "spa",
+        "label": "Spanish",
+        "forced": false,
+        "s3_key": "videos/pan-s-labyrinth-2006-movie/external.0.spa.vtt"
       }
     ]
   },
@@ -8588,6 +8644,22 @@
         "label": "Portuguese",
         "forced": false,
         "s3_key": "videos/star-wars-episode-vi-return-of-the-jedi-1983-movie/external.0.por.vtt"
+      },
+      {
+        "episode": 0,
+        "id": "eng",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/star-wars-episode-vi-return-of-the-jedi-1983-movie/external.0.eng.vtt"
+      },
+      {
+        "episode": 0,
+        "id": "spa",
+        "lang": "spa",
+        "label": "Spanish",
+        "forced": false,
+        "s3_key": "videos/star-wars-episode-vi-return-of-the-jedi-1983-movie/external.0.spa.vtt"
       }
     ]
   },
@@ -8600,6 +8672,22 @@
         "label": "Portuguese",
         "forced": false,
         "s3_key": "videos/the-help-2011-movie/external.0.por.vtt"
+      },
+      {
+        "episode": 0,
+        "id": "eng-0",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-help-2011-movie/subdl.0.eng-0.vtt"
+      },
+      {
+        "episode": 0,
+        "id": "spa-0",
+        "lang": "spa",
+        "label": "Spanish",
+        "forced": false,
+        "s3_key": "videos/the-help-2011-movie/subdl.0.spa-0.vtt"
       }
     ]
   },
@@ -8768,6 +8856,814 @@
         "label": "English",
         "forced": false,
         "s3_key": "videos/the-prisoner-1967-tv/subdl.6.eng-6.vtt"
+      }
+    ]
+  },
+  "howl-s-moving-castle-2004-movie": {
+    "subtitles": [
+      {
+        "episode": 0,
+        "id": "eng-0",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/howl-s-moving-castle-2004-movie/subdl.0.eng-0.vtt"
+      },
+      {
+        "episode": 0,
+        "id": "spa-0",
+        "lang": "spa",
+        "label": "Spanish",
+        "forced": false,
+        "s3_key": "videos/howl-s-moving-castle-2004-movie/subdl.0.spa-0.vtt"
+      },
+      {
+        "episode": 0,
+        "id": "por",
+        "lang": "por",
+        "label": "Portuguese",
+        "forced": false,
+        "s3_key": "videos/howl-s-moving-castle-2004-movie/external.0.por.vtt"
+      }
+    ]
+  },
+  "taxi-driver-1976-movie": {
+    "subtitles": [
+      {
+        "episode": 0,
+        "id": "por-0",
+        "lang": "por",
+        "label": "Portuguese",
+        "forced": false,
+        "s3_key": "videos/taxi-driver-1976-movie/subdl.0.por-0.vtt"
+      },
+      {
+        "episode": 0,
+        "id": "spa-0",
+        "lang": "spa",
+        "label": "Spanish",
+        "forced": false,
+        "s3_key": "videos/taxi-driver-1976-movie/subdl.0.spa-0.vtt"
+      }
+    ]
+  },
+  "the-marvelous-mrs-maisel-2017-tv": {
+    "subtitles": [
+      {
+        "episode": 1,
+        "id": "spa-1",
+        "lang": "spa",
+        "label": "Spanish",
+        "forced": false,
+        "s3_key": "videos/the-marvelous-mrs-maisel-2017-tv/subdl.1.spa-1.vtt"
+      }
+    ]
+  },
+  "the-twilight-zone-1959-tv": {
+    "subtitles": [
+      {
+        "episode": 2,
+        "id": "eng-2",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.2.eng-2.vtt"
+      },
+      {
+        "episode": 4,
+        "id": "eng-4",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.4.eng-4.vtt"
+      },
+      {
+        "episode": 6,
+        "id": "eng-6",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.6.eng-6.vtt"
+      },
+      {
+        "episode": 7,
+        "id": "eng-7",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.7.eng-7.vtt"
+      },
+      {
+        "episode": 8,
+        "id": "eng-8",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.8.eng-8.vtt"
+      },
+      {
+        "episode": 9,
+        "id": "eng-9",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.9.eng-9.vtt"
+      },
+      {
+        "episode": 10,
+        "id": "eng-10",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.10.eng-10.vtt"
+      },
+      {
+        "episode": 11,
+        "id": "eng-11",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.11.eng-11.vtt"
+      },
+      {
+        "episode": 12,
+        "id": "eng-12",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.12.eng-12.vtt"
+      },
+      {
+        "episode": 13,
+        "id": "eng-13",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.13.eng-13.vtt"
+      },
+      {
+        "episode": 14,
+        "id": "eng-14",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.14.eng-14.vtt"
+      },
+      {
+        "episode": 15,
+        "id": "eng-15",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.15.eng-15.vtt"
+      },
+      {
+        "episode": 16,
+        "id": "eng-16",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.16.eng-16.vtt"
+      },
+      {
+        "episode": 17,
+        "id": "eng-17",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.17.eng-17.vtt"
+      },
+      {
+        "episode": 18,
+        "id": "eng-18",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.18.eng-18.vtt"
+      },
+      {
+        "episode": 21,
+        "id": "eng-21",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.21.eng-21.vtt"
+      },
+      {
+        "episode": 22,
+        "id": "eng-22",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.22.eng-22.vtt"
+      },
+      {
+        "episode": 24,
+        "id": "eng-24",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.24.eng-24.vtt"
+      },
+      {
+        "episode": 25,
+        "id": "eng-25",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.25.eng-25.vtt"
+      },
+      {
+        "episode": 27,
+        "id": "eng-27",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.27.eng-27.vtt"
+      },
+      {
+        "episode": 28,
+        "id": "eng-28",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.28.eng-28.vtt"
+      },
+      {
+        "episode": 29,
+        "id": "eng-29",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.29.eng-29.vtt"
+      },
+      {
+        "episode": 30,
+        "id": "eng-30",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.30.eng-30.vtt"
+      },
+      {
+        "episode": 31,
+        "id": "eng-31",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.31.eng-31.vtt"
+      },
+      {
+        "episode": 32,
+        "id": "eng-32",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.32.eng-32.vtt"
+      },
+      {
+        "episode": 33,
+        "id": "eng-33",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.33.eng-33.vtt"
+      },
+      {
+        "episode": 34,
+        "id": "eng-34",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.34.eng-34.vtt"
+      },
+      {
+        "episode": 36,
+        "id": "eng-36",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.36.eng-36.vtt"
+      },
+      {
+        "episode": 37,
+        "id": "eng-37",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.37.eng-37.vtt"
+      },
+      {
+        "episode": 38,
+        "id": "eng-38",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.38.eng-38.vtt"
+      },
+      {
+        "episode": 39,
+        "id": "eng-39",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.39.eng-39.vtt"
+      },
+      {
+        "episode": 40,
+        "id": "eng-40",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.40.eng-40.vtt"
+      },
+      {
+        "episode": 41,
+        "id": "eng-41",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.41.eng-41.vtt"
+      },
+      {
+        "episode": 42,
+        "id": "eng-42",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.42.eng-42.vtt"
+      },
+      {
+        "episode": 43,
+        "id": "eng-43",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.43.eng-43.vtt"
+      },
+      {
+        "episode": 44,
+        "id": "eng-44",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.44.eng-44.vtt"
+      },
+      {
+        "episode": 45,
+        "id": "eng-45",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.45.eng-45.vtt"
+      },
+      {
+        "episode": 46,
+        "id": "eng-46",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.46.eng-46.vtt"
+      },
+      {
+        "episode": 47,
+        "id": "eng-47",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.47.eng-47.vtt"
+      },
+      {
+        "episode": 48,
+        "id": "eng-48",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.48.eng-48.vtt"
+      },
+      {
+        "episode": 49,
+        "id": "eng-49",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.49.eng-49.vtt"
+      },
+      {
+        "episode": 50,
+        "id": "eng-50",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.50.eng-50.vtt"
+      },
+      {
+        "episode": 51,
+        "id": "eng-51",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.51.eng-51.vtt"
+      },
+      {
+        "episode": 52,
+        "id": "eng-52",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.52.eng-52.vtt"
+      },
+      {
+        "episode": 53,
+        "id": "eng-53",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.53.eng-53.vtt"
+      },
+      {
+        "episode": 54,
+        "id": "eng-54",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.54.eng-54.vtt"
+      },
+      {
+        "episode": 55,
+        "id": "eng-55",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.55.eng-55.vtt"
+      },
+      {
+        "episode": 56,
+        "id": "eng-56",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.56.eng-56.vtt"
+      },
+      {
+        "episode": 57,
+        "id": "eng-57",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.57.eng-57.vtt"
+      },
+      {
+        "episode": 58,
+        "id": "eng-58",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.58.eng-58.vtt"
+      },
+      {
+        "episode": 59,
+        "id": "eng-59",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.59.eng-59.vtt"
+      },
+      {
+        "episode": 60,
+        "id": "eng-60",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.60.eng-60.vtt"
+      },
+      {
+        "episode": 61,
+        "id": "eng-61",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.61.eng-61.vtt"
+      },
+      {
+        "episode": 62,
+        "id": "eng-62",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-twilight-zone-1959-tv/subdl.62.eng-62.vtt"
+      }
+    ]
+  },
+  "the-world-at-war-1973-tv": {
+    "subtitles": [
+      {
+        "episode": 1,
+        "id": "eng-1",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-world-at-war-1973-tv/subdl.1.eng-1.vtt"
+      },
+      {
+        "episode": 2,
+        "id": "eng-2",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-world-at-war-1973-tv/subdl.2.eng-2.vtt"
+      },
+      {
+        "episode": 3,
+        "id": "eng-3",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-world-at-war-1973-tv/subdl.3.eng-3.vtt"
+      },
+      {
+        "episode": 5,
+        "id": "eng-5",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-world-at-war-1973-tv/subdl.5.eng-5.vtt"
+      },
+      {
+        "episode": 7,
+        "id": "eng-7",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-world-at-war-1973-tv/subdl.7.eng-7.vtt"
+      },
+      {
+        "episode": 8,
+        "id": "eng-8",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-world-at-war-1973-tv/subdl.8.eng-8.vtt"
+      },
+      {
+        "episode": 10,
+        "id": "eng-10",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-world-at-war-1973-tv/subdl.10.eng-10.vtt"
+      },
+      {
+        "episode": 11,
+        "id": "eng-11",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-world-at-war-1973-tv/subdl.11.eng-11.vtt"
+      },
+      {
+        "episode": 12,
+        "id": "eng-12",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-world-at-war-1973-tv/subdl.12.eng-12.vtt"
+      },
+      {
+        "episode": 13,
+        "id": "eng-13",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-world-at-war-1973-tv/subdl.13.eng-13.vtt"
+      },
+      {
+        "episode": 15,
+        "id": "eng-15",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-world-at-war-1973-tv/subdl.15.eng-15.vtt"
+      },
+      {
+        "episode": 16,
+        "id": "eng-16",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-world-at-war-1973-tv/subdl.16.eng-16.vtt"
+      },
+      {
+        "episode": 17,
+        "id": "eng-17",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-world-at-war-1973-tv/subdl.17.eng-17.vtt"
+      },
+      {
+        "episode": 18,
+        "id": "eng-18",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-world-at-war-1973-tv/subdl.18.eng-18.vtt"
+      }
+    ]
+  },
+  "this-is-us-2016-tv": {
+    "subtitles": [
+      {
+        "episode": 0,
+        "id": "eng-0",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/this-is-us-2016-tv/subdl.0.eng-0.vtt"
+      },
+      {
+        "episode": 0,
+        "id": "spa-0",
+        "lang": "spa",
+        "label": "Spanish",
+        "forced": false,
+        "s3_key": "videos/this-is-us-2016-tv/subdl.0.spa-0.vtt"
+      }
+    ]
+  },
+  "wall-e-2008-movie": {
+    "subtitles": [
+      {
+        "episode": 0,
+        "id": "por-0",
+        "lang": "por",
+        "label": "Portuguese",
+        "forced": false,
+        "s3_key": "videos/wall-e-2008-movie/subdl.0.por-0.vtt"
+      },
+      {
+        "episode": 0,
+        "id": "eng-0",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/wall-e-2008-movie/subdl.0.eng-0.vtt"
+      },
+      {
+        "episode": 0,
+        "id": "spa-0",
+        "lang": "spa",
+        "label": "Spanish",
+        "forced": false,
+        "s3_key": "videos/wall-e-2008-movie/subdl.0.spa-0.vtt"
+      }
+    ]
+  },
+  "what-we-do-in-the-shadows-2019-tv": {
+    "subtitles": [
+      {
+        "episode": 2,
+        "id": "spa-2",
+        "lang": "spa",
+        "label": "Spanish",
+        "forced": false,
+        "s3_key": "videos/what-we-do-in-the-shadows-2019-tv/subdl.2.spa-2.vtt"
+      }
+    ]
+  },
+  "when-they-see-us-2019-tv": {
+    "subtitles": [
+      {
+        "episode": 1,
+        "id": "por-1",
+        "lang": "por",
+        "label": "Portuguese",
+        "forced": false,
+        "s3_key": "videos/when-they-see-us-2019-tv/subdl.1.por-1.vtt"
+      },
+      {
+        "episode": 1,
+        "id": "spa-1",
+        "lang": "spa",
+        "label": "Spanish",
+        "forced": false,
+        "s3_key": "videos/when-they-see-us-2019-tv/subdl.1.spa-1.vtt"
+      }
+    ]
+  },
+  "oldboy-2003-movie": {
+    "subtitles": [
+      {
+        "episode": 0,
+        "id": "eng-0",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/oldboy-2003-movie/subdl.0.eng-0.vtt"
+      },
+      {
+        "episode": 0,
+        "id": "spa-0",
+        "lang": "spa",
+        "label": "Spanish",
+        "forced": false,
+        "s3_key": "videos/oldboy-2003-movie/subdl.0.spa-0.vtt"
+      }
+    ]
+  },
+  "demon-slayer-mugen-train-2020-movie": {
+    "subtitles": [
+      {
+        "episode": 0,
+        "id": "por",
+        "lang": "por",
+        "label": "Portuguese",
+        "forced": false,
+        "s3_key": "videos/demon-slayer-mugen-train-2020-movie/external.0.por.vtt"
+      },
+      {
+        "episode": 0,
+        "id": "eng",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/demon-slayer-mugen-train-2020-movie/external.0.eng.vtt"
+      },
+      {
+        "episode": 0,
+        "id": "spa",
+        "lang": "spa",
+        "label": "Spanish",
+        "forced": false,
+        "s3_key": "videos/demon-slayer-mugen-train-2020-movie/external.0.spa.vtt"
+      }
+    ]
+  },
+  "kill-bill-vol-1-2003-movie": {
+    "subtitles": [
+      {
+        "episode": 0,
+        "id": "por",
+        "lang": "por",
+        "label": "Portuguese",
+        "forced": false,
+        "s3_key": "videos/kill-bill-vol-1-2003-movie/external.0.por.vtt"
+      },
+      {
+        "episode": 0,
+        "id": "eng",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/kill-bill-vol-1-2003-movie/external.0.eng.vtt"
+      },
+      {
+        "episode": 0,
+        "id": "spa",
+        "lang": "spa",
+        "label": "Spanish",
+        "forced": false,
+        "s3_key": "videos/kill-bill-vol-1-2003-movie/external.0.spa.vtt"
+      }
+    ]
+  },
+  "top-gun-maverick-2022-movie": {
+    "subtitles": [
+      {
+        "episode": 0,
+        "id": "por",
+        "lang": "por",
+        "label": "Portuguese",
+        "forced": false,
+        "s3_key": "videos/top-gun-maverick-2022-movie/external.0.por.vtt"
+      },
+      {
+        "episode": 0,
+        "id": "eng",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/top-gun-maverick-2022-movie/external.0.eng.vtt"
+      },
+      {
+        "episode": 0,
+        "id": "spa",
+        "lang": "spa",
+        "label": "Spanish",
+        "forced": false,
+        "s3_key": "videos/top-gun-maverick-2022-movie/external.0.spa.vtt"
+      }
+    ]
+  },
+  "the-honeymooners-1955-tv": {
+    "subtitles": [
+      {
+        "episode": 0,
+        "id": "eng",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/the-honeymooners-1955-tv/external.0.eng.vtt"
       }
     ]
   }
