@@ -20936,7 +20936,7 @@
       "trailer_subtitles": [],
       "attachments": [],
       "poster_s3_key": null,
-      "encrypted": false,
+      "encrypted": true,
       "media_codecs": null,
       "torrent_options_720p": [
         {
@@ -20980,7 +20980,8 @@
           "contentScore": 1000
         }
       ],
-      "current_torrent_index_720p": 0
+      "current_torrent_index_720p": 0,
+      "hls_playlist_s3_key": "videos/modern-family-2009-tv/hls"
     },
     {
       "id": "entourage-2004-tv",
@@ -24642,7 +24643,8 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": true,
-      "media_codecs": "avc1.64001f, mp4a.40.2"
+      "media_codecs": "avc1.64001f, mp4a.40.2",
+      "hls_playlist_s3_key": "videos/amadeus-1984-movie/hls/index.m3u8"
     },
     {
       "id": "brooklyn-nine-nine-2013-tv",
