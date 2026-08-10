@@ -54,7 +54,6 @@ const TARGET_LANGS = ["eng", "por", "spa"];
 
 const LANG_IETF = { eng: "en", por: "pt-br", spa: "es" };
 const LANG_LABEL = { eng: "English", por: "Português", spa: "Español" };
-const SUBDL_LANG = { eng: "english", por: "portuguese", spa: "spanish" };
 const YIFY_LANG = {
   eng: ["english"],
   por: ["brazilian-portuguese", "brazilian", "portuguese"],
@@ -376,32 +375,35 @@ function pickBestPerLang(results, targetLangs, episodeOpt) {
   return byLang;
 }
 
-// ─── SubDL ───────────────────────────────────────────────────────────────────
+// ─── SubDL (official API: https://subdl.com/api-doc) ─────────────────────────
 
-async function subdlSearch(query) {
-  const url = `https://subdl.com/search/${encodeURIComponent(query.replace(/\s+/g, "+"))}`;
-  const res = await fetch(url, {
-    headers: { "User-Agent": "Mozilla/5.0" },
+const SUBDL_API_KEY = process.env.SUBDL_API_KEY;
+const SUBDL_LANG_CODE = { eng: "EN", por: "PT_BR", spa: "ES" };
+
+async function subdlFetch(target, langs) {
+  if (!SUBDL_API_KEY) return [];
+  const params = new URLSearchParams({
+    api_key: SUBDL_API_KEY,
+    languages: langs.map((l) => SUBDL_LANG_CODE[l]).join(","),
+    unpack: "1",
+    type: target.type,
   });
-  if (!res.ok) return null;
-  const html = await res.text();
-  // Find first result link
-  const m = html.match(/href="\/(movie|tvshow|series)\/([^"]+)"/);
-  if (!m) return null;
-  return { type: m[1], slug: m[2] };
+  if (target.realImdb) params.set("imdb_id", target.realImdb);
+  else params.set("film_name", target.searchQuery || target.realTitle);
+  if (target.type === "tv") params.set("full_season", "1");
+
+  const res = await fetch(`https://api.subdl.com/api/v1/subtitles?${params}`);
+  const data = await res.json();
+  if (!data.status) return [];
+  return data.subtitles || [];
 }
 
-async function subdlDownload(sdId, destPath) {
-  const dlUrl = `https://dl.subdl.com/subtitle/${sdId}.zip`;
+async function subdlDownloadDirect(url, destPath) {
+  const fullUrl = url.startsWith("http") ? url : `https://dl.subdl.com${url}`;
   let lastErr;
   for (let attempt = 0; attempt < 4; attempt++) {
     try {
-      const res = await fetch(dlUrl, {
-        headers: {
-          "User-Agent": "Mozilla/5.0",
-          Referer: "https://subdl.com",
-        },
-      });
+      const res = await fetch(fullUrl);
       if (res.status === 429) {
         const wait = 10000 * (attempt + 1);
         console.log(`    429, waiting ${wait / 1000}s...`);
@@ -410,8 +412,13 @@ async function subdlDownload(sdId, destPath) {
       }
       if (!res.ok) throw new Error(`subdl dl ${res.status}`);
       const buf = Buffer.from(await res.arrayBuffer());
-      const extracted = extractSubFromZip(buf);
-      const subContent = subToVtt(extracted.content);
+      let subContent;
+      try {
+        const extracted = extractSubFromZip(buf);
+        subContent = subToVtt(extracted.content);
+      } catch {
+        subContent = subToVtt(buf); // direct .srt, not a zip
+      }
       await uploadToS3(destPath, subContent);
       return true;
     } catch (e) {
@@ -420,33 +427,6 @@ async function subdlDownload(sdId, destPath) {
     }
   }
   throw lastErr;
-}
-
-function parseSubDlPage(html, langSlug, episodeOpt) {
-  const results = [];
-  // Extract dl links with episode info
-  const dlRegex =
-    /href="https:\/\/dl\.subdl\.com\/subtitle\/(\d+)"[^>]*>.*?(?:S(\d+)E(\d+))?/gs;
-  // Simpler: just find all subtitle IDs on the page
-  const idMatches = [...html.matchAll(/dl\.subdl\.com\/subtitle\/(\d+)/g)];
-  const seen = new Set();
-  for (const m of idMatches) {
-    const id = m[1];
-    if (seen.has(id)) continue;
-    seen.add(id);
-    results.push(id);
-  }
-  return results;
-}
-
-async function fetchSubDlLang(slug, langSlug, episodeOpt) {
-  const url = `https://subdl.com/${slug}/${langSlug}`;
-  const res = await fetch(url, {
-    headers: { "User-Agent": "Mozilla/5.0" },
-  });
-  if (!res.ok) return [];
-  const html = await res.text();
-  return parseSubDlPage(html, langSlug, episodeOpt);
 }
 
 // ─── Yifysubtitles ───────────────────────────────────────────────────────────
@@ -622,24 +602,59 @@ async function main() {
       continue;
     }
 
-    // ── Strategy 2: SubDL by title ──
+    // ── Strategy 2: SubDL (official API) ──
     console.log(`  SubDL: searching for "${target.realTitle}"...`);
     try {
-      const sdResult = await subdlSearch(target.searchQuery || target.realTitle);
-      if (sdResult) {
-        console.log(`  SubDL: found ${sdResult.slug}`);
+      const releases = await subdlFetch(target, stillMissing);
+      if (releases.length === 0) {
+        console.log(`  SubDL: not found`);
+      } else {
+        console.log(`  SubDL: ${releases.length} release(s) found`);
         for (const lang of stillMissing) {
-          const langSlug = SUBDL_LANG[lang];
-          try {
-            const subIds = await fetchSubDlLang(sdResult.slug, langSlug, target);
-            if (subIds.length > 0) {
-              if (target.type === "movie") {
-                const s3Key = `videos/${id}/subdl.0.${lang}.vtt`;
-                await subdlDownload(subIds[0], s3Key);
-                console.log(`    [SubDL ${lang}] ✓ uploaded`);
+          const wantCode = SUBDL_LANG_CODE[lang];
+          const files = releases.flatMap((r) =>
+            (r.unpack_files || []).filter((f) => f.language === wantCode)
+          );
+          if (files.length === 0) continue;
+
+          if (target.type === "movie") {
+            const f = files[0];
+            const s3Key = `videos/${id}/subdl.0.${lang}.vtt`;
+            try {
+              await subdlDownloadDirect(f.url, s3Key);
+              console.log(`    [SubDL ${lang}] ✓ uploaded`);
+              if (!backfill[id]) backfill[id] = { subtitles: [] };
+              backfill[id].subtitles.push({
+                episode: 0,
+                id: lang,
+                lang,
+                label: LANG_LABEL[lang],
+                forced: false,
+                s3_key: s3Key,
+              });
+              totalUploaded++;
+              foundThisTitle = true;
+            } catch (e) {
+              console.log(`    [SubDL ${lang}] ✗ ${e.message}`);
+            }
+          } else {
+            // TV: merge per-episode files across every release found, first hit wins
+            const byEpisode = new Map();
+            for (const f of files) {
+              const ep = f.episode;
+              if (!ep || ep < 1 || (target.episodes && ep > target.episodes)) continue;
+              if (!byEpisode.has(ep)) byEpisode.set(ep, f);
+            }
+            for (const [ep, f] of [...byEpisode.entries()].sort((a, b) => a[0] - b[0])) {
+              const s3Key = `videos/${id}/subdl.${ep}.${lang}.vtt`;
+              const already = (backfill[id]?.subtitles || []).some((s) => s.s3_key === s3Key);
+              if (already) continue;
+              try {
+                await subdlDownloadDirect(f.url, s3Key);
+                console.log(`    [SubDL ep${ep} ${lang}] ✓ uploaded`);
                 if (!backfill[id]) backfill[id] = { subtitles: [] };
                 backfill[id].subtitles.push({
-                  episode: 0,
+                  episode: ep,
                   id: lang,
                   lang,
                   label: LANG_LABEL[lang],
@@ -648,43 +663,14 @@ async function main() {
                 });
                 totalUploaded++;
                 foundThisTitle = true;
-              } else {
-                // TV: download all available
-                for (let i = 0; i < Math.min(subIds.length, target.episodes || 1); i++) {
-                  const ep = i + 1;
-                  const s3Key = `videos/${id}/subdl.${ep}.${lang}.vtt`;
-                  const already = (backfill[id]?.subtitles || []).some(
-                    (s) => s.s3_key === s3Key
-                  );
-                  if (already) continue;
-                  try {
-                    await subdlDownload(subIds[i], s3Key);
-                    console.log(`    [SubDL ep${ep} ${lang}] ✓ uploaded`);
-                    if (!backfill[id]) backfill[id] = { subtitles: [] };
-                    backfill[id].subtitles.push({
-                      episode: ep,
-                      id: lang,
-                      lang,
-                      label: LANG_LABEL[lang],
-                      forced: false,
-                      s3_key: s3Key,
-                    });
-                    totalUploaded++;
-                    foundThisTitle = true;
-                  } catch (e) {
-                    console.log(`    [SubDL ep${ep} ${lang}] ✗ ${e.message}`);
-                  }
-                  await sleep(3000);
-                }
+              } catch (e) {
+                console.log(`    [SubDL ep${ep} ${lang}] ✗ ${e.message}`);
               }
+              await sleep(1500);
             }
-          } catch (e) {
-            console.log(`    [SubDL ${lang}] ✗ ${e.message}`);
           }
-          await sleep(2000);
+          await sleep(1000);
         }
-      } else {
-        console.log(`  SubDL: not found`);
       }
     } catch (e) {
       console.log(`  SubDL error: ${e.message}`);

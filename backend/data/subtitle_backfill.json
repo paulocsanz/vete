@@ -1843,6 +1843,26 @@
       }
     ]
   },
+  "crash-landing-on-you-2019-tv": {
+    "subtitles": [
+      {
+        "episode": 0,
+        "id": "eng",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/crash-landing-on-you-2019-tv/subdl.0.eng.vtt"
+      },
+      {
+        "episode": 0,
+        "id": "spa",
+        "lang": "spa",
+        "label": "Español",
+        "forced": false,
+        "s3_key": "videos/crash-landing-on-you-2019-tv/subdl.0.spa.vtt"
+      }
+    ]
+  },
   "curb-your-enthusiasm-2000-tv": {
     "subtitles": [
       {
@@ -3272,6 +3292,114 @@
         "label": "Portuguese",
         "forced": false,
         "s3_key": "videos/howl-s-moving-castle-2004-movie/external.0.por.vtt"
+      }
+    ]
+  },
+  "i-claudius-1976-tv": {
+    "subtitles": [
+      {
+        "episode": 1,
+        "id": "eng",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/i-claudius-1976-tv/subdl.1.eng.vtt"
+      },
+      {
+        "episode": 2,
+        "id": "eng",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/i-claudius-1976-tv/subdl.2.eng.vtt"
+      },
+      {
+        "episode": 3,
+        "id": "eng",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/i-claudius-1976-tv/subdl.3.eng.vtt"
+      },
+      {
+        "episode": 4,
+        "id": "eng",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/i-claudius-1976-tv/subdl.4.eng.vtt"
+      },
+      {
+        "episode": 5,
+        "id": "eng",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/i-claudius-1976-tv/subdl.5.eng.vtt"
+      },
+      {
+        "episode": 6,
+        "id": "eng",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/i-claudius-1976-tv/subdl.6.eng.vtt"
+      },
+      {
+        "episode": 7,
+        "id": "eng",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/i-claudius-1976-tv/subdl.7.eng.vtt"
+      },
+      {
+        "episode": 8,
+        "id": "eng",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/i-claudius-1976-tv/subdl.8.eng.vtt"
+      },
+      {
+        "episode": 9,
+        "id": "eng",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/i-claudius-1976-tv/subdl.9.eng.vtt"
+      },
+      {
+        "episode": 10,
+        "id": "eng",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/i-claudius-1976-tv/subdl.10.eng.vtt"
+      },
+      {
+        "episode": 11,
+        "id": "eng",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/i-claudius-1976-tv/subdl.11.eng.vtt"
+      },
+      {
+        "episode": 12,
+        "id": "eng",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/i-claudius-1976-tv/subdl.12.eng.vtt"
+      },
+      {
+        "episode": 13,
+        "id": "eng",
+        "lang": "eng",
+        "label": "English",
+        "forced": false,
+        "s3_key": "videos/i-claudius-1976-tv/subdl.13.eng.vtt"
       }
     ]
   },
