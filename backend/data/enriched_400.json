@@ -22033,7 +22033,8 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": true,
-      "media_codecs": "avc1.64001f, mp4a.40.2"
+      "media_codecs": "avc1.64001f, mp4a.40.2",
+      "hls_playlist_s3_key": "videos/the-prestige-2006-movie/hls/index.m3u8"
     },
     {
       "id": "alien-1979-movie",
