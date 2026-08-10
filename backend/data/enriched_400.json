@@ -15884,7 +15884,7 @@
       "trailer_subtitles": [],
       "attachments": [],
       "poster_s3_key": null,
-      "encrypted": false,
+      "encrypted": true,
       "media_codecs": null,
       "torrent_options_720p": [
         {
@@ -15896,7 +15896,8 @@
           "contentScore": 550
         }
       ],
-      "current_torrent_index_720p": 0
+      "current_torrent_index_720p": 0,
+      "hls_playlist_s3_key": "videos/solo-leveling-2024-tv/hls"
     },
     {
       "id": "dexter-2006-tv",
