@@ -22910,7 +22910,8 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": true,
-      "media_codecs": "avc1.640029, mp4a.40.2"
+      "media_codecs": "avc1.640029, mp4a.40.2",
+      "hls_playlist_s3_key": "videos/casablanca-1942-movie/hls/index.m3u8"
     },
     {
       "id": "back-to-the-future-1985-movie",
