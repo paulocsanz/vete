@@ -63,5 +63,6 @@
   "django-unchained-2012-movie": "videos/django-unchained-2012-movie/hls/index.m3u8",
   "modern-times-1936-movie": "videos/modern-times-1936-movie/hls/index.m3u8",
   "entourage-2004-tv": "videos/entourage-2004-tv/hls/index.m3u8",
-  "parasite-2019-movie": "videos/parasite-2019-movie/hls/index.m3u8"
+  "parasite-2019-movie": "videos/parasite-2019-movie/hls/index.m3u8",
+  "cinema-paradiso-1988-movie": "videos/cinema-paradiso-1988-movie/hls/index.m3u8"
 }
