@@ -29624,15 +29624,45 @@
       "media_codecs": null,
       "torrent_options_720p": [
         {
-          "title": "Won't You Be My Neighbor (2018) [WEBRip] [720p] [YTS.AM]",
-          "magnet": "magnet:?xt=urn:btih:49ED88DF6B9B990B206E88B7BA4C6105770BA07F&dn=Won%27t+You+Be+My+Neighbor+%282018%29+%5BWEBRip%5D+%5B720p%5D+%5BYTS.AM%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.ololosh.space%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dump.cl%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.bittor.pw%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.free-tracker.ga%3A6969%2Fannounce&tr=udp%3A%2F%2Fns-1.x-fins.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fleet-tracker.moe%3A1337%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.open-internet.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fdenis.stalker.upeer.me%3A6969%2Fannounce",
-          "seeders": 13,
-          "size": "791.08 MB",
-          "provider": "Limetorrents",
-          "contentScore": 800
+          "title": "Won't You Be My Neighbor? 2018 720p BluRay",
+          "magnet": "magnet:?xt=urn:btih:c45ef19ae61e85aeff84305fe9f5d00eae8db380&dn=Won't%20You%20Be%20My%20Neighbor%3F%202018%20720p%20BluRay&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 2,
+          "size": "792.97 MB",
+          "provider": "Torrentio"
         }
       ],
-      "current_torrent_index_720p": 0
+      "current_torrent_index_720p": 0,
+      "torrent_options": [
+        {
+          "title": "Won't You Be My Neighbor? 2018 1080p WEBRip",
+          "magnet": "magnet:?xt=urn:btih:e49e09030acc96248493e97770a927af09a6d51c&dn=Won't%20You%20Be%20My%20Neighbor%3F%202018%201080p%20WEBRip&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 11,
+          "size": "1.5 GB",
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Won't You Be My Neighbor? 2018 1080p BluRay",
+          "magnet": "magnet:?xt=urn:btih:a362ffc7f875a627b0993b40202bc5ae5ca5a4db&dn=Won't%20You%20Be%20My%20Neighbor%3F%202018%201080p%20BluRay&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 10,
+          "size": "1.5 GB",
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Wont You Be My Neighbor (2018) (1080p BluRay X265 HEVC 10bit DTS 5.1 Qman) [UTR]",
+          "magnet": "magnet:?xt=urn:btih:6c8a35d003c4caaf7b5f96b8a036318969b65891&dn=Wont%20You%20Be%20My%20Neighbor%20(2018)%20(1080p%20BluRay%20X265%20HEVC%2010bit%20DTS%205.1%20Qman)%20%5BUTR%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 4,
+          "size": "3.5 GB",
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Wont You Be My Neighbor 2018 1080p BluRay x264-OFT",
+          "magnet": "magnet:?xt=urn:btih:37162ae4dbba6ad972ed6af066a28d96ffdf4be4&dn=Wont%20You%20Be%20My%20Neighbor%202018%201080p%20BluRay%20x264-OFT&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 1,
+          "size": "4.09 GB",
+          "provider": "Torrentio"
+        }
+      ],
+      "current_torrent_index": 0
     },
     {
       "id": "citizen-kane-1941-movie",
@@ -48034,16 +48064,58 @@
       "poster_s3_key": null,
       "encrypted": false,
       "media_codecs": null,
-      "torrent_options_720p": [],
+      "torrent_options_720p": [
+        {
+          "title": "The Man Who Copied 2003 720p WEBRip",
+          "magnet": "magnet:?xt=urn:btih:9e85bc1b60fd57f4fbfc57f24d3c659c13220fce&dn=The%20Man%20Who%20Copied%202003%20720p%20WEBRip&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 3,
+          "size": "1.12 GB",
+          "provider": "Torrentio"
+        },
+        {
+          "title": "The Man Who Copied (2003) 720p WEBRip-WORLD",
+          "magnet": "magnet:?xt=urn:btih:4c933d8ebdec9604457561d89486fc1205e97a4b&dn=The%20Man%20Who%20Copied%20(2003)%20720p%20WEBRip-WORLD&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": "1.12 GB",
+          "provider": "Torrentio"
+        },
+        {
+          "title": "O Homem Que Copiava 2003 5.1 (720p) LAPUMiA",
+          "magnet": "magnet:?xt=urn:btih:e68839c50f6e2208b63f1144191e934242686d81&dn=O%20Homem%20Que%20Copiava%202003%205.1%20(720p)%20LAPUMiA&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": "2.01 GB",
+          "provider": "Torrentio"
+        }
+      ],
       "current_torrent_index_720p": 0,
       "torrent_options": [
         {
-          "title": "The Man Who Copied (2003) [1080p] [WEBRip]",
-          "magnet": "magnet:?xt=urn:btih:90F3DA1C5C6B82A99A6E46B561686B379F7F4D38&dn=The+Man+Who+Copied+%282003%29+%5B1080p%5D+%5BWEBRip%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.ololosh.space%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dump.cl%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.bittor.pw%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker01-msk-virt.corbina.net%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.free-tracker.ga%3A6969%2Fannounce&tr=udp%3A%2F%2Fns-1.x-fins.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fleet-tracker.moe%3A1337%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.open-internet.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Fdenis.stalker.upeer.me%3A6969%2Fannounce",
-          "seeders": 21,
+          "title": "O Homem que Copiava 2003 1080p ITAU WEB-DL AAC2 0 H 264-BiOMA",
+          "magnet": "magnet:?xt=urn:btih:1dbcd866500db0f818e7610ea83da8439d59192a&dn=O%20Homem%20que%20Copiava%202003%201080p%20ITAU%20WEB-DL%20AAC2%200%20H%20264-BiOMA&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 4,
+          "size": "4.04 GB",
+          "provider": "Torrentio"
+        },
+        {
+          "title": "The Man Who Copied 2003 1080p WEBRip",
+          "magnet": "magnet:?xt=urn:btih:90f3da1c5c6b82a99a6e46b561686b379f7f4d38&dn=The%20Man%20Who%20Copied%202003%201080p%20WEBRip&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 2,
           "size": "2.08 GB",
-          "provider": "Limetorrents",
-          "contentScore": 800
+          "provider": "Torrentio"
+        },
+        {
+          "title": "The Man Who Copied (2003) 1080p WEBRip-WORLD",
+          "magnet": "magnet:?xt=urn:btih:e2cf99a16bde770509643d80ecc1bcf10ca77b94&dn=The%20Man%20Who%20Copied%20(2003)%201080p%20WEBRip-WORLD&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": "2.08 GB",
+          "provider": "Torrentio"
+        },
+        {
+          "title": "O Homem Que Copiava 2003 5.1 (1080p) LAPUMiA",
+          "magnet": "magnet:?xt=urn:btih:8d77ec7ff8ad809ba17fcd8be0a75315c05e742f&dn=O%20Homem%20Que%20Copiava%202003%205.1%20(1080p)%20LAPUMiA&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": "4.16 GB",
+          "provider": "Torrentio"
         }
       ],
       "current_torrent_index": 0
@@ -52658,7 +52730,41 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [
+        {
+          "title": "Lavoura Arcaica 2001 1080p WEBRip",
+          "magnet": "magnet:?xt=urn:btih:e66b71501128bcb29b3dc18943bcbf4cf8b54209&dn=Lavoura%20Arcaica%202001%201080p%20WEBRip&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 1,
+          "size": "2.85 GB",
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Lavoura Arcaica (2001) 1080p WEBRip-WORLD",
+          "magnet": "magnet:?xt=urn:btih:3efd36aebc1985a88a58c2d61b6ba8f5a128e9a2&dn=Lavoura%20Arcaica%20(2001)%201080p%20WEBRip-WORLD&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": "2.85 GB",
+          "provider": "Torrentio"
+        }
+      ],
+      "torrent_options_720p": [
+        {
+          "title": "Lavoura Arcaica (2001) 720p WEBRip-WORLD",
+          "magnet": "magnet:?xt=urn:btih:bfa54aa495e96c3e13732eafe9c269411a553328&dn=Lavoura%20Arcaica%20(2001)%20720p%20WEBRip-WORLD&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": "1.53 GB",
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Lavoura Arcaica 2001 720p WEBRip",
+          "magnet": "magnet:?xt=urn:btih:f550aceb3660e356b705653c8eb739ab6683f130&dn=Lavoura%20Arcaica%202001%20720p%20WEBRip&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": "1.53 GB",
+          "provider": "Torrentio"
+        }
+      ],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "toma-la-da-ca-2007-tv",
