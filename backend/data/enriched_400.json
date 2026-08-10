@@ -23598,7 +23598,8 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": true,
-      "media_codecs": "avc1.640028, mp4a.40.2"
+      "media_codecs": "avc1.640028, mp4a.40.2",
+      "hls_playlist_s3_key": "videos/raiders-of-the-lost-ark-1981-movie/hls/index.m3u8"
     },
     {
       "id": "paths-of-glory-1957-movie",
