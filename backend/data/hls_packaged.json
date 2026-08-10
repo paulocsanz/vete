@@ -97,5 +97,6 @@
   "modern-family-2009-tv": "videos/modern-family-2009-tv/hls",
   "star-wars-the-clone-wars-2008-tv": "videos/star-wars-the-clone-wars-2008-tv/hls/index.m3u8",
   "taxi-1978-tv": "videos/taxi-1978-tv/hls/index.m3u8",
-  "the-andy-griffith-show-1960-tv": "videos/the-andy-griffith-show-1960-tv/hls/index.m3u8"
+  "the-andy-griffith-show-1960-tv": "videos/the-andy-griffith-show-1960-tv/hls/index.m3u8",
+  "joker-2019-movie": "videos/joker-2019-movie/hls/index.m3u8"
 }
