@@ -23538,8 +23538,9 @@
       "trailer_subtitles": [],
       "attachments": [],
       "poster_s3_key": null,
-      "encrypted": false,
-      "media_codecs": null
+      "encrypted": true,
+      "media_codecs": null,
+      "hls_playlist_s3_key": "videos/the-cove-2009-movie/hls/index.m3u8"
     },
     {
       "id": "raiders-of-the-lost-ark-1981-movie",
