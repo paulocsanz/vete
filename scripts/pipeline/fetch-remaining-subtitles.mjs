@@ -23,8 +23,30 @@ const ROOT = path.join(__dirname, "..", "..");
 const BACKFILL_PATH = path.join(ROOT, "backend", "data", "subtitle_backfill.json");
 
 const API_KEY = process.env.OPENSUBTITLES_API_KEY;
-const TOKEN = process.env.OPENSUBTITLES_TOKEN;
-const BACKFILL_TOKEN = "gfHFkcUgmdaHApXlfUQojdf8nVUYVMF8"; // dev-mode token
+const OS_USERNAME = process.env.OPENSUBTITLES_USERNAME;
+const OS_PASSWORD = process.env.OPENSUBTITLES_PASSWORD;
+const OS_USER_AGENT = process.env.OPENSUBTITLES_USER_AGENT || "tv-platform v1.0";
+
+let cachedToken = process.env.OPENSUBTITLES_TOKEN || null;
+async function getToken() {
+  if (cachedToken) return cachedToken;
+  if (!OS_USERNAME || !OS_PASSWORD) return null;
+  const res = await fetch("https://api.opensubtitles.com/api/v1/login", {
+    method: "POST",
+    headers: {
+      "Api-Key": API_KEY,
+      "User-Agent": OS_USER_AGENT,
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify({ username: OS_USERNAME, password: OS_PASSWORD }),
+  });
+  const data = await res.json();
+  if (!res.ok || !data.token) {
+    throw new Error(`OS login failed: ${JSON.stringify(data).slice(0, 200)}`);
+  }
+  cachedToken = data.token;
+  return cachedToken;
+}
 
 // ─── Config ──────────────────────────────────────────────────────────────────
 
@@ -279,14 +301,14 @@ async function osSearchByImdb(imdbId, langs, episodeOpt) {
   if (episodeOpt?.season) params.set("season_number", episodeOpt.season);
   if (episodeOpt?.episode) params.set("episode_number", episodeOpt.episode);
 
-  const data = await osFetch(`/subtitles?${params}`, { token: TOKEN || BACKFILL_TOKEN });
+  const data = await osFetch(`/subtitles?${params}`, { token: await getToken() });
   return data.data || [];
 }
 
 async function osSearchByQuery(query, langs) {
   const langStr = langs.map((l) => LANG_IETF[l]).join(",");
   const params = new URLSearchParams({ query, languages: langStr });
-  const data = await osFetch(`/subtitles?${params}`, { token: TOKEN || BACKFILL_TOKEN });
+  const data = await osFetch(`/subtitles?${params}`, { token: await getToken() });
   return data.data || [];
 }
 
@@ -295,7 +317,7 @@ async function osDownload(fileId, destPath, legacySubId) {
     const data = await osFetch("/download", {
       method: "POST",
       body: { file_id: fileId },
-      token: TOKEN || BACKFILL_TOKEN,
+      token: await getToken(),
     });
     const link = data.link;
     const res = await fetch(link);
@@ -434,7 +456,7 @@ async function yifyFetchLinks(imdbId, targetLangs) {
   const res = await fetch(url, {
     headers: { "User-Agent": "Mozilla/5.0" },
   });
-  if (!res.ok) return {};
+  if (!res.ok) return { cookie: "", byLang: {} };
 
   // Get cookie
   const setCookie = res.headers.get("set-cookie") || "";
