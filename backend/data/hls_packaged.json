@@ -78,5 +78,6 @@
   "memento-2000-movie": "videos/memento-2000-movie/hls/index.m3u8",
   "the-great-dictator-1940-movie": "videos/the-great-dictator-1940-movie/hls/index.m3u8",
   "the-cove-2009-movie": "videos/the-cove-2009-movie/hls/index.m3u8",
-  "raiders-of-the-lost-ark-1981-movie": "videos/raiders-of-the-lost-ark-1981-movie/hls/index.m3u8"
+  "raiders-of-the-lost-ark-1981-movie": "videos/raiders-of-the-lost-ark-1981-movie/hls/index.m3u8",
+  "paths-of-glory-1957-movie": "videos/paths-of-glory-1957-movie/hls/index.m3u8"
 }

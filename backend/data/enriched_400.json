@@ -23657,7 +23657,8 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": true,
-      "media_codecs": "avc1.64002a, mp4a.40.2"
+      "media_codecs": "avc1.64002a, mp4a.40.2",
+      "hls_playlist_s3_key": "videos/paths-of-glory-1957-movie/hls/index.m3u8"
     },
     {
       "id": "pachinko-2022-tv",
