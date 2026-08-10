@@ -8152,7 +8152,7 @@
       "trailer_subtitles": [],
       "attachments": [],
       "poster_s3_key": null,
-      "encrypted": false,
+      "encrypted": true,
       "media_codecs": null,
       "torrent_options_720p": [
         {
@@ -8164,7 +8164,8 @@
           "contentScore": 750
         }
       ],
-      "current_torrent_index_720p": 0
+      "current_torrent_index_720p": 0,
+      "hls_playlist_s3_key": "videos/solo-leveling-arise-from-the-shadow-2025-tv/hls"
     },
     {
       "id": "fight-club-1999-movie",
