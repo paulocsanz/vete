@@ -22546,7 +22546,8 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": true,
-      "media_codecs": "avc1.64001f, mp4a.40.2"
+      "media_codecs": "avc1.64001f, mp4a.40.2",
+      "hls_playlist_s3_key": "videos/the-lion-king-1994-movie/hls/index.m3u8"
     },
     {
       "id": "the-professional-1994-movie",
@@ -116500,7 +116501,7 @@
       "title_pt": "RuPaul's Drag Race Brasil",
       "year": 2021,
       "id": "rupauls-drag-race-brasil-2021-tv",
-      "imdb_id": "tt14792058",
+      "imdb_id": "tt24251630",
       "creator": "RuPaul",
       "genres": [
         "Reality-TV"
@@ -116518,7 +116519,7 @@
       "content_type": "tv",
       "original_title": null,
       "director": null,
-      "curated_imdb_rating": null,
+      "curated_imdb_rating": 8,
       "poster_url": null,
       "backdrop_url": null,
       "actors": [],
@@ -116541,14 +116542,16 @@
       "encrypted": false,
       "media_codecs": null,
       "current_torrent_index": 0,
-      "current_torrent_index_720p": 0
+      "current_torrent_index_720p": 0,
+      "imdb_rating": 8,
+      "imdb_votes": "4,872"
     },
     {
       "title": "RuPaul's Drag Race All Stars",
       "title_pt": "RuPaul's Drag Race All Stars",
       "year": 2012,
       "id": "rupauls-drag-race-all-stars-2012-tv",
-      "imdb_id": "tt3173600",
+      "imdb_id": "tt2301351",
       "creator": "RuPaul",
       "genres": [
         "Reality-TV",
@@ -116573,7 +116576,7 @@
       "content_type": "tv",
       "original_title": null,
       "director": null,
-      "curated_imdb_rating": null,
+      "curated_imdb_rating": 8.5,
       "poster_url": null,
       "backdrop_url": null,
       "awards": null,
@@ -116595,7 +116598,9 @@
       "encrypted": false,
       "media_codecs": null,
       "current_torrent_index": 0,
-      "current_torrent_index_720p": 0
+      "current_torrent_index_720p": 0,
+      "imdb_rating": 8.5,
+      "imdb_votes": "10,911"
     }
   ]
 }
