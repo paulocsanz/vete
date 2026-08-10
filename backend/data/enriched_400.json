@@ -32260,9 +32260,20 @@
       "trailer_key": "zdqCqDSTVNI",
       "enrichment_status": "ok",
       "torrent_file": null,
-      "s3_key": null,
-      "s3_keys": [],
-      "subtitles": [],
+      "s3_key": "videos/taxi-driver-1976-movie/TaxiDriver720pmkv.mp4",
+      "s3_keys": [
+        "videos/taxi-driver-1976-movie/TaxiDriver720pmkv.mp4"
+      ],
+      "subtitles": [
+        {
+          "episode": 0,
+          "id": "eng",
+          "lang": "eng",
+          "label": "English",
+          "forced": false,
+          "s3_key": "videos/taxi-driver-1976-movie/TaxiDriver720pmkv.eng.vtt"
+        }
+      ],
       "episodes": [],
       "keywords": [],
       "award_entries": [],
