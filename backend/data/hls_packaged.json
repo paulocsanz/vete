@@ -74,5 +74,6 @@
   "city-lights-1931-movie": "videos/city-lights-1931-movie/hls/index.m3u8",
   "casablanca-1942-movie": "videos/casablanca-1942-movie/hls/index.m3u8",
   "back-to-the-future-1985-movie": "videos/back-to-the-future-1985-movie/hls/index.m3u8",
-  "apocalypse-now-1979-movie": "videos/apocalypse-now-1979-movie/hls/index.m3u8"
+  "apocalypse-now-1979-movie": "videos/apocalypse-now-1979-movie/hls/index.m3u8",
+  "memento-2000-movie": "videos/memento-2000-movie/hls/index.m3u8"
 }
