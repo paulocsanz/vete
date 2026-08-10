@@ -20740,7 +20740,8 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": true,
-      "media_codecs": "avc1.640028, mp4a.40.2"
+      "media_codecs": "avc1.640028, mp4a.40.2",
+      "hls_playlist_s3_key": "videos/django-unchained-2012-movie/hls/index.m3u8"
     },
     {
       "id": "the-night-of-2016-tv",
