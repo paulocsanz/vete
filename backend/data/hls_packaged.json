@@ -108,5 +108,6 @@
   "north-by-northwest-1959-movie": "videos/north-by-northwest-1959-movie/hls/index.m3u8",
   "amelie-2001-movie": "videos/amelie-2001-movie/hls/index.m3u8",
   "aliens-1986-movie": "videos/aliens-1986-movie/hls/index.m3u8",
-  "i-love-lucy-1951-tv": "videos/i-love-lucy-1951-tv/hls/index.m3u8"
+  "i-love-lucy-1951-tv": "videos/i-love-lucy-1951-tv/hls/index.m3u8",
+  "toy-story-1995-movie": "videos/toy-story-1995-movie/hls/index.m3u8"
 }
