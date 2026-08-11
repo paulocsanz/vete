@@ -116875,9 +116875,9 @@
       "trailer_subtitles": [],
       "attachments": [],
       "poster_s3_key": null,
-      "encrypted": false,
+      "encrypted": true,
       "media_codecs": null,
-      "hls_playlist_s3_key": null
+      "hls_playlist_s3_key": "videos/soldado-de-deus-2005-movie/hls/index.m3u8"
     },
     {
       "id": "nao-e-hora-de-chorar-1971-movie",
