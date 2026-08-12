@@ -27263,8 +27263,9 @@
       "trailer_subtitles": [],
       "attachments": [],
       "poster_s3_key": null,
-      "encrypted": false,
-      "media_codecs": null
+      "encrypted": true,
+      "media_codecs": null,
+      "hls_playlist_s3_key": "videos/a-separation-2011-movie/hls/index.m3u8"
     },
     {
       "id": "requiem-for-a-dream-2000-movie",
