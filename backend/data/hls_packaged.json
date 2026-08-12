@@ -118,5 +118,6 @@
   "devocao-2008-movie": "videos/devocao-2008-movie/hls/index.m3u8",
   "a-separation-2011-movie": "videos/a-separation-2011-movie/hls/index.m3u8",
   "requiem-for-a-dream-2000-movie": "videos/requiem-for-a-dream-2000-movie/hls/index.m3u8",
-  "dead-poets-society-1989-movie": "videos/dead-poets-society-1989-movie/hls/index.m3u8"
+  "dead-poets-society-1989-movie": "videos/dead-poets-society-1989-movie/hls/index.m3u8",
+  "star-trek-1966-tv": "videos/star-trek-1966-tv/hls/index.m3u8"
 }
