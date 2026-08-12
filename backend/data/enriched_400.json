@@ -15182,7 +15182,11 @@
       "poster_s3_key": null,
       "encrypted": false,
       "media_codecs": null,
-      "acquisition_exhausted": true
+      "acquisition_exhausted": true,
+      "torrent_options": [],
+      "torrent_options_720p": [],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "one-punch-man-2015-tv",
@@ -22546,7 +22550,11 @@
       "poster_s3_key": null,
       "encrypted": false,
       "media_codecs": null,
-      "acquisition_exhausted": true
+      "acquisition_exhausted": true,
+      "torrent_options": [],
+      "torrent_options_720p": [],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "gladiator-2000-movie",
@@ -27019,7 +27027,11 @@
       "poster_s3_key": null,
       "encrypted": false,
       "media_codecs": null,
-      "acquisition_exhausted": true
+      "acquisition_exhausted": true,
+      "torrent_options": [],
+      "torrent_options_720p": [],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "i-love-lucy-1951-tv",
@@ -33917,7 +33929,11 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [],
+      "torrent_options_720p": [],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "blade-runner-1982-movie",
@@ -36408,7 +36424,11 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [],
+      "torrent_options_720p": [],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "soul-2020-movie",
@@ -37316,7 +37336,11 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [],
+      "torrent_options_720p": [],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "cheers-1982-tv",
@@ -44326,7 +44350,11 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [],
+      "torrent_options_720p": [],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "z-1969-movie",
@@ -45090,7 +45118,11 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [],
+      "torrent_options_720p": [],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "jujutsu-kaisen-0-2021-movie",
@@ -45249,7 +45281,19 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [
+        {
+          "title": "[ART04] Estômago [2007] subs FR-NL",
+          "magnet": "magnet:?xt=urn:btih:41646C26E4163ED5F6BDE84310C039326D57396E&dn=%5BART04%5D%20Est%C3%B4mago%20%5B2007%5D%20subs%20FR-NL&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 2,
+          "size": "4464MB",
+          "provider": "ThePirateBay"
+        }
+      ],
+      "torrent_options_720p": [],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "amy-2015-movie",
@@ -53400,7 +53444,11 @@
       "poster_s3_key": null,
       "encrypted": false,
       "media_codecs": null,
-      "acquisition_exhausted": true
+      "acquisition_exhausted": true,
+      "torrent_options": [],
+      "torrent_options_720p": [],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "to-the-left-of-the-father-2001-movie",
@@ -54442,7 +54490,11 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [],
+      "torrent_options_720p": [],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "guess-who-s-coming-to-dinner-1967-movie",
@@ -58001,7 +58053,11 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [],
+      "torrent_options_720p": [],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "garota-do-momento-2024-tv",
@@ -58407,7 +58463,11 @@
       "poster_s3_key": null,
       "encrypted": false,
       "media_codecs": null,
-      "acquisition_exhausted": true
+      "acquisition_exhausted": true,
+      "torrent_options": [],
+      "torrent_options_720p": [],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "a-quiet-place-2018-movie",
@@ -71716,7 +71776,11 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [],
+      "torrent_options_720p": [],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "how-green-was-my-valley-1941-movie",
@@ -72063,7 +72127,11 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [],
+      "torrent_options_720p": [],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "amarelo-manga-2002-movie",
@@ -76898,7 +76966,11 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [],
+      "torrent_options_720p": [],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "a-star-is-born-1937-movie",
@@ -82792,7 +82864,11 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [],
+      "torrent_options_720p": [],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "suspicion-1941-movie",
@@ -84757,7 +84833,27 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [
+        {
+          "title": "O.Som.ao.Redor.2012.1080p.WEB-DL.x264-BiG",
+          "magnet": "magnet:?xt=urn:btih:9EB0B5CB0464D4CB231B350084312AE2D13EA664&dn=O.Som.ao.Redor.2012.1080p.WEB-DL.x264-BiG&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 4,
+          "size": "6606MB",
+          "provider": "ThePirateBay"
+        }
+      ],
+      "torrent_options_720p": [
+        {
+          "title": "O Som ao Redor AKA Neighbouring Sounds (2012) WEB-DL 720p",
+          "magnet": "magnet:?xt=urn:btih:3AAB59F451CE12966709C74F900E780039272B94&dn=O%20Som%20ao%20Redor%20AKA%20Neighbouring%20Sounds%20(2012)%20WEB-DL%20720p&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 1,
+          "size": "4281MB",
+          "provider": "ThePirateBay"
+        }
+      ],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "marighella-2019-movie",
@@ -95258,7 +95354,11 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [],
+      "torrent_options_720p": [],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "up-in-the-air-2009-movie",
@@ -98180,7 +98280,11 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [],
+      "torrent_options_720p": [],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "saneamento-basico-2007-movie",
@@ -113805,7 +113909,11 @@
       "poster_s3_key": null,
       "encrypted": false,
       "media_codecs": null,
-      "acquisition_exhausted": true
+      "acquisition_exhausted": true,
+      "torrent_options": [],
+      "torrent_options_720p": [],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "se-eu-fosse-voce-2-2009-movie",
@@ -115217,7 +115325,11 @@
       "poster_s3_key": null,
       "encrypted": false,
       "media_codecs": null,
-      "acquisition_exhausted": true
+      "acquisition_exhausted": true,
+      "torrent_options": [],
+      "torrent_options_720p": [],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "joker-folie-a-deux-2024-movie",
