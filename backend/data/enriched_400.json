@@ -27407,7 +27407,8 @@
           "contentScore": 800
         }
       ],
-      "current_torrent_index_720p": 0
+      "current_torrent_index_720p": 0,
+      "hls_playlist_s3_key": "videos/dead-poets-society-1989-movie/hls/index.m3u8"
     },
     {
       "id": "star-trek-1966-tv",
