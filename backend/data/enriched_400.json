@@ -27818,7 +27818,8 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": true,
-      "media_codecs": "avc1.64001f, mp4a.40.2"
+      "media_codecs": "avc1.64001f, mp4a.40.2",
+      "hls_playlist_s3_key": "videos/lawrence-of-arabia-1962-movie/hls/index.m3u8"
     },
     {
       "id": "singin-in-the-rain-1952-movie",
