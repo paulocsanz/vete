@@ -50,7 +50,12 @@ function toOption(t) {
   };
 }
 
-const isJunk = (t) => /\b(CAM|TS|TC|SCREENER|R5|XXX)\b/i.test(t);
+const isJunk = (t) =>
+  /\b(CAM|TS|TC|SCREENER|R5|XXX)\b/i.test(t) ||
+  /flac|mp3|discografia|trilha sonora|soundtrack|\bost\b|\balbum\b|\bcd\b|\[art\d+\]/i.test(t);
+
+const hasVideoSignal = (t) =>
+  /1080p|720p|480p|web-?dl|bluray|brrip|dvdrip|hdtv|webrip|hdrip|x264|x265|hevc/i.test(t);
 
 function sourceKeys(item) {
   if (item.s3_keys?.length) return item.s3_keys;
@@ -95,7 +100,9 @@ async function main() {
   let stillNothing = 0;
 
   for (const item of stuck) {
-    const query = item.title_pt || item.title;
+    const baseQuery = item.title_pt || item.title;
+    const isMovie = item.content_type === "movie";
+    const query = isMovie && item.year ? `${baseQuery} ${item.year}` : baseQuery;
     console.log(`=== ${item.title} (${item.year}, ${item.content_type}) — query: "${query}" ===`);
 
     const results = await tpbSearch(query);
@@ -107,7 +114,15 @@ async function main() {
       continue;
     }
 
-    const options = results.map(toOption).filter((o) => !isJunk(o.title));
+    let options = results.map(toOption).filter((o) => !isJunk(o.title) && hasVideoSignal(o.title));
+    // Movies: a single reliable production year in the filename is the
+    // strongest signal against a same-titled but different-year work
+    // (confirmed false positives: "The Patriot" 1928 vs the 2000 Mel Gibson
+    // film, "One Night of Love" matching unrelated music). TV episodes don't
+    // reliably carry the show's original air year, so skip this for tv.
+    if (isMovie && item.year) {
+      options = options.filter((o) => o.title.includes(String(item.year)));
+    }
     const p1080 = options.filter((o) => /1080p/i.test(o.title)).sort((a, b) => b.seeders - a.seeders);
     const p720 = options.filter((o) => /720p/i.test(o.title)).sort((a, b) => b.seeders - a.seeders);
     const other = options.filter((o) => !/1080p/i.test(o.title) && !/720p/i.test(o.title)).sort((a, b) => b.seeders - a.seeders);

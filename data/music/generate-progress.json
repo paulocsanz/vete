@@ -1,0 +1,5197 @@
+{
+  "processed_artist_keys": [
+    "adoniran barbosa",
+    "2pac",
+    "adriana calcanhotto",
+    "a tribe called quest",
+    "alceu valenca",
+    "a ha",
+    "alcione",
+    "aaliyah",
+    "almir sater",
+    "abba",
+    "alok",
+    "ac dc",
+    "ana carolina",
+    "adele",
+    "ana castela",
+    "aerosmith",
+    "anavitoria",
+    "air",
+    "angra",
+    "al green",
+    "anitta",
+    "alice in chains",
+    "antonio carlos jobim",
+    "alicia keys",
+    "arlindo cruz",
+    "amy winehouse",
+    "arthur verocai",
+    "anderson paak",
+    "astrud gilberto",
+    "arcade fire",
+    "azymuth",
+    "arctic monkeys",
+    "baco exu do blues",
+    "aretha franklin",
+    "baden powell",
+    "ariana grande",
+    "barao vermelho",
+    "avicii",
+    "baroes da pisadinha",
+    "b b king",
+    "bebel gilberto",
+    "bad bunny",
+    "belchior",
+    "beck",
+    "beth carvalho",
+    "bee gees",
+    "biquini cavadao",
+    "beyonce",
+    "bruno e marrone",
+    "billie eilish",
+    "caetano veloso",
+    "billie holiday",
+    "capital inicial",
+    "billy joel",
+    "carlinhos brown",
+    "bjork",
+    "cartola",
+    "black eyed peas",
+    "cassia eller",
+    "black sabbath",
+    "cazuza",
+    "blackpink",
+    "ceu",
+    "blink 182",
+    "charlie brown jr",
+    "blondie",
+    "chico buarque",
+    "blur",
+    "chico science e nacao zumbi",
+    "bob dylan",
+    "chitaozinho e xororo",
+    "bob marley",
+    "cidade negra",
+    "bob marley e the wailers",
+    "clara nunes",
+    "bon iver",
+    "claudia leitte",
+    "bon jovi",
+    "criolo",
+    "brian eno",
+    "cristiano araujo",
+    "bruce springsteen",
+    "daniela mercury",
+    "bruno mars",
+    "dj alok",
+    "bts",
+    "djavan",
+    "buena vista social club",
+    "djonga",
+    "calvin harris",
+    "dominguinhos",
+    "carole king",
+    "dona ivone lara",
+    "celia cruz",
+    "dorival caymmi",
+    "charlie parker",
+    "duda beat",
+    "childish gambino",
+    "ed motta",
+    "chuck berry",
+    "edu lobo",
+    "coldplay",
+    "egberto gismonti",
+    "creedence clearwater revival",
+    "elba ramalho",
+    "curtis mayfield",
+    "elis regina",
+    "d angelo",
+    "elza soares",
+    "daddy yankee",
+    "emicida",
+    "daft punk",
+    "engenheiros do hawaii",
+    "david bowie",
+    "erasmo carlos",
+    "david guetta",
+    "fabio jr",
+    "deep purple",
+    "fagner",
+    "depeche mode",
+    "falamansa",
+    "destiny s child",
+    "frejat",
+    "diana ross",
+    "fundo de quintal",
+    "dire straits",
+    "gal costa",
+    "doja cat",
+    "gilberto gil",
+    "dolly parton",
+    "gloria groove",
+    "donna summer",
+    "gonzaguinha",
+    "dr dre",
+    "grupo fundo de quintal",
+    "drake",
+    "gustavo lima",
+    "dua lipa",
+    "gusttavo lima",
+    "duke ellington",
+    "heitor villa lobos",
+    "duran duran",
+    "henrique e juliano",
+    "eagles",
+    "hermeto pascoal",
+    "earth wind e fire",
+    "ivan lins",
+    "ed sheeran",
+    "ivete sangalo",
+    "electric light orchestra",
+    "iza",
+    "ella fitzgerald",
+    "jackson do pandeiro",
+    "elton john",
+    "jacob do bandolim",
+    "elvis presley",
+    "jao",
+    "eminem",
+    "joao bosco",
+    "ennio morricone",
+    "joao gilberto",
+    "eric clapton",
+    "joao gomes",
+    "erykah badu",
+    "jorge e mateus",
+    "eurythmics",
+    "jorge aragao",
+    "fleetwood mac",
+    "jorge ben",
+    "foo fighters",
+    "jorge ben jor",
+    "frank ocean",
+    "jota quest",
+    "frank sinatra",
+    "kevinho",
+    "funkadelic",
+    "kid abelha",
+    "genesis",
+    "leandro e leonardo",
+    "gorillaz",
+    "legiao urbana",
+    "green day",
+    "lenine",
+    "guns n roses",
+    "leo santana",
+    "gustavo cerati",
+    "liniker",
+    "hans zimmer",
+    "lo borges",
+    "harry styles",
+    "los hermanos",
+    "herbie hancock",
+    "luan santana",
+    "inxs",
+    "ludmilla",
+    "iron maiden",
+    "luedji luna",
+    "j balvin",
+    "luisa sonza",
+    "j cole",
+    "luiz gonzaga",
+    "jackson 5",
+    "luiz melodia",
+    "james brown",
+    "lulu santos",
+    "janelle monae",
+    "maiara e maraisa",
+    "janis joplin",
+    "mamonas assassinas",
+    "jay z",
+    "marcelo d2",
+    "jeff buckley",
+    "marcos valle",
+    "jimi hendrix",
+    "maria bethania",
+    "john coltrane",
+    "maria gadu",
+    "john legend",
+    "maria rita",
+    "john williams",
+    "marilia mendonca",
+    "johnny cash",
+    "marisa monte",
+    "joni mitchell",
+    "martinho da vila",
+    "journey",
+    "matue",
+    "joy division",
+    "maysa",
+    "judas priest",
+    "mc cabelinho",
+    "justice",
+    "mc kevin o chris",
+    "justin timberlake",
+    "mc kevinho",
+    "kanye west",
+    "mc marcinho",
+    "kendrick lamar",
+    "mc poze do rodo",
+    "khruangbin",
+    "milionario e jose rico",
+    "king crimson",
+    "milton nascimento",
+    "kool e the gang",
+    "molejo",
+    "kraftwerk",
+    "nacao zumbi",
+    "lady gaga",
+    "nando reis",
+    "lana del rey",
+    "nara leao",
+    "lauryn hill",
+    "natiruts",
+    "lcd soundsystem",
+    "nelson cavaquinho",
+    "led zeppelin",
+    "nelson goncalves",
+    "leonard cohen",
+    "ney matogrosso",
+    "linkin park",
+    "noel rosa",
+    "lorde",
+    "novos baianos",
+    "louis armstrong",
+    "o rappa",
+    "luis miguel",
+    "os baroes da pisadinha",
+    "lynyrd skynyrd",
+    "os mutantes",
+    "mac miller",
+    "os paralamas do sucesso",
+    "madonna",
+    "pabllo vittar",
+    "manu chao",
+    "paralamas do sucesso",
+    "mariah carey",
+    "paulinho da viola",
+    "maroon 5",
+    "pedro sampaio",
+    "marvin gaye",
+    "pitty",
+    "mary j blige",
+    "pixinguinha",
+    "massive attack",
+    "planet hemp",
+    "megadeth",
+    "raca negra",
+    "metallica",
+    "racionais mc s",
+    "michael jackson",
+    "racionais mcs",
+    "miles davis",
+    "raimundos",
+    "moby",
+    "raul seixas",
+    "motley crue",
+    "reginaldo rossi",
+    "muddy waters",
+    "renato russo",
+    "muse",
+    "rita lee",
+    "nas",
+    "roberto carlos",
+    "nat king cole",
+    "rpm",
+    "neil young",
+    "sabotage",
+    "new order",
+    "sandy e junior",
+    "nicki minaj",
+    "secos e molhados",
+    "nina simone",
+    "sepultura",
+    "nine inch nails",
+    "sergio mendes",
+    "nirvana",
+    "sergio reis",
+    "oasis",
+    "seu jorge",
+    "olivia rodrigo",
+    "silva",
+    "one direction",
+    "skank",
+    "otis redding",
+    "tiao carreiro e pardinho",
+    "outkast",
+    "tim maia",
+    "pantera",
+    "titas",
+    "parliament",
+    "tom jobim",
+    "pearl jam",
+    "tom ze",
+    "pet shop boys",
+    "tonico e tinoco",
+    "peter gabriel",
+    "toquinho",
+    "pharrell williams",
+    "toquinho e vinicius",
+    "pink floyd",
+    "tribalistas",
+    "pixies",
+    "vanessa da mata",
+    "portishead",
+    "villa lobos",
+    "post malone",
+    "vinicius de moraes",
+    "prince",
+    "vintage culture",
+    "public enemy",
+    "wando",
+    "queen",
+    "wesley safadao",
+    "r e m",
+    "wilson simonal",
+    "radiohead",
+    "ze neto e cristiano",
+    "rage against the machine",
+    "ze ramalho",
+    "rammstein",
+    "ze vaqueiro",
+    "ramones",
+    "zeca pagodinho",
+    "ray charles",
+    "zeze di camargo e luciano",
+    "red hot chili peppers",
+    "rihanna",
+    "rosalia",
+    "rush",
+    "sam cooke",
+    "santana",
+    "scorpions",
+    "sex pistols",
+    "shakira",
+    "simon e garfunkel",
+    "slayer",
+    "sly e the family stone",
+    "snoop dogg",
+    "soda stereo",
+    "soundgarden",
+    "steely dan",
+    "stevie wonder",
+    "supertramp",
+    "system of a down",
+    "sza",
+    "talking heads",
+    "tame impala",
+    "taylor swift",
+    "tears for fears",
+    "the beach boys",
+    "the beatles",
+    "the cars",
+    "the chemical brothers",
+    "the clash",
+    "the cure",
+    "the doors",
+    "the fugees",
+    "the killers",
+    "the notorious b i g",
+    "the police",
+    "the prodigy",
+    "the rolling stones",
+    "the smashing pumpkins",
+    "the smiths",
+    "the stone roses",
+    "the strokes",
+    "the supremes",
+    "the temptations",
+    "the weeknd",
+    "the white stripes",
+    "the who",
+    "thelonious monk",
+    "tina turner",
+    "tlc",
+    "tool",
+    "toto",
+    "travis scott",
+    "tupac",
+    "tyler the creator",
+    "u2",
+    "usher",
+    "van halen",
+    "weezer",
+    "whitney houston",
+    "willie nelson",
+    "wu tang clan",
+    "yes",
+    "14 bis",
+    "alan walker",
+    "agepe",
+    "andrea bocelli",
+    "agnaldo rayol",
+    "anthrax",
+    "agnes nunes",
+    "aphex twin",
+    "airto moreira",
+    "armin van buuren",
+    "altamiro carrilho",
+    "audioslave",
+    "altemar dutra",
+    "boards of canada",
+    "amado batista",
+    "boston",
+    "amelinha",
+    "brandy",
+    "ana canas",
+    "buddy holly",
+    "angela maria",
+    "cafe tacvba",
+    "antonio nobrega",
+    "calle 13",
+    "ara ketu",
+    "camila cabello",
+    "arnaldo antunes",
+    "cardi b",
+    "arrigo barnabe",
+    "carlos santana",
+    "art popular",
+    "cat stevens",
+    "asa de aguia",
+    "celine dion",
+    "avine vinny",
+    "chance the rapper",
+    "avioes do forro",
+    "cheap trick",
+    "babado novo",
+    "chic",
+    "baby do brasil",
+    "chicago",
+    "banda black rio",
+    "chick corea",
+    "banda eva",
+    "chris brown",
+    "bell marques",
+    "chris cornell",
+    "benito di paula",
+    "cocteau twins",
+    "beto guedes",
+    "creed",
+    "bezerra da silva",
+    "crowded house",
+    "bixiga 70",
+    "david byrne",
+    "bk",
+    "deadmau5",
+    "black alien",
+    "def leppard",
+    "blitz",
+    "disclosure",
+    "bom gosto",
+    "elo",
+    "bonde do tigrao",
+    "emerson lake e palmer",
+    "bossacucanova",
+    "enrique iglesias",
+    "bruno martini",
+    "erasure",
+    "calcinha preta",
+    "europe",
+    "camisa de venus",
+    "exo",
+    "candeia",
+    "fatboy slim",
+    "cansei de ser sexy",
+    "fito paez",
+    "cassiano",
+    "fleet foxes",
+    "cat dealers",
+    "flume",
+    "cesar menotti e fabiano",
+    "foreigner",
+    "cheiro de amor",
+    "four tet",
+    "chiclete com banana"
+  ],
+  "queue": [
+    {
+      "name": "Franz Ferdinand",
+      "origin": "International",
+      "genres": [
+        "Indie",
+        "Rock"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Chorão",
+      "origin": "Brazilian",
+      "genres": [
+        "Rock"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Future",
+      "origin": "International",
+      "genres": [
+        "Hip Hop",
+        "Trap"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Chrystian & Ralf",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "George Clinton",
+      "origin": "International",
+      "genres": [
+        "Funk"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Clementina de Jesus",
+      "origin": "Brazilian",
+      "genres": [
+        "Samba"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Gloria Estefan",
+      "origin": "International",
+      "genres": [
+        "Pop",
+        "Latin"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Cordel do Fogo Encantado",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB",
+        "Folk"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Goo Goo Dolls",
+      "origin": "International",
+      "genres": [
+        "Rock",
+        "Pop"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Costa Gold",
+      "origin": "Brazilian",
+      "genres": [
+        "Rap"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Henry Mancini",
+      "origin": "International",
+      "genres": [
+        "Soundtrack",
+        "Jazz"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "CPM 22",
+      "origin": "Brazilian",
+      "genres": [
+        "Punk",
+        "Rock"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Howlin' Wolf",
+      "origin": "International",
+      "genres": [
+        "Blues"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "CSS",
+      "origin": "Brazilian",
+      "genres": [
+        "Indie",
+        "Eletrônico"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Imagine Dragons",
+      "origin": "International",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Curumin",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB",
+        "Eletrônico"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Incubus",
+      "origin": "International",
+      "genres": [
+        "Rock",
+        "Alternative"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Dalva de Oliveira",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "IU",
+      "origin": "International",
+      "genres": [
+        "K-Pop"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Daniel",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "James Taylor",
+      "origin": "International",
+      "genres": [
+        "Folk",
+        "Pop"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Dead Fish",
+      "origin": "Brazilian",
+      "genres": [
+        "Hardcore"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Jethro Tull",
+      "origin": "International",
+      "genres": [
+        "Rock",
+        "Progressive"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Demônios da Garoa",
+      "origin": "Brazilian",
+      "genres": [
+        "Samba"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Jimmy Cliff",
+      "origin": "International",
+      "genres": [
+        "Reggae"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Dennis DJ",
+      "origin": "Brazilian",
+      "genres": [
+        "Funk"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "John Lee Hooker",
+      "origin": "International",
+      "genres": [
+        "Blues"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Detonautas",
+      "origin": "Brazilian",
+      "genres": [
+        "Rock"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Juanes",
+      "origin": "International",
+      "genres": [
+        "Rock",
+        "Latin"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Detonautas Roque Clube",
+      "origin": "Brazilian",
+      "genres": [
+        "Rock"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Juice WRLD",
+      "origin": "International",
+      "genres": [
+        "Hip Hop"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Dick Farney",
+      "origin": "Brazilian",
+      "genres": [
+        "Bossa Nova",
+        "Jazz"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Julio Iglesias",
+      "origin": "International",
+      "genres": [
+        "Pop",
+        "Latin"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Diego & Victor Hugo",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Jung Kook",
+      "origin": "International",
+      "genres": [
+        "K-Pop"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Dinho Ouro Preto",
+      "origin": "Brazilian",
+      "genres": [
+        "Rock"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Justin Bieber",
+      "origin": "International",
+      "genres": [
+        "Pop"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Diogo Nogueira",
+      "origin": "Brazilian",
+      "genres": [
+        "Samba"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Katy Perry",
+      "origin": "International",
+      "genres": [
+        "Pop"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "DJ Marlboro",
+      "origin": "Brazilian",
+      "genres": [
+        "Funk"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Keane",
+      "origin": "International",
+      "genres": [
+        "Rock",
+        "Pop"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Dolores Duran",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Keith Jarrett",
+      "origin": "International",
+      "genres": [
+        "Jazz"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Don L",
+      "origin": "Brazilian",
+      "genres": [
+        "Rap"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Kings of Leon",
+      "origin": "International",
+      "genres": [
+        "Rock"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Dori Caymmi",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Korn",
+      "origin": "International",
+      "genres": [
+        "Nu Metal"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Dubdogz",
+      "origin": "Brazilian",
+      "genres": [
+        "Eletrônico"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Kygo",
+      "origin": "International",
+      "genres": [
+        "Eletrônico",
+        "Tropical House"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Dudu Nobre",
+      "origin": "Brazilian",
+      "genres": [
+        "Samba",
+        "Pagode"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Lil Uzi Vert",
+      "origin": "International",
+      "genres": [
+        "Hip Hop",
+        "Trap"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Durval Lelys",
+      "origin": "Brazilian",
+      "genres": [
+        "Axé"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Limp Bizkit",
+      "origin": "International",
+      "genres": [
+        "Nu Metal",
+        "Rock"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "É o Tchan",
+      "origin": "Brazilian",
+      "genres": [
+        "Axé"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Little Richard",
+      "origin": "International",
+      "genres": [
+        "Rock"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Ednardo",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Lizzo",
+      "origin": "International",
+      "genres": [
+        "Pop",
+        "Hip Hop"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Edson e Hudson",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Los Fabulosos Cadillacs",
+      "origin": "International",
+      "genres": [
+        "Rock",
+        "Ska",
+        "Latin"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Eduardo Costa",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Luciano Pavarotti",
+      "origin": "International",
+      "genres": [
+        "Classical",
+        "Opera"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Eliane Elias",
+      "origin": "Brazilian",
+      "genres": [
+        "Jazz",
+        "Bossa Nova"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Maluma",
+      "origin": "International",
+      "genres": [
+        "Reggaeton",
+        "Pop"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Elomar",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB",
+        "Folk"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Marshmello",
+      "origin": "International",
+      "genres": [
+        "Eletrônico",
+        "EDM"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Ernesto Nazareth",
+      "origin": "Brazilian",
+      "genres": [
+        "Choro",
+        "Classical"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Martin Garrix",
+      "origin": "International",
+      "genres": [
+        "Eletrônico",
+        "EDM"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Eumir Deodato",
+      "origin": "Brazilian",
+      "genres": [
+        "Jazz",
+        "Funk"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Maxwell",
+      "origin": "International",
+      "genres": [
+        "R&B",
+        "Neo-Soul"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Exaltasamba",
+      "origin": "Brazilian",
+      "genres": [
+        "Pagode"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Megan Thee Stallion",
+      "origin": "International",
+      "genres": [
+        "Hip Hop"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Fafá de Belém",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Men at Work",
+      "origin": "International",
+      "genres": [
+        "Rock",
+        "Pop"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Felipe Amorim",
+      "origin": "Brazilian",
+      "genres": [
+        "Piseiro",
+        "Forró"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "MGMT",
+      "origin": "International",
+      "genres": [
+        "Indie",
+        "Eletrônico"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Fernanda Abreu",
+      "origin": "Brazilian",
+      "genres": [
+        "Funk",
+        "Pop"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Midnight Oil",
+      "origin": "International",
+      "genres": [
+        "Rock"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Fernando e Sorocaba",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Migos",
+      "origin": "International",
+      "genres": [
+        "Hip Hop",
+        "Trap"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Ferrugem",
+      "origin": "Brazilian",
+      "genres": [
+        "Pagode"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Morrissey",
+      "origin": "International",
+      "genres": [
+        "Indie",
+        "Rock"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Filipe Ret",
+      "origin": "Brazilian",
+      "genres": [
+        "Rap",
+        "Trap"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "My Bloody Valentine",
+      "origin": "International",
+      "genres": [
+        "Shoegaze"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Flávio José",
+      "origin": "Brazilian",
+      "genres": [
+        "Forró"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Ne-Yo",
+      "origin": "International",
+      "genres": [
+        "R&B",
+        "Pop"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Flávio Venturini",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "NewJeans",
+      "origin": "International",
+      "genres": [
+        "K-Pop"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Flora Purim",
+      "origin": "Brazilian",
+      "genres": [
+        "Jazz",
+        "MPB"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Nickelback",
+      "origin": "International",
+      "genres": [
+        "Rock"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Francis Hime",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Nightwish",
+      "origin": "International",
+      "genres": [
+        "Metal",
+        "Symphonic"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Francisco Alves",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "ODESZA",
+      "origin": "International",
+      "genres": [
+        "Eletrônico"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Fresno",
+      "origin": "Brazilian",
+      "genres": [
+        "Rock"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "OneRepublic",
+      "origin": "International",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Froid",
+      "origin": "Brazilian",
+      "genres": [
+        "Rap"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Ozuna",
+      "origin": "International",
+      "genres": [
+        "Reggaeton"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Garota Safada",
+      "origin": "Brazilian",
+      "genres": [
+        "Forró"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Pat Metheny",
+      "origin": "International",
+      "genres": [
+        "Jazz"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Genival Lacerda",
+      "origin": "Brazilian",
+      "genres": [
+        "Forró"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Peter Tosh",
+      "origin": "International",
+      "genres": [
+        "Reggae"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Geraldo Azevedo",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Phoenix",
+      "origin": "International",
+      "genres": [
+        "Indie",
+        "Pop"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Gerson King Combo",
+      "origin": "Brazilian",
+      "genres": [
+        "Soul",
+        "Funk"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Placebo",
+      "origin": "International",
+      "genres": [
+        "Alternative",
+        "Rock"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Gian e Giovani",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Poison",
+      "origin": "International",
+      "genres": [
+        "Rock",
+        "Glam"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Gino e Geno",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Primal Scream",
+      "origin": "International",
+      "genres": [
+        "Rock",
+        "Indie"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Giulia Be",
+      "origin": "Brazilian",
+      "genres": [
+        "Pop"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Pulp",
+      "origin": "International",
+      "genres": [
+        "Rock",
+        "Britpop"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Grupo Revelação",
+      "origin": "Brazilian",
+      "genres": [
+        "Pagode"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Ricky Martin",
+      "origin": "International",
+      "genres": [
+        "Pop",
+        "Latin"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Guilherme e Santiago",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Robert Johnson",
+      "origin": "International",
+      "genres": [
+        "Blues"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Guinga",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB",
+        "Instrumental"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Rosé",
+      "origin": "International",
+      "genres": [
+        "K-Pop",
+        "Pop"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Gustavo Mioto",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Roxy Music",
+      "origin": "International",
+      "genres": [
+        "Rock",
+        "Art Rock"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Hamilton de Holanda",
+      "origin": "Brazilian",
+      "genres": [
+        "Choro",
+        "Jazz"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Röyksopp",
+      "origin": "International",
+      "genres": [
+        "Eletrônico"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Harmonia do Samba",
+      "origin": "Brazilian",
+      "genres": [
+        "Axé",
+        "Pagode Baiano"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Rüfüs Du Sol",
+      "origin": "International",
+      "genres": [
+        "Eletrônico"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Henrique e Diego",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Sam Smith",
+      "origin": "International",
+      "genres": [
+        "Pop",
+        "Soul"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Herbert Vianna",
+      "origin": "Brazilian",
+      "genres": [
+        "Rock"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "SEVENTEEN",
+      "origin": "International",
+      "genres": [
+        "K-Pop"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Hugo & Guilherme",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Shawn Mendes",
+      "origin": "International",
+      "genres": [
+        "Pop"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Hungria Hip Hop",
+      "origin": "Brazilian",
+      "genres": [
+        "Rap"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Sia",
+      "origin": "International",
+      "genres": [
+        "Pop"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Hyldon",
+      "origin": "Brazilian",
+      "genres": [
+        "Soul",
+        "MPB"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Simple Minds",
+      "origin": "International",
+      "genres": [
+        "Rock",
+        "New Wave"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Ilê Aiyê",
+      "origin": "Brazilian",
+      "genres": [
+        "Axé",
+        "Afro"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Skrillex",
+      "origin": "International",
+      "genres": [
+        "Eletrônico",
+        "Dubstep"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Inezita Barroso",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo",
+        "Folk"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Slipknot",
+      "origin": "International",
+      "genres": [
+        "Metal"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Ira!",
+      "origin": "Brazilian",
+      "genres": [
+        "Rock"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Slowdive",
+      "origin": "International",
+      "genres": [
+        "Shoegaze"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Israel & Rodolffo",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Smokey Robinson",
+      "origin": "International",
+      "genres": [
+        "Soul",
+        "R&B"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Itamar Assumpção",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Snow Patrol",
+      "origin": "International",
+      "genres": [
+        "Rock",
+        "Alternative"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Jads e Jadson",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Solange",
+      "origin": "International",
+      "genres": [
+        "R&B"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Jair Rodrigues",
+      "origin": "Brazilian",
+      "genres": [
+        "Samba",
+        "MPB"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Sonic Youth",
+      "origin": "International",
+      "genres": [
+        "Alternative",
+        "Rock"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Jamelão",
+      "origin": "Brazilian",
+      "genres": [
+        "Samba"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Stan Getz",
+      "origin": "International",
+      "genres": [
+        "Jazz",
+        "Bossa Nova"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Jammil",
+      "origin": "Brazilian",
+      "genres": [
+        "Axé"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Stray Kids",
+      "origin": "International",
+      "genres": [
+        "K-Pop"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Jammil e Uma Noites",
+      "origin": "Brazilian",
+      "genres": [
+        "Axé"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Styx",
+      "origin": "International",
+      "genres": [
+        "Rock"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Jards Macalé",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Suede",
+      "origin": "International",
+      "genres": [
+        "Rock",
+        "Britpop"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Jerry Smith",
+      "origin": "Brazilian",
+      "genres": [
+        "Funk"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Sufjan Stevens",
+      "origin": "International",
+      "genres": [
+        "Indie",
+        "Folk"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "João Bosco & Vinícius",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Swedish House Mafia",
+      "origin": "International",
+      "genres": [
+        "Eletrônico",
+        "EDM"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "João Carreiro",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "The Allman Brothers Band",
+      "origin": "International",
+      "genres": [
+        "Rock",
+        "Southern Rock"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "João Carreiro & Capataz",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "The Chainsmokers",
+      "origin": "International",
+      "genres": [
+        "Eletrônico",
+        "Pop"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "João Paulo & Daniel",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "The Jacksons",
+      "origin": "International",
+      "genres": [
+        "Pop",
+        "Soul"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Johnny Alf",
+      "origin": "Brazilian",
+      "genres": [
+        "Bossa Nova",
+        "Jazz"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "The National",
+      "origin": "International",
+      "genres": [
+        "Indie",
+        "Rock"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "José Augusto",
+      "origin": "Brazilian",
+      "genres": [
+        "Romantic"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "The Verve",
+      "origin": "International",
+      "genres": [
+        "Rock"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Jovelina Pérola Negra",
+      "origin": "Brazilian",
+      "genres": [
+        "Samba"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "The xx",
+      "origin": "International",
+      "genres": [
+        "Indie",
+        "Eletrônico"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Joyce Moreno",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB",
+        "Bossa Nova"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Thievery Corporation",
+      "origin": "International",
+      "genres": [
+        "Eletrônico",
+        "Downtempo"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Karol Conká",
+      "origin": "Brazilian",
+      "genres": [
+        "Rap",
+        "Pop"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Tiësto",
+      "origin": "International",
+      "genres": [
+        "Eletrônico",
+        "EDM"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Katinguelê",
+      "origin": "Brazilian",
+      "genres": [
+        "Pagode"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Tony Bennett",
+      "origin": "International",
+      "genres": [
+        "Jazz",
+        "Pop"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "KayBlack",
+      "origin": "Brazilian",
+      "genres": [
+        "Trap"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Toots and the Maytals",
+      "origin": "International",
+      "genres": [
+        "Reggae"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Kelly Key",
+      "origin": "Brazilian",
+      "genres": [
+        "Pop"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Twenty One Pilots",
+      "origin": "International",
+      "genres": [
+        "Pop",
+        "Alternative"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "KVSH",
+      "origin": "Brazilian",
+      "genres": [
+        "Eletrônico"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "TWICE",
+      "origin": "International",
+      "genres": [
+        "K-Pop"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "L7nnon",
+      "origin": "Brazilian",
+      "genres": [
+        "Rap",
+        "Trap"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Underworld",
+      "origin": "International",
+      "genres": [
+        "Eletrônico"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Lagum",
+      "origin": "Brazilian",
+      "genres": [
+        "Pop",
+        "Reggae"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Vampire Weekend",
+      "origin": "International",
+      "genres": [
+        "Indie"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Lauana Prado",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Vulfpeck",
+      "origin": "International",
+      "genres": [
+        "Funk"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Leny Andrade",
+      "origin": "Brazilian",
+      "genres": [
+        "Jazz",
+        "MPB"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Whitesnake",
+      "origin": "International",
+      "genres": [
+        "Rock"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Leonardo",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "XXXTentacion",
+      "origin": "International",
+      "genres": [
+        "Hip Hop"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Lobão",
+      "origin": "Brazilian",
+      "genres": [
+        "Rock"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Zedd",
+      "origin": "International",
+      "genres": [
+        "Eletrônico",
+        "Pop"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "LS Jack",
+      "origin": "Brazilian",
+      "genres": [
+        "Pop"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Zero 7",
+      "origin": "International",
+      "genres": [
+        "Eletrônico",
+        "Downtempo"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Lucas Lucco",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Luiz Caldas",
+      "origin": "Brazilian",
+      "genres": [
+        "Axé"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Mallu Magalhães",
+      "origin": "Brazilian",
+      "genres": [
+        "Indie",
+        "Folk"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Manu Gavassi",
+      "origin": "Brazilian",
+      "genres": [
+        "Pop"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Marcelo Nova",
+      "origin": "Brazilian",
+      "genres": [
+        "Rock"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Marcos e Belutti",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Margareth Menezes",
+      "origin": "Brazilian",
+      "genres": [
+        "Axé",
+        "MPB"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Mari Fernandez",
+      "origin": "Brazilian",
+      "genres": [
+        "Forró",
+        "Piseiro"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Maria Cecília e Rodolfo",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Mariene de Castro",
+      "origin": "Brazilian",
+      "genres": [
+        "Samba",
+        "MPB"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Marina Lima",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB",
+        "Pop"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Marinês",
+      "origin": "Brazilian",
+      "genres": [
+        "Forró"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Mart'nália",
+      "origin": "Brazilian",
+      "genres": [
+        "Samba",
+        "MPB"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Mastruz com Leite",
+      "origin": "Brazilian",
+      "genres": [
+        "Forró"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Matheus & Kauan",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "MC Carol",
+      "origin": "Brazilian",
+      "genres": [
+        "Funk"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "MC Davi",
+      "origin": "Brazilian",
+      "genres": [
+        "Funk"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "MC Don Juan",
+      "origin": "Brazilian",
+      "genres": [
+        "Funk"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "MC Fioti",
+      "origin": "Brazilian",
+      "genres": [
+        "Funk"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "MC G15",
+      "origin": "Brazilian",
+      "genres": [
+        "Funk"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "MC Guimê",
+      "origin": "Brazilian",
+      "genres": [
+        "Funk"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "MC Hariel",
+      "origin": "Brazilian",
+      "genres": [
+        "Funk"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "MC Kekel",
+      "origin": "Brazilian",
+      "genres": [
+        "Funk"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "MC Koringa",
+      "origin": "Brazilian",
+      "genres": [
+        "Funk"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "MC Livinho",
+      "origin": "Brazilian",
+      "genres": [
+        "Funk"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "MC Pedrinho",
+      "origin": "Brazilian",
+      "genres": [
+        "Funk"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "MC Ryan SP",
+      "origin": "Brazilian",
+      "genres": [
+        "Funk"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "MC WM",
+      "origin": "Brazilian",
+      "genres": [
+        "Funk"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Melim",
+      "origin": "Brazilian",
+      "genres": [
+        "Pop"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Mestre Ambrósio",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB",
+        "Folk"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Metá Metá",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB",
+        "Afro"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Michel Teló",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Moraes Moreira",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "MPB4",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Mundo Bita",
+      "origin": "Brazilian",
+      "genres": [
+        "Infantil"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Mundo Livre S/A",
+      "origin": "Brazilian",
+      "genres": [
+        "Manguebeat"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Murilo Huff",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "MV Bill",
+      "origin": "Brazilian",
+      "genres": [
+        "Rap"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Naiara Azevedo",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Nana Caymmi",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Nattan",
+      "origin": "Brazilian",
+      "genres": [
+        "Piseiro",
+        "Forró"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Nego do Borel",
+      "origin": "Brazilian",
+      "genres": [
+        "Funk"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Negritude Junior",
+      "origin": "Brazilian",
+      "genres": [
+        "Pagode"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Neguinho da Beija-Flor",
+      "origin": "Brazilian",
+      "genres": [
+        "Samba"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Nelson Freire",
+      "origin": "Brazilian",
+      "genres": [
+        "Classical"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "NX Zero",
+      "origin": "Brazilian",
+      "genres": [
+        "Rock"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "O Teatro Mágico",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Odair José",
+      "origin": "Brazilian",
+      "genres": [
+        "Romantic",
+        "Brega"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Olodum",
+      "origin": "Brazilian",
+      "genres": [
+        "Axé",
+        "Percussão"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Orlando Silva",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Orochi",
+      "origin": "Brazilian",
+      "genres": [
+        "Trap",
+        "Rap"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Orquestra Imperial",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB",
+        "Samba"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Os Originais do Samba",
+      "origin": "Brazilian",
+      "genres": [
+        "Samba"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Otto",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB",
+        "Manguebeat"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Palavra Cantada",
+      "origin": "Brazilian",
+      "genres": [
+        "Infantil"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Paralamas",
+      "origin": "Brazilian",
+      "genres": [
+        "Rock"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Pato Fu",
+      "origin": "Brazilian",
+      "genres": [
+        "Rock",
+        "Pop"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Paula Fernandes",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Paula Toller",
+      "origin": "Brazilian",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Paulo Moura",
+      "origin": "Brazilian",
+      "genres": [
+        "Choro",
+        "Jazz"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Pena Branca e Xavantinho",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Pepeu Gomes",
+      "origin": "Brazilian",
+      "genres": [
+        "Rock",
+        "MPB"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Péricles",
+      "origin": "Brazilian",
+      "genres": [
+        "Pagode"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Projota",
+      "origin": "Brazilian",
+      "genres": [
+        "Rap"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Psirico",
+      "origin": "Brazilian",
+      "genres": [
+        "Pagode Baiano"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Quarteto em Cy",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB",
+        "Bossa Nova"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Quinteto Violado",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB",
+        "Folk"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Rachel Reis",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB",
+        "Pop"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Raphael Rabello",
+      "origin": "Brazilian",
+      "genres": [
+        "Choro",
+        "Instrumental"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Ratos de Porão",
+      "origin": "Brazilian",
+      "genres": [
+        "Hardcore",
+        "Punk"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Renato Teixeira",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo",
+        "MPB"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Rennan da Penha",
+      "origin": "Brazilian",
+      "genres": [
+        "Funk"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Revelação",
+      "origin": "Brazilian",
+      "genres": [
+        "Pagode"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Rick e Renner",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Rincon Sapiência",
+      "origin": "Brazilian",
+      "genres": [
+        "Rap"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Roberta Sá",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB",
+        "Samba"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Rogério Flausino",
+      "origin": "Brazilian",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Rolando Boldrin",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo",
+        "MPB"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Rosa Passos",
+      "origin": "Brazilian",
+      "genres": [
+        "Bossa Nova"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Rouge",
+      "origin": "Brazilian",
+      "genres": [
+        "Pop"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Roupa Nova",
+      "origin": "Brazilian",
+      "genres": [
+        "Pop",
+        "MPB"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Rubel",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB",
+        "Pop"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Samuel Rosa",
+      "origin": "Brazilian",
+      "genres": [
+        "Rock",
+        "Pop"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Sandy",
+      "origin": "Brazilian",
+      "genres": [
+        "Pop",
+        "MPB"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Saulo Fernandes",
+      "origin": "Brazilian",
+      "genres": [
+        "Axé"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Sérgio Sampaio",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Shaman",
+      "origin": "Brazilian",
+      "genres": [
+        "Metal"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Siba",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB",
+        "Folk"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Simone",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Simone & Simaria",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Só Pra Contrariar",
+      "origin": "Brazilian",
+      "genres": [
+        "Pagode"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Solange Almeida",
+      "origin": "Brazilian",
+      "genres": [
+        "Forró"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Sorriso Maroto",
+      "origin": "Brazilian",
+      "genres": [
+        "Pagode"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Supercombo",
+      "origin": "Brazilian",
+      "genres": [
+        "Rock",
+        "Indie"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Sylvia Telles",
+      "origin": "Brazilian",
+      "genres": [
+        "Bossa Nova"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Tamba Trio",
+      "origin": "Brazilian",
+      "genres": [
+        "Bossa Nova",
+        "Jazz"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Tania Maria",
+      "origin": "Brazilian",
+      "genres": [
+        "Jazz",
+        "MPB"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Tarcísio do Acordeon",
+      "origin": "Brazilian",
+      "genres": [
+        "Forró"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Tati Quebra Barraco",
+      "origin": "Brazilian",
+      "genres": [
+        "Funk"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Teodoro e Sampaio",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Teresa Cristina",
+      "origin": "Brazilian",
+      "genres": [
+        "Samba"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Teto",
+      "origin": "Brazilian",
+      "genres": [
+        "Trap"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Thiaguinho",
+      "origin": "Brazilian",
+      "genres": [
+        "Pagode"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Tiago Iorc",
+      "origin": "Brazilian",
+      "genres": [
+        "Pop",
+        "MPB"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Timbalada",
+      "origin": "Brazilian",
+      "genres": [
+        "Axé",
+        "Percussão"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Toninho Horta",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB",
+        "Jazz"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Trio Nordestino",
+      "origin": "Brazilian",
+      "genres": [
+        "Forró"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Tulipa Ruiz",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB",
+        "Indie"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Turma do Pagode",
+      "origin": "Brazilian",
+      "genres": [
+        "Pagode"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Tuyo",
+      "origin": "Brazilian",
+      "genres": [
+        "Indie",
+        "MPB"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Ultraje a Rigor",
+      "origin": "Brazilian",
+      "genres": [
+        "Rock"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Valesca Popozuda",
+      "origin": "Brazilian",
+      "genres": [
+        "Funk"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Veigh",
+      "origin": "Brazilian",
+      "genres": [
+        "Trap"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Victor Assis Brasil",
+      "origin": "Brazilian",
+      "genres": [
+        "Jazz"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Virginia Rodrigues",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB",
+        "Afro"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Vitor Fernandes",
+      "origin": "Brazilian",
+      "genres": [
+        "Piseiro"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Vitor Kley",
+      "origin": "Brazilian",
+      "genres": [
+        "Pop"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Wagner Tiso",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB",
+        "Instrumental"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Waldick Soriano",
+      "origin": "Brazilian",
+      "genres": [
+        "Romantic",
+        "Brega"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Waldir Azevedo",
+      "origin": "Brazilian",
+      "genres": [
+        "Choro"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Wanderléa",
+      "origin": "Brazilian",
+      "genres": [
+        "Rock",
+        "Jovem Guarda"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Wanessa Camargo",
+      "origin": "Brazilian",
+      "genres": [
+        "Pop"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "WIU",
+      "origin": "Brazilian",
+      "genres": [
+        "Trap"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Xamã",
+      "origin": "Brazilian",
+      "genres": [
+        "Rap"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Xand Avião",
+      "origin": "Brazilian",
+      "genres": [
+        "Forró",
+        "Piseiro"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Xande de Pilares",
+      "origin": "Brazilian",
+      "genres": [
+        "Samba",
+        "Pagode"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Xuxa",
+      "origin": "Brazilian",
+      "genres": [
+        "Infantil",
+        "Pop"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Yamandu Costa",
+      "origin": "Brazilian",
+      "genres": [
+        "Instrumental",
+        "MPB"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Zélia Duncan",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Zimbo Trio",
+      "origin": "Brazilian",
+      "genres": [
+        "Jazz",
+        "MPB"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "Zizi Possi",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB"
+      ],
+      "tier": 2,
+      "fromRelated": false
+    },
+    {
+      "name": "5 a Seco",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "3 Doors Down",
+      "origin": "International",
+      "genres": [
+        "Rock"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Ana Vilela",
+      "origin": "Brazilian",
+      "genres": [
+        "Pop"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Above & Beyond",
+      "origin": "International",
+      "genres": [
+        "Eletrônico",
+        "Trance"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Andre Matos",
+      "origin": "Brazilian",
+      "genres": [
+        "Metal"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Donald Glover",
+      "origin": "International",
+      "genres": [
+        "Hip Hop",
+        "R&B"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Antony e Gabriel",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Fergie",
+      "origin": "International",
+      "genres": [
+        "Pop"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Aretuza Lovi",
+      "origin": "Brazilian",
+      "genres": [
+        "Pop"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Floating Points",
+      "origin": "International",
+      "genres": [
+        "Eletrônico",
+        "Jazz"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Arthur Moreira Lima",
+      "origin": "Brazilian",
+      "genres": [
+        "Classical"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Happy Mondays",
+      "origin": "International",
+      "genres": [
+        "Rock",
+        "Madchester"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Autoramas",
+      "origin": "Brazilian",
+      "genres": [
+        "Rock",
+        "Indie"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Hinder",
+      "origin": "International",
+      "genres": [
+        "Rock"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Ava Rocha",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB",
+        "Experimental"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Jennie",
+      "origin": "International",
+      "genres": [
+        "K-Pop"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Aviões",
+      "origin": "Brazilian",
+      "genres": [
+        "Forró"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Jimin",
+      "origin": "International",
+      "genres": [
+        "K-Pop"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Balão Mágico",
+      "origin": "Brazilian",
+      "genres": [
+        "Infantil"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Kaiser Chiefs",
+      "origin": "International",
+      "genres": [
+        "Indie",
+        "Rock"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Banda Magníficos",
+      "origin": "Brazilian",
+      "genres": [
+        "Forró"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Lisa",
+      "origin": "International",
+      "genres": [
+        "K-Pop"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "BehindtheMirrors",
+      "origin": "Brazilian",
+      "genres": [
+        "Eletrônico"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Logic",
+      "origin": "International",
+      "genres": [
+        "Hip Hop"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Benedito Lacerda",
+      "origin": "Brazilian",
+      "genres": [
+        "Choro"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Manic Street Preachers",
+      "origin": "International",
+      "genres": [
+        "Rock"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Bi Ribeiro",
+      "origin": "Brazilian",
+      "genres": [
+        "Rock"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Matchbox Twenty",
+      "origin": "International",
+      "genres": [
+        "Rock",
+        "Pop"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Bonde do Vinho",
+      "origin": "Brazilian",
+      "genres": [
+        "Funk"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Monica",
+      "origin": "International",
+      "genres": [
+        "R&B"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Branco Mello",
+      "origin": "Brazilian",
+      "genres": [
+        "Rock"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "NF",
+      "origin": "International",
+      "genres": [
+        "Hip Hop"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Bruna Viola",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo",
+        "Moda de Viola"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Nightmares on Wax",
+      "origin": "International",
+      "genres": [
+        "Eletrônico",
+        "Downtempo"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Camargo Guarnieri",
+      "origin": "Brazilian",
+      "genres": [
+        "Classical"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Paul van Dyk",
+      "origin": "International",
+      "genres": [
+        "Eletrônico",
+        "Trance"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Carla Perez",
+      "origin": "Brazilian",
+      "genres": [
+        "Axé"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Pyeng Threadgill",
+      "origin": "International",
+      "genres": [
+        "Jazz"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Carlos Galhardo",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Quiet Riot",
+      "origin": "International",
+      "genres": [
+        "Rock"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Cátia de França",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "REO Speedwagon",
+      "origin": "International",
+      "genres": [
+        "Rock"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Cavalo de Pau",
+      "origin": "Brazilian",
+      "genres": [
+        "Forró"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Ride",
+      "origin": "International",
+      "genres": [
+        "Shoegaze"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Champignon",
+      "origin": "Brazilian",
+      "genres": [
+        "Rock"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Stereophonics",
+      "origin": "International",
+      "genres": [
+        "Rock"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Charles Gavin",
+      "origin": "Brazilian",
+      "genres": [
+        "Rock"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Survivor",
+      "origin": "International",
+      "genres": [
+        "Rock"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Chicabana",
+      "origin": "Brazilian",
+      "genres": [
+        "Axé"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "The Neptunes",
+      "origin": "International",
+      "genres": [
+        "Hip Hop",
+        "R&B"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Chico Rey e Paraná",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "The Script",
+      "origin": "International",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "CHINELINHO DE COURO",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Train",
+      "origin": "International",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Clayton e Romário",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Travis",
+      "origin": "International",
+      "genres": [
+        "Rock",
+        "Britpop"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Compadre Washington",
+      "origin": "Brazilian",
+      "genres": [
+        "Axé"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Trey Songz",
+      "origin": "International",
+      "genres": [
+        "R&B"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Cynthia Luz",
+      "origin": "Brazilian",
+      "genres": [
+        "Rap"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Twisted Sister",
+      "origin": "International",
+      "genres": [
+        "Rock"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Danilo Caymmi",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "V",
+      "origin": "International",
+      "genres": [
+        "K-Pop"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Day e Lara",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "will.i.am",
+      "origin": "International",
+      "genres": [
+        "Hip Hop",
+        "Pop"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Desejo de Menina",
+      "origin": "Brazilian",
+      "genres": [
+        "Forró"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Dilsinho",
+      "origin": "Brazilian",
+      "genres": [
+        "Pagode"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "DJ Blakes",
+      "origin": "Brazilian",
+      "genres": [
+        "Funk"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Drik Barbosa",
+      "origin": "Brazilian",
+      "genres": [
+        "Rap"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Eliane",
+      "origin": "Brazilian",
+      "genres": [
+        "Forró"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Eric Land",
+      "origin": "Brazilian",
+      "genres": [
+        "Piseiro"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Far From Alaska",
+      "origin": "Brazilian",
+      "genres": [
+        "Rock"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Farofa Carioca",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB",
+        "Samba"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Fiduma e Jeca",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Francisco Mignone",
+      "origin": "Brazilian",
+      "genres": [
+        "Classical"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Fred e Fabrício",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "George Henrique e Rodrigo",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Gera Samba",
+      "origin": "Brazilian",
+      "genres": [
+        "Axé"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Gilson Peranzzetta",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB",
+        "Instrumental"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Goiano e Paranaense",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Gonzaga",
+      "origin": "Brazilian",
+      "genres": [
+        "Forró"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Illusionize",
+      "origin": "Brazilian",
+      "genres": [
+        "Eletrônico"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Ivete",
+      "origin": "Brazilian",
+      "genres": [
+        "Axé"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Jade Baraldo",
+      "origin": "Brazilian",
+      "genres": [
+        "Pop",
+        "R&B"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Jair Oliveira",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB",
+        "Soul"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Japinha Conde",
+      "origin": "Brazilian",
+      "genres": [
+        "Forró"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Joanna",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB",
+        "Romantic"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "João Barone",
+      "origin": "Brazilian",
+      "genres": [
+        "Rock"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "João Mulato e Pardinho",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "João Neto e Frederico",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Jorge de Altinho",
+      "origin": "Brazilian",
+      "genres": [
+        "Forró"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Josyara",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Karina Buhr",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "KLB",
+      "origin": "Brazilian",
+      "genres": [
+        "Pop"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "KondZilla",
+      "origin": "Brazilian",
+      "genres": [
+        "Funk"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Korzus",
+      "origin": "Brazilian",
+      "genres": [
+        "Metal"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Larissa Luz",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB",
+        "Afro"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Leny Eversong",
+      "origin": "Brazilian",
+      "genres": [
+        "Jazz"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Léo e Raphael",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Lia Clark",
+      "origin": "Brazilian",
+      "genres": [
+        "Pop",
+        "Funk"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Limão com Mel",
+      "origin": "Brazilian",
+      "genres": [
+        "Forró"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Lindomar Castilho",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB",
+        "Romantic"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Linn da Quebrada",
+      "origin": "Brazilian",
+      "genres": [
+        "Pop",
+        "Eletrônico"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Liu",
+      "origin": "Brazilian",
+      "genres": [
+        "Eletrônico"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Liu e Léu",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Luan Pereira",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Luciana Mello",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB",
+        "Soul"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Lúcio Alves",
+      "origin": "Brazilian",
+      "genres": [
+        "Bossa Nova"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Luiza Lian",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB",
+        "Experimental"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Mahmundi",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB",
+        "Pop"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Mainstreet",
+      "origin": "Brazilian",
+      "genres": [
+        "Funk"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Márcia Fellipe",
+      "origin": "Brazilian",
+      "genres": [
+        "Forró"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Márcio Montarroyos",
+      "origin": "Brazilian",
+      "genres": [
+        "Jazz"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Marku Ribas",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB",
+        "Soul"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Maskavo",
+      "origin": "Brazilian",
+      "genres": [
+        "Reggae"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Mauro Diniz",
+      "origin": "Brazilian",
+      "genres": [
+        "Samba"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Max de Castro",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB",
+        "Soul"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "MC Jottapê",
+      "origin": "Brazilian",
+      "genres": [
+        "Funk"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "MC Rebecca",
+      "origin": "Brazilian",
+      "genres": [
+        "Funk"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Moacyr Luz",
+      "origin": "Brazilian",
+      "genres": [
+        "Samba"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Mulher Pepita",
+      "origin": "Brazilian",
+      "genres": [
+        "Funk"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Mumuzinho",
+      "origin": "Brazilian",
+      "genres": [
+        "Pagode"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Munhoz & Mariano",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Netinho",
+      "origin": "Brazilian",
+      "genres": [
+        "Axé"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Nivaldo Ornelas",
+      "origin": "Brazilian",
+      "genres": [
+        "Jazz",
+        "MPB"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Nora Ney",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Orquestra Wasabê",
+      "origin": "Brazilian",
+      "genres": [
+        "Instrumental"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "OutroEu",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Parangolé",
+      "origin": "Brazilian",
+      "genres": [
+        "Pagode Baiano"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Paulinho Boca de Cantor",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Paulo Miklos",
+      "origin": "Brazilian",
+      "genres": [
+        "Rock",
+        "MPB"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Pedro Luís e A Parede",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Pixote",
+      "origin": "Brazilian",
+      "genres": [
+        "Pagode"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Planta e Raiz",
+      "origin": "Brazilian",
+      "genres": [
+        "Reggae"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Plebe Rude",
+      "origin": "Brazilian",
+      "genres": [
+        "Rock"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Priscila Senna",
+      "origin": "Brazilian",
+      "genres": [
+        "Forró"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Quarteto Jobim-Morelenbaum",
+      "origin": "Brazilian",
+      "genres": [
+        "Bossa Nova"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Raphaela Santos",
+      "origin": "Brazilian",
+      "genres": [
+        "Forró"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Rashid",
+      "origin": "Brazilian",
+      "genres": [
+        "Rap"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Saia Rodada",
+      "origin": "Brazilian",
+      "genres": [
+        "Forró"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Sambalanço Trio",
+      "origin": "Brazilian",
+      "genres": [
+        "Jazz",
+        "Samba"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Sarajane",
+      "origin": "Brazilian",
+      "genres": [
+        "Axé"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Saulo",
+      "origin": "Brazilian",
+      "genres": [
+        "Axé"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Scalene",
+      "origin": "Brazilian",
+      "genres": [
+        "Rock"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Sebastião Tapajós",
+      "origin": "Brazilian",
+      "genres": [
+        "Instrumental"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Sérgio Britto",
+      "origin": "Brazilian",
+      "genres": [
+        "Rock"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Sidoka",
+      "origin": "Brazilian",
+      "genres": [
+        "Trap"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Sombrinha",
+      "origin": "Brazilian",
+      "genres": [
+        "Pagode"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Soweto",
+      "origin": "Brazilian",
+      "genres": [
+        "Pagode"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Tagua Tagua",
+      "origin": "Brazilian",
+      "genres": [
+        "Eletrônico",
+        "MPB"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Tássia Reis",
+      "origin": "Brazilian",
+      "genres": [
+        "Rap",
+        "R&B"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Thaeme e Thiago",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Tony Bellotto",
+      "origin": "Brazilian",
+      "genres": [
+        "Rock"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Tony Tornado",
+      "origin": "Brazilian",
+      "genres": [
+        "Soul"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Trem da Alegria",
+      "origin": "Brazilian",
+      "genres": [
+        "Infantil",
+        "Pop"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Trio Elétrico Dodô e Osmar",
+      "origin": "Brazilian",
+      "genres": [
+        "Axé",
+        "Frevo"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Urias",
+      "origin": "Brazilian",
+      "genres": [
+        "Pop",
+        "Eletrônico"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Vieira e Vieirinha",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Walter Franco",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Wolfine",
+      "origin": "Brazilian",
+      "genres": [
+        "Eletrônico"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Xangai",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB",
+        "Folk"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Yasmin Santos",
+      "origin": "Brazilian",
+      "genres": [
+        "Sertanejo"
+      ],
+      "tier": 3,
+      "fromRelated": false
+    },
+    {
+      "name": "Guilherme Arantes",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB"
+      ],
+      "tier": 3,
+      "fromRelated": true
+    },
+    {
+      "name": "Kleiton & Kledir",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB"
+      ],
+      "tier": 3,
+      "fromRelated": true
+    },
+    {
+      "name": "Boca Livre",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB"
+      ],
+      "tier": 3,
+      "fromRelated": true
+    },
+    {
+      "name": "Sá & Guarabyra",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB"
+      ],
+      "tier": 3,
+      "fromRelated": true
+    },
+    {
+      "name": "Oswaldo Montenegro",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB"
+      ],
+      "tier": 3,
+      "fromRelated": true
+    },
+    {
+      "name": "Tavito",
+      "origin": "Brazilian",
+      "genres": [
+        "MPB"
+      ],
+      "tier": 3,
+      "fromRelated": true
+    },
+    {
+      "name": "K-391",
+      "origin": "International",
+      "genres": [
+        "Eletrônico"
+      ],
+      "tier": 3,
+      "fromRelated": true
+    },
+    {
+      "name": "Steve Aoki",
+      "origin": "International",
+      "genres": [
+        "Eletrônico"
+      ],
+      "tier": 3,
+      "fromRelated": true
+    },
+    {
+      "name": "R3HAB",
+      "origin": "International",
+      "genres": [
+        "Eletrônico"
+      ],
+      "tier": 3,
+      "fromRelated": true
+    },
+    {
+      "name": "Dicro",
+      "origin": "Brazilian",
+      "genres": [
+        "Samba"
+      ],
+      "tier": 3,
+      "fromRelated": true
+    },
+    {
+      "name": "Luiz Ayrão",
+      "origin": "Brazilian",
+      "genres": [
+        "Samba"
+      ],
+      "tier": 3,
+      "fromRelated": true
+    }
+  ],
+  "related_enqueued": 771,
+  "skipped_low_fans": 36
+}

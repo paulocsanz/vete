@@ -19,6 +19,16 @@ downloaded_content/
 temp/
 *.torrent
 
+# Music catalog: never commit monoliths / raw crawls (GitHub 100MB limit)
+backend/data/music_catalog.json
+backend/data/music_catalog.raw.json
+backend/data/music_catalog.pre-dedupe.json
+backend/data/music_catalog.pre-version-dedupe.json
+backend/data/music/raw/
+data/music/generate.log
+# enriched catalog backups (local only)
+backend/data/enriched_400.json.bak*
+
 # Pipeline runtime state
 .download-picked-torrents.lock
 .batch_download_progress.json

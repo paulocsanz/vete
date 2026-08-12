@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "metadata": {
+    "target_tracks": 100000,
+    "target_bitrate": "320kbps",
+    "target_brazilian_ratio": 0.33,
+    "quality_target": "320kbps",
+    "source": "deezer+seed-artists",
+    "curation": {
+      "brazilian": "deep+regional relevance",
+      "international": "global relevance (rank/fans)",
+      "dedupe": "same song+version_class unified; live/remix/acoustic/mix/demo kept separate; playlists ref track_ids"
+    },
+    "total_tracks": 71365,
+    "brazilian_tracks": 26666,
+    "international_tracks": 44699,
+    "brazilian_ratio": 0.374,
+    "unique_artists": 2514,
+    "unique_albums": 16690,
+    "playlists_count": 16690,
+    "estimated_storage_gb_320kbps": 557.5,
+    "version_breakdown": {
+      "studio": 54746,
+      "live": 12457,
+      "remix": 1946,
+      "acoustic": 402,
+      "demo": 924,
+      "instrumental": 429,
+      "other": 53,
+      "mix": 408
+    },
+    "deduped_at": "2026-08-12T14:39:53.179Z",
+    "dedupe": {
+      "input_tracks": 117072,
+      "output_tracks": 71365,
+      "versions_collapsed": 45683,
+      "songs_with_multiple_copies": 22964,
+      "playlists": 16690,
+      "note": "Playlists keep all albums/compilations as track_id refs. Distinct versions (live vs studio etc.) are separate items."
+    },
+    "updated_at": "2026-08-12T14:43:04.346Z",
+    "storage": {
+      "format": "sharded-v1",
+      "track_shards": 6,
+      "tracks_per_shard": 12000
+    }
+  },
+  "track_shards": [
+    "tracks-000.json",
+    "tracks-001.json",
+    "tracks-002.json",
+    "tracks-003.json",
+    "tracks-004.json",
+    "tracks-005.json"
+  ],
+  "playlists_file": "playlists.json",
+  "playlist_shards": null
+}

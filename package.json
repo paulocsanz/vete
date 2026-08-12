@@ -12,6 +12,10 @@
     "sala:relay": "node scripts/relay/sala-relay.js",
     "ops:deploy-pipeline": "./scripts/ops/deploy-pipeline-caixote.sh",
     "ops:monitor-caixote": "node scripts/ops/monitor-pipeline-caixote.mjs",
+    "catalog:music": "node scripts/catalog/generate-music-catalog.mjs",
+    "catalog:music:resume": "node scripts/catalog/generate-music-catalog.mjs --resume --target 200000",
+    "catalog:music:dedupe": "node scripts/catalog/dedupe-music-catalog.mjs --in raw --out catalog --no-backup",
+    "catalog:music:split": "node scripts/catalog/split-music-catalog.mjs --also-raw",
     "typecheck": "tsc --noEmit",
     "lint": "tsc --noEmit"
   },

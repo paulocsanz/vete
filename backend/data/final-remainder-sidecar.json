@@ -1,0 +1,41 @@
+{
+  "generated_at": "2026-08-08T05:22:07.160Z",
+  "items": {
+    "lisbela-e-o-prisioneiro-2003-movie": {
+      "id": "lisbela-e-o-prisioneiro-2003-movie",
+      "torrent_options": [],
+      "torrent_options_720p": [
+        {
+          "title": "Lisbela e o Prisioneiro 2003 (720p) WWW.LAPUMiAFiLMES.COM",
+          "magnet": "magnet:?xt=urn:btih:9308d6f4b3932635787009ff1278eb6e0f33e982&dn=Lisbela%20e%20o%20Prisioneiro%202003%20(720p)%20WWW.LAPUMiAFiLMES.COM&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": "3.06 GB",
+          "provider": "Torrentio/Comando",
+          "contentScore": 800
+        },
+        {
+          "title": "[SD/unlabeled] Lisbela e o Prisioneiro",
+          "magnet": "magnet:?xt=urn:btih:28f1db10ac0a0c032929155f45c2b56dc6f94fdd&dn=Lisbela%20e%20o%20Prisioneiro&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": "616.39 MB",
+          "provider": "Torrentio/ThePirateBay",
+          "contentScore": 800
+        }
+      ]
+    },
+    "se-eu-fosse-voce-2006-movie": {
+      "id": "se-eu-fosse-voce-2006-movie",
+      "torrent_options": [],
+      "torrent_options_720p": [
+        {
+          "title": "[SD/unlabeled] Se.Eu.Fosse.Voce.2006.DVD5.NTSC",
+          "magnet": "magnet:?xt=urn:btih:b40f9e0d1b8ede1180cc2cfa2573ef7ab8765146&dn=Se.Eu.Fosse.Voce.2006.DVD5.NTSC&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": "4.36 GB",
+          "provider": "Torrentio/MagnetDL",
+          "contentScore": 800
+        }
+      ]
+    }
+  }
+}
