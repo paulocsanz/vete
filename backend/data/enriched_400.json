@@ -30323,7 +30323,8 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": true,
-      "media_codecs": "avc1.4d0032, mp4a.40.2"
+      "media_codecs": "avc1.4d0032, mp4a.40.2",
+      "hls_playlist_s3_key": "videos/citizen-kane-1941-movie/hls/index.m3u8"
     },
     {
       "id": "the-given-word-1962-movie",
