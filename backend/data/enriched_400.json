@@ -2150,7 +2150,47 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [
+        {
+          "title": "The Ascent of Man (BBC 1973) (540p soft English subtitles)",
+          "magnet": "magnet:?xt=urn:btih:c191f487c2cabf49e0c7c41b5d599acc63a4d51e&dn=The%20Ascent%20of%20Man%20(BBC%201973)%20(540p%20soft%20English%20subtitles)&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "The.Ascent.of.Civilisations.S01E01.480p.x264-mSD",
+          "magnet": "magnet:?xt=urn:btih:fa06fae5fb27487ffff1d931144ee105541bbdae&dn=The.Ascent.of.Civilisations.S01E01.480p.x264-mSD&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": "302.78 MB",
+          "provider": "Torrentio"
+        },
+        {
+          "title": "The.Ascent.of.Civilisations.S01E01.XviD-AFG",
+          "magnet": "magnet:?xt=urn:btih:af8ebae8563e3aa5380aefbb110c22157b5995fb&dn=The.Ascent.of.Civilisations.S01E01.XviD-AFG&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": "858.68 MB",
+          "provider": "Torrentio"
+        },
+        {
+          "title": "BBC 1973 Ascent Of Man",
+          "magnet": "magnet:?xt=urn:btih:aa1060ea209b644f70eee25c8f5802980b14514e&dn=BBC%201973%20Ascent%20Of%20Man&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "BBC 1973 The Ascent of Man 01of13 Lower than the Angels x264 AC3",
+          "magnet": "magnet:?xt=urn:btih:a19973e83c4ab089267896deda1895aa745c4a11&dn=BBC%201973%20The%20Ascent%20of%20Man%2001of13%20Lower%20than%20the%20Angels%20x264%20AC3&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": "692.82 MB",
+          "provider": "Torrentio"
+        }
+      ],
+      "torrent_options_720p": [],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "attack-on-titan-2013-tv",
@@ -5561,7 +5601,19 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [
+        {
+          "title": "Sítio.do.Picapau.Amarelo.S01.[TorrentDosFilmesHD.net]",
+          "magnet": "magnet:?xt=urn:btih:3d1b81b001b6b6aa6c28519766e849734efcb786&dn=S%C3%ADtio.do.Picapau.Amarelo.S01.%5BTorrentDosFilmesHD.net%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        }
+      ],
+      "torrent_options_720p": [],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "it-s-okay-to-not-be-okay-2020-tv",
@@ -5618,7 +5670,62 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [
+        {
+          "title": "Я псих но это нормально / Saikojiman Gwaenchanha / It's Okay to Not Be Okay (2020) WEB-DL 1080p | P | TVShows",
+          "magnet": "magnet:?xt=urn:btih:9bdd81747a05be519b308b813a365d9f993aa5ca&dn=%D0%AF%20%D0%BF%D1%81%D0%B8%D1%85%20%D0%BD%D0%BE%20%D1%8D%D1%82%D0%BE%20%D0%BD%D0%BE%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%20%2F%20Saikojiman%20Gwaenchanha%20%2F%20It's%20Okay%20to%20Not%20Be%20Okay%20(2020)%20WEB-DL%201080p%20%7C%20P%20%7C%20TVShows&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Its.Okay.To.Not.Be.Okay.S01.KOREAN.1080p.NF.WEBRip.DDP2.0.x264-SH3LBY[rartv]",
+          "magnet": "magnet:?xt=urn:btih:3c0918b9326defd4bb26caebb98750bfd159f001&dn=Its.Okay.To.Not.Be.Okay.S01.KOREAN.1080p.NF.WEBRip.DDP2.0.x264-SH3LBY%5Brartv%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "It's Okay to Not Be Okay (2020) [1080p AV1 WEB-DL NF]",
+          "magnet": "magnet:?xt=urn:btih:98e45a1f1e7a9671570331533f3b6bbb352fd20f&dn=It's%20Okay%20to%20Not%20Be%20Okay%20(2020)%20%5B1080p%20AV1%20WEB-DL%20NF%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        }
+      ],
+      "torrent_options_720p": [
+        {
+          "title": "It's Okay to Not Be Okay S01 720p 10bit NF WEBRip x265 HEVC [Hindi Korean] ESub - Immortal",
+          "magnet": "magnet:?xt=urn:btih:06aa655ab72772cc5b9bffc48327aaf008d88395&dn=It's%20Okay%20to%20Not%20Be%20Okay%20S01%20720p%2010bit%20NF%20WEBRip%20x265%20HEVC%20%5BHindi%20Korean%5D%20ESub%20-%20Immortal&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Я псих но это нормально / Saikojiman Gwaenchanha / It's Okay to Not Be Okay [S01] (2020) WEB-DL 720p | P | TVShows ",
+          "magnet": "magnet:?xt=urn:btih:5e8cbc925ea3fce9b71119d28d0997c670f3cae3&dn=%D0%AF%20%D0%BF%D1%81%D0%B8%D1%85%20%D0%BD%D0%BE%20%D1%8D%D1%82%D0%BE%20%D0%BD%D0%BE%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%20%2F%20Saikojiman%20Gwaenchanha%20%2F%20It's%20Okay%20to%20Not%20Be%20Okay%20%5BS01%5D%20(2020)%20WEB-DL%20720p%20%7C%20P%20%7C%20TVShows%20&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "It's Okay to Not Be Okay - [Dual Audio (Hindi Korean) 720p HD ESub]",
+          "magnet": "magnet:?xt=urn:btih:5ba08df6f52cd18e6d2ca8b69c8b557e4041977e&dn=It's%20Okay%20to%20Not%20Be%20Okay%20-%20%5BDual%20Audio%20(Hindi%20Korean)%20720p%20HD%20ESub%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "It's Okay to Not Be Okay (2020) with English subtitles 720p",
+          "magnet": "magnet:?xt=urn:btih:3afb965d1d622974d9f165562cac887840097cd0&dn=It's%20Okay%20to%20Not%20Be%20Okay%20(2020)%20with%20English%20subtitles%20720p&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        }
+      ],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "when-they-see-us-2019-tv",
@@ -11284,7 +11391,33 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [
+        {
+          "title": "Elizabeth.R.S01.AMZN.WEBRip.DDP2.0.x264-squalor[rartv]",
+          "magnet": "magnet:?xt=urn:btih:88d06307e4050726721069bd10feb161d8c2f8ac&dn=Elizabeth.R.S01.AMZN.WEBRip.DDP2.0.x264-squalor%5Brartv%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Королева Елизавета Английская / Elizabeth R / Серии: 1-6 из 6 [1971 DVDRip] MVO + Original",
+          "magnet": "magnet:?xt=urn:btih:b1025ceba805ec488b9aaf854567d8c475facedb&dn=%D0%9A%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0%20%D0%95%D0%BB%D0%B8%D0%B7%D0%B0%D0%B2%D0%B5%D1%82%D0%B0%20%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F%20%2F%20Elizabeth%20R%20%2F%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B8%3A%201-6%20%D0%B8%D0%B7%206%20%5B1971%20DVDRip%5D%20MVO%20%2B%20Original&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Elizabeth R (1971)",
+          "magnet": "magnet:?xt=urn:btih:a2e7fd44ff152d380e2039b96e2a5cea5ac4f093&dn=Elizabeth%20R%20(1971)&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        }
+      ],
+      "torrent_options_720p": [],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "skam-2015-tv",
@@ -14397,7 +14530,111 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [
+        {
+          "title": "Пролетая над гнездом кукушки / One Flew Over the Cuckoo's Nest [1975 BDRemux 1080p] Dub + 2x MVO (Варус Киномания) + 4x AVO (Живов Михалев Гаврилов Горчаков) + Original Eng + Sub Rus Eng + Comm",
+          "magnet": "magnet:?xt=urn:btih:f567a20b8076487524494477302c89c6b3eb9d8d&dn=%D0%9F%D1%80%D0%BE%D0%BB%D0%B5%D1%82%D0%B0%D1%8F%20%D0%BD%D0%B0%D0%B4%20%D0%B3%D0%BD%D0%B5%D0%B7%D0%B4%D0%BE%D0%BC%20%D0%BA%D1%83%D0%BA%D1%83%D1%88%D0%BA%D0%B8%20%2F%20One%20Flew%20Over%20the%20Cuckoo's%20Nest%20%5B1975%20BDRemux%201080p%5D%20Dub%20%2B%202x%20MVO%20(%D0%92%D0%B0%D1%80%D1%83%D1%81%20%D0%9A%D0%B8%D0%BD%D0%BE%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F)%20%2B%204x%20AVO%20(%D0%96%D0%B8%D0%B2%D0%BE%D0%B2%20%D0%9C%D0%B8%D1%85%D0%B0%D0%BB%D0%B5%D0%B2%20%D0%93%D0%B0%D0%B2%D1%80%D0%B8%D0%BB%D0%BE%D0%B2%20%D0%93%D0%BE%D1%80%D1%87%D0%B0%D0%BA%D0%BE%D0%B2)%20%2B%20Original%20Eng%20%2B%20Sub%20Rus%20Eng%20%2B%20Comm&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 132,
+          "size": "16.31 GB",
+          "provider": "Torrentio"
+        },
+        {
+          "title": "One Flew Over the Cuckoo's Nest (1975) 1080p BrRip x264 - YIFY",
+          "magnet": "magnet:?xt=urn:btih:bff25fbbac88b6b9d24dbc18b359734015c8abf4&dn=One%20Flew%20Over%20the%20Cuckoo's%20Nest%20(1975)%201080p%20BrRip%20x264%20-%20YIFY&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 100,
+          "size": "1.8 GB",
+          "provider": "Torrentio"
+        },
+        {
+          "title": "One.Flew.Over.The.Cuckoos.Nest.1975.1080p.BluRay.H264.AC3.DD5.1.",
+          "magnet": "magnet:?xt=urn:btih:998b3c9437a87cb9b2ba22016fda0d79bd72172a&dn=One.Flew.Over.The.Cuckoos.Nest.1975.1080p.BluRay.H264.AC3.DD5.1.&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 58,
+          "size": "3.03 GB",
+          "provider": "Torrentio"
+        },
+        {
+          "title": "One.Flew.Over.the.Cuckoos.Nest.1975.SDR.1080p.UHD.BluRay.x265.HEVC.EAC3-SARTRE",
+          "magnet": "magnet:?xt=urn:btih:9c4542efd6f12182e99e86e17a5b7f4ca1e22b26&dn=One.Flew.Over.the.Cuckoos.Nest.1975.SDR.1080p.UHD.BluRay.x265.HEVC.EAC3-SARTRE&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 46,
+          "size": "10.6 GB",
+          "provider": "Torrentio"
+        },
+        {
+          "title": "One Flew Over the Cuckoo's Nest 1975 1080p AV1 10Bit DKong",
+          "magnet": "magnet:?xt=urn:btih:1ff5a6715ae70c4e7a6afc8bbf901cd4b37cd4a9&dn=One%20Flew%20Over%20the%20Cuckoo's%20Nest%201975%201080p%20AV1%2010Bit%20DKong&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 37,
+          "size": "960.36 MB",
+          "provider": "Torrentio"
+        },
+        {
+          "title": "One Flew Over the Cuckoos Nest 1975 REMASTERED 1080p BluRay HEVC x265 5.1 BONE",
+          "magnet": "magnet:?xt=urn:btih:fad1c35a09dc771f0d12ace4fe57d533d2df1f6a&dn=One%20Flew%20Over%20the%20Cuckoos%20Nest%201975%20REMASTERED%201080p%20BluRay%20HEVC%20x265%205.1%20BONE&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 24,
+          "size": "2.66 GB",
+          "provider": "Torrentio"
+        },
+        {
+          "title": "One Flew Over the Cuckoos Nest 1975 1080p BluRay DV HDR10 x265-GeneMige",
+          "magnet": "magnet:?xt=urn:btih:a90c85dbad824fceb3ed205db5f83337493353c5&dn=One%20Flew%20Over%20the%20Cuckoos%20Nest%201975%201080p%20BluRay%20DV%20HDR10%20x265-GeneMige&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 13,
+          "size": "7.19 GB",
+          "provider": "Torrentio"
+        },
+        {
+          "title": "One.Flew.Over.The.Cuckoos.Nest.1975.1080p.BluRay.VC1.AC3.5.1.Rem",
+          "magnet": "magnet:?xt=urn:btih:95b7b236e7246056b6b90689fbfe6fec13813f46&dn=One.Flew.Over.The.Cuckoos.Nest.1975.1080p.BluRay.VC1.AC3.5.1.Rem&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 13,
+          "size": "14.44 GB",
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Qualcuno volò sul nido del cuculo (1975)AC31.0 ITA 5.1 ENG 1080p H265 sub NUita.eng Sp33dy94 MIRCrew",
+          "magnet": "magnet:?xt=urn:btih:9f893cb7d58d56644e224eb15366b0e5aaf99c7a&dn=Qualcuno%20vol%C3%B2%20sul%20nido%20del%20cuculo%20(1975)AC31.0%20ITA%205.1%20ENG%201080p%20H265%20sub%20NUita.eng%20Sp33dy94%20MIRCrew&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 7,
+          "size": "3.22 GB",
+          "provider": "Torrentio"
+        },
+        {
+          "title": "One.Flew.Over.The.Cuckoos.Nest.1975.1080p.BluRay.x265-RARBG",
+          "magnet": "magnet:?xt=urn:btih:505eab29766f4ce6f83345856c3a5bf3de906464&dn=One.Flew.Over.The.Cuckoos.Nest.1975.1080p.BluRay.x265-RARBG&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 7,
+          "size": "2.08 GB",
+          "provider": "Torrentio"
+        }
+      ],
+      "torrent_options_720p": [
+        {
+          "title": "One.Flew.Over.The.Cuckoos.Nest.1975.720p.BluRay.x264-Mkvking",
+          "magnet": "magnet:?xt=urn:btih:535cb0599b9cf1ec16f09c1473395f94a5e70582&dn=One.Flew.Over.The.Cuckoos.Nest.1975.720p.BluRay.x264-Mkvking&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 11,
+          "size": "1.19 GB",
+          "provider": "Torrentio"
+        },
+        {
+          "title": "One.Flew.Over.The.Cuckoos.Nest.1975.720p.BrRip.x265.HEVCBay",
+          "magnet": "magnet:?xt=urn:btih:5b3702f91518d49eed3e8be3f7515b5d868c1cc9&dn=One.Flew.Over.The.Cuckoos.Nest.1975.720p.BrRip.x265.HEVCBay&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 2,
+          "size": "597.24 MB",
+          "provider": "Torrentio"
+        },
+        {
+          "title": "One.Flew.Over.The.Cuckoos.Nest.1975.720p.BluRay.999MB.HQ.x265.10bit-GalaxyRG ⭐",
+          "magnet": "magnet:?xt=urn:btih:930826ccd8f01184917b0ca760a53ffce9e51a14&dn=One.Flew.Over.The.Cuckoos.Nest.1975.720p.BluRay.999MB.HQ.x265.10bit-GalaxyRG%20%E2%AD%90&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 2,
+          "size": "995.07 MB",
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Пролетая над гнездом кукушки / One Flew Over the Cuckoo's Nest (1975) BDRip 720p | D",
+          "magnet": "magnet:?xt=urn:btih:63ec7c2e77222491722de657f0b1dd1bf52e9b57&dn=%D0%9F%D1%80%D0%BE%D0%BB%D0%B5%D1%82%D0%B0%D1%8F%20%D0%BD%D0%B0%D0%B4%20%D0%B3%D0%BD%D0%B5%D0%B7%D0%B4%D0%BE%D0%BC%20%D0%BA%D1%83%D0%BA%D1%83%D1%88%D0%BA%D0%B8%20%2F%20One%20Flew%20Over%20the%20Cuckoo's%20Nest%20(1975)%20BDRip%20720p%20%7C%20D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 1,
+          "size": "4.37 GB",
+          "provider": "Torrentio"
+        }
+      ],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "upstairs-downstairs-1971-tv",
@@ -14860,7 +15097,33 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [
+        {
+          "title": "The Adventures of Pete and Pete [COMPLETE SERIES]",
+          "magnet": "magnet:?xt=urn:btih:8455e81a3510b8e96973b88c84b2cd1d03e0446b&dn=The%20Adventures%20of%20Pete%20and%20Pete%20%5BCOMPLETE%20SERIES%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Adventures of Pete and Pete The - Seasons 1-3+Extras",
+          "magnet": "magnet:?xt=urn:btih:eb78a9e994f4e806c7599125dfb74ce9f7112be2&dn=Adventures%20of%20Pete%20and%20Pete%20The%20-%20Seasons%201-3%2BExtras&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Pete and Pete",
+          "magnet": "magnet:?xt=urn:btih:86b2e0b3ae1122f993f6762f74a6487149a85562&dn=Pete%20and%20Pete&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": "229.93 MB",
+          "provider": "Torrentio"
+        }
+      ],
+      "torrent_options_720p": [],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "roque-santeiro-1985-tv",
@@ -16913,7 +17176,76 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [
+        {
+          "title": "The.Magnificent.Seven.1960.1080p.BluRay.1400MB.DD5.1.x264-Galaxy",
+          "magnet": "magnet:?xt=urn:btih:fa6f06a2616a20a9ed2c27741c1794b4dcf5c719&dn=The.Magnificent.Seven.1960.1080p.BluRay.1400MB.DD5.1.x264-Galaxy&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 19,
+          "size": "1.43 GB",
+          "provider": "Torrentio"
+        },
+        {
+          "title": "I magnifici sette (2016) WEBRip 1080p HEVC AAC ITA ENG SUB ENG ITA - Lullozzo",
+          "magnet": "magnet:?xt=urn:btih:f266d07251acdccd80950f819f289ea80a4e5d1a&dn=I%20magnifici%20sette%20(2016)%20WEBRip%201080p%20HEVC%20AAC%20ITA%20ENG%20SUB%20ENG%20ITA%20-%20Lullozzo&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 3,
+          "size": "3.1 GB",
+          "provider": "Torrentio"
+        },
+        {
+          "title": "The.Magnificent.Seven.1960.1080p.BluRay.H264.AAC-RARBG",
+          "magnet": "magnet:?xt=urn:btih:d9245f5376de833c2dd80189ada7e8c3b61a5d22&dn=The.Magnificent.Seven.1960.1080p.BluRay.H264.AAC-RARBG&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 2,
+          "size": "2.44 GB",
+          "provider": "Torrentio"
+        },
+        {
+          "title": "The Magnificent Seven Complete 5 Movie Collection - Western 1960 2016 Eng Subs 1080p [H264-mp4]",
+          "magnet": "magnet:?xt=urn:btih:bc0345bef2ea8a686f56b09e9ef13f17116855d9&dn=The%20Magnificent%20Seven%20Complete%205%20Movie%20Collection%20-%20Western%201960%202016%20Eng%20Subs%201080p%20%5BH264-mp4%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "The Magnificent Seven (1960) RM4K (1080p BluRay x265 HEVC 10bit AAC 5.1 Tigole) [QxR]",
+          "magnet": "magnet:?xt=urn:btih:df4b25b2db3085a89dfc20ada8fd028a0aeede5d&dn=The%20Magnificent%20Seven%20(1960)%20RM4K%20(1080p%20BluRay%20x265%20HEVC%2010bit%20AAC%205.1%20Tigole)%20%5BQxR%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "The.Magnificent.Seven.1960.1080p.BDRIP.x264.dublado.ptBR.ingles.",
+          "magnet": "magnet:?xt=urn:btih:b2efa10690105a810522f9d2945cceeb63a73a06&dn=The.Magnificent.Seven.1960.1080p.BDRIP.x264.dublado.ptBR.ingles.&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": "2.26 GB",
+          "provider": "Torrentio"
+        }
+      ],
+      "torrent_options_720p": [
+        {
+          "title": "The Magnificent Seven (1960) 720p BrRip x264 - YIFY",
+          "magnet": "magnet:?xt=urn:btih:a7212e592e0bb7ee8e7be47d67fd5a67baf76ab1&dn=The%20Magnificent%20Seven%20(1960)%20720p%20BrRip%20x264%20-%20YIFY&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 32,
+          "size": "923 MB",
+          "provider": "Torrentio"
+        },
+        {
+          "title": "3 Palavrinhas - Volume 1 - 2013 - WEBRip 720p - WWW.RAPIDOTORRENTS.COM",
+          "magnet": "magnet:?xt=urn:btih:2dd0c2eeedc702860e5ea079ce1772e943424da9&dn=3%20Palavrinhas%20-%20Volume%201%20-%202013%20-%20WEBRip%20720p%20-%20WWW.RAPIDOTORRENTS.COM&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "The.Magnificent.Seven.1960.720p.BDRIP.x264.dublado.ptBR.ingles.g",
+          "magnet": "magnet:?xt=urn:btih:75fbd9256dd1d399b6e4214782616380d7b31362&dn=The.Magnificent.Seven.1960.720p.BDRIP.x264.dublado.ptBR.ingles.g&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": "6.96 GB",
+          "provider": "Torrentio"
+        }
+      ],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "the-honeymooners-1955-tv",
@@ -17579,7 +17911,55 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [
+        {
+          "title": "Проспект Бразилии / Avenida Brasil [001-160 из 160] (2012) WEB-DLRip 1080 | L",
+          "magnet": "magnet:?xt=urn:btih:cac22fd778cc2b6dddf03a109c894775417ac5b7&dn=%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D0%B8%20%2F%20Avenida%20Brasil%20%5B001-160%20%D0%B8%D0%B7%20160%5D%20(2012)%20WEB-DLRip%201080%20%7C%20L&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Проспект Бразилии / Avenida Brasil [001-160 из 160] (2012) HDTVRip | Первый канал",
+          "magnet": "magnet:?xt=urn:btih:f342ded6a83056a77bd5d5b4e2a0d9caf445fa24&dn=%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D0%B8%20%2F%20Avenida%20Brasil%20%5B001-160%20%D0%B8%D0%B7%20160%5D%20(2012)%20HDTVRip%20%7C%20%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Проспект Бразилии / Avenida Brasil / Серии:01-160(160) [2012 TVRip. вшитые rus Sub от израильского телеканала VIVA]",
+          "magnet": "magnet:?xt=urn:btih:3afb25a4d1ac949dba937e3875ce61d8f20fba6d&dn=%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D0%B8%20%2F%20Avenida%20Brasil%20%2F%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B8%3A01-160(160)%20%5B2012%20TVRip.%20%D0%B2%D1%88%D0%B8%D1%82%D1%8B%D0%B5%20rus%20Sub%20%D0%BE%D1%82%20%D0%B8%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0%20VIVA%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Avenida Brasil CAP 002 (27/03/2012)",
+          "magnet": "magnet:?xt=urn:btih:1081f926e42287d443c1de54ad8ea5b2d9eed00f&dn=Avenida%20Brasil%20CAP%20002%20(27%2F03%2F2012)&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": "664.31 MB",
+          "provider": "Torrentio"
+        }
+      ],
+      "torrent_options_720p": [
+        {
+          "title": "Проспект Бразилии / Avenida Brasil [001-160 из 160] (2012) HDTVRip 720p | Первый канал",
+          "magnet": "magnet:?xt=urn:btih:4b836965da3675b4b888fd9b88fc55a56651220a&dn=%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D0%B8%20%2F%20Avenida%20Brasil%20%5B001-160%20%D0%B8%D0%B7%20160%5D%20(2012)%20HDTVRip%20720p%20%7C%20%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "01-10-DOWNLOAD..-NACIONAL-..Avenida.Brasil.001-010.HDTV.x264.NoGrp.mp4 720P",
+          "magnet": "magnet:?xt=urn:btih:d43bdc96d43eeb5418cedd422c6cb316d49da9aa&dn=01-10-DOWNLOAD..-NACIONAL-..Avenida.Brasil.001-010.HDTV.x264.NoGrp.mp4%20720P&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        }
+      ],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "deadwood-2004-tv",
@@ -18169,7 +18549,19 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [
+        {
+          "title": "The Chaser's War On Everything Complete",
+          "magnet": "magnet:?xt=urn:btih:364c57a75dc3b5ca157b171303665b6e7d26d958&dn=The%20Chaser's%20War%20On%20Everything%20Complete&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        }
+      ],
+      "torrent_options_720p": [],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "parks-and-recreation-2009-tv",
@@ -23789,7 +24181,40 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [
+        {
+          "title": "The Dick Van Dyke Show (1961–1966) All Seasons Complete DVDRip",
+          "magnet": "magnet:?xt=urn:btih:dded5eacc047577b03ad99f0afd2ae7d396cef6e&dn=The%20Dick%20Van%20Dyke%20Show%20(1961%E2%80%931966)%20All%20Seasons%20Complete%20DVDRip&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "The Dick Van Dyke Show - Season 1 [DVDRip][XviD]-cOOt",
+          "magnet": "magnet:?xt=urn:btih:db89a7121b3b12aefd1928ed996dd87780474340&dn=The%20Dick%20Van%20Dyke%20Show%20-%20Season%201%20%5BDVDRip%5D%5BXviD%5D-cOOt&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "The Dick Van Dyke Show (Complete TV series in MP4 format)",
+          "magnet": "magnet:?xt=urn:btih:e767839d01666d8284c8656760737833a89ecab4&dn=The%20Dick%20Van%20Dyke%20Show%20(Complete%20TV%20series%20in%20MP4%20format)&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "The Dick Van Dyke Show 1961 Season 1 Complete x264 [i_c]",
+          "magnet": "magnet:?xt=urn:btih:00765453c474210d78a088407de24c2114c4d8bd&dn=The%20Dick%20Van%20Dyke%20Show%201961%20Season%201%20Complete%20x264%20%5Bi_c%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        }
+      ],
+      "torrent_options_720p": [],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "the-shining-1980-movie",
@@ -24868,7 +25293,19 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [],
+      "torrent_options_720p": [
+        {
+          "title": "A Grande Família - Pack (720p)",
+          "magnet": "magnet:?xt=urn:btih:1ae4f1469105147b4cef8a704d54d8320ea7551a&dn=A%20Grande%20Fam%C3%ADlia%20-%20Pack%20(720p)&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        }
+      ],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "star-wars-the-clone-wars-2008-tv",
@@ -25649,7 +26086,19 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [
+        {
+          "title": "St Elsewhere 1982 Season 1 Complete DVDRip x264 [i c]",
+          "magnet": "magnet:?xt=urn:btih:b047218263e63684152c005e63009aed97793daa&dn=St%20Elsewhere%201982%20Season%201%20Complete%20DVDRip%20x264%20%5Bi%20c%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        }
+      ],
+      "torrent_options_720p": [],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "joker-2019-movie",
@@ -25836,7 +26285,90 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [
+        {
+          "title": "MASH S01E01 MASH the Pilot 1080p HULU WEB-DL AAC2 0 H 264-AJP69 [eztv]",
+          "magnet": "magnet:?xt=urn:btih:80d2fc8e44f430f7f6a8bfe6c296729357a9a1da&dn=MASH%20S01E01%20MASH%20the%20Pilot%201080p%20HULU%20WEB-DL%20AAC2%200%20H%20264-AJP69%20%5Beztv%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 10,
+          "size": "1.08 GB",
+          "provider": "Torrentio"
+        },
+        {
+          "title": "MASH Seasons 1-11 REPACK 1080p DD2 0 HEVC 10bit x265-Bearfish",
+          "magnet": "magnet:?xt=urn:btih:4d24bc46b499fc57b983005ea8f04ad15e4844fa&dn=MASH%20Seasons%201-11%20REPACK%201080p%20DD2%200%20HEVC%2010bit%20x265-Bearfish&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "MASH - Season 1 to 11 - Mp4 x264 AC3 1080p",
+          "magnet": "magnet:?xt=urn:btih:2c62139e8358e248e80cb4677768d14538485ae5&dn=MASH%20-%20Season%201%20to%2011%20-%20Mp4%20x264%20AC3%201080p&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "MASH (1972) Season 1-11 S01-11 (1080p AMZN WEB-DL x265 HEVC 10bit EAC3 2.0 ImE) [QxR]",
+          "magnet": "magnet:?xt=urn:btih:9832da5e0ab5e789c326c9789fe6cf585d682541&dn=MASH%20(1972)%20Season%201-11%20S01-11%20(1080p%20AMZN%20WEB-DL%20x265%20HEVC%2010bit%20EAC3%202.0%20ImE)%20%5BQxR%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Mash (Complete 1972-1983 TV Series) 1080p H.264 (moviesbyrizzo)",
+          "magnet": "magnet:?xt=urn:btih:bcd3a92711f26edc781a37b75311b192c84a9b07&dn=Mash%20(Complete%201972-1983%20TV%20Series)%201080p%20H.264%20(moviesbyrizzo)&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "MASH.S01.1080p.AMZN.WEBRip.DDP2.0.x264-AJP69[rartv]",
+          "magnet": "magnet:?xt=urn:btih:1905abb22bc4cae8ebf25ba555050b0a22bd3de1&dn=MASH.S01.1080p.AMZN.WEBRip.DDP2.0.x264-AJP69%5Brartv%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Mash (Complete TV Series) 1080p 146GB vers (moviesbyrizzo upl)",
+          "magnet": "magnet:?xt=urn:btih:928ae5416f3b31b60f2f86db2511705d4cddcea6&dn=Mash%20(Complete%20TV%20Series)%201080p%20146GB%20vers%20(moviesbyrizzo%20upl)&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Mash (Complete TV Series) 480p XviD from 1080p moviesbyrizzo",
+          "magnet": "magnet:?xt=urn:btih:107af88358bf455977076f74249f5167e2692c6f&dn=Mash%20(Complete%20TV%20Series)%20480p%20XviD%20from%201080p%20moviesbyrizzo&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Mash 480p XviD widescreen from 1080p 48GB moviesbyrizzo",
+          "magnet": "magnet:?xt=urn:btih:ef9b108417182381de093a8b0ff9c5ac9c889f0b&dn=Mash%20480p%20XviD%20widescreen%20from%201080p%2048GB%20moviesbyrizzo&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        }
+      ],
+      "torrent_options_720p": [
+        {
+          "title": "M.A.S.H (S01-011)(1972-1983)(Complete)(HD)(720p)(WebDL)(x264)(EN-CZ-DE)(MultiSub) PHDTeam",
+          "magnet": "magnet:?xt=urn:btih:1ecc32138bd11fb594c019c13b355e06fd6f3eba&dn=M.A.S.H%20(S01-011)(1972-1983)(Complete)(HD)(720p)(WebDL)(x264)(EN-CZ-DE)(MultiSub)%20PHDTeam&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "M*A*S*H *1972-1983* [S01-S11] [720p.DNSP.WEB-DL.AAC2.0.H.264-FT][Lektor PL][Alusia]",
+          "magnet": "magnet:?xt=urn:btih:0e7086cd884b8a8eac7e0c76992bcf3923daddf6&dn=M*A*S*H%20*1972-1983*%20%5BS01-S11%5D%20%5B720p.DNSP.WEB-DL.AAC2.0.H.264-FT%5D%5BLektor%20PL%5D%5BAlusia%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        }
+      ],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "spider-man-into-the-spider-verse-2018-movie",
@@ -27942,7 +28474,19 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [
+        {
+          "title": "S01E01-1080P-.MKV.Renascer S01E001 2024 WEB-DL 1080p x264 NACIONAL 2.0",
+          "magnet": "magnet:?xt=urn:btih:5862a07908b944846b433aa32b3a1c1281a406c9&dn=S01E01-1080P-.MKV.Renascer%20S01E001%202024%20WEB-DL%201080p%20x264%20NACIONAL%202.0&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": "2.83 GB",
+          "provider": "Torrentio"
+        }
+      ],
+      "torrent_options_720p": [],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "full-metal-jacket-1987-movie",
