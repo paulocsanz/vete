@@ -32090,7 +32090,40 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [
+        {
+          "title": "Хозяйка Судьбы / Senhora do Destino / Серии: 001-181 из 181 [2004 HDTVRip]",
+          "magnet": "magnet:?xt=urn:btih:0c27dde726e3cadf0c9af7913caeb78772ae5ccd&dn=%D0%A5%D0%BE%D0%B7%D1%8F%D0%B9%D0%BA%D0%B0%20%D0%A1%D1%83%D0%B4%D1%8C%D0%B1%D1%8B%20%2F%20Senhora%20do%20Destino%20%2F%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B8%3A%20001-181%20%D0%B8%D0%B7%20181%20%5B2004%20HDTVRip%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Хозяйка Судьбы / Senhora do Destino 1-86(180) [2004 TVRip SATRip]",
+          "magnet": "magnet:?xt=urn:btih:7721f92cd95977641f3a4c5a8b65a3502c02c6f5&dn=%D0%A5%D0%BE%D0%B7%D1%8F%D0%B9%D0%BA%D0%B0%20%D0%A1%D1%83%D0%B4%D1%8C%D0%B1%D1%8B%20%2F%20Senhora%20do%20Destino%201-86(180)%20%5B2004%20TVRip%20SATRip%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Хозяйка судьбы / Senhora do Destino 1-4(180) [2004 SATRip]",
+          "magnet": "magnet:?xt=urn:btih:0a4ed4759c08a13118f6b8a642c4ceab68b26aed&dn=%D0%A5%D0%BE%D0%B7%D1%8F%D0%B9%D0%BA%D0%B0%20%D1%81%D1%83%D0%B4%D1%8C%D0%B1%D1%8B%20%2F%20Senhora%20do%20Destino%201-4(180)%20%5B2004%20SATRip%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Хозяйка Судьбы / Senhora do Destino 1-04(180) [2004 TVRip]",
+          "magnet": "magnet:?xt=urn:btih:2d5da594d75ec17b261c5209e7c4fb4057387fac&dn=%D0%A5%D0%BE%D0%B7%D1%8F%D0%B9%D0%BA%D0%B0%20%D0%A1%D1%83%D0%B4%D1%8C%D0%B1%D1%8B%20%2F%20Senhora%20do%20Destino%201-04(180)%20%5B2004%20TVRip%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        }
+      ],
+      "torrent_options_720p": [],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "the-thing-1982-movie",
@@ -33161,7 +33194,19 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [
+        {
+          "title": "Сила желания / A Força do Querer / Серии: 1-60 (172) [2017 HDTVRip]",
+          "magnet": "magnet:?xt=urn:btih:b07d3b4e50b4ddea6268d5fcea6479fe6bdf5d15&dn=%D0%A1%D0%B8%D0%BB%D0%B0%20%D0%B6%D0%B5%D0%BB%D0%B0%D0%BD%D0%B8%D1%8F%20%2F%20A%20For%C3%A7a%20do%20Querer%20%2F%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B8%3A%201-60%20(172)%20%5B2017%20HDTVRip%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        }
+      ],
+      "torrent_options_720p": [],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "mandrake-2005-tv",
@@ -34000,7 +34045,48 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [
+        {
+          "title": "Правила игры / A Regra Do Jogo /(1-150 из 150 серии) [2015 HDTVRip] Dub ТК Романтичное",
+          "magnet": "magnet:?xt=urn:btih:f087e17a48a4b9878030b9590e67f6733b178dfc&dn=%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0%20%D0%B8%D0%B3%D1%80%D1%8B%20%2F%20A%20Regra%20Do%20Jogo%20%2F(1-150%20%D0%B8%D0%B7%20150%20%D1%81%D0%B5%D1%80%D0%B8%D0%B8)%20%5B2015%20HDTVRip%5D%20Dub%20%D0%A2%D0%9A%20%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%D1%82%D0%B8%D1%87%D0%BD%D0%BE%D0%B5&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Правила игры / A Regra do Jogo / Серии: 1-150 из 150 [2015–2016 Бразилия Теленовелла WEB-DL 1080]",
+          "magnet": "magnet:?xt=urn:btih:e9bfff3b10dc2cb22ef3aec5657dc8c102922f72&dn=%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0%20%D0%B8%D0%B3%D1%80%D1%8B%20%2F%20A%20Regra%20do%20Jogo%20%2F%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B8%3A%201-150%20%D0%B8%D0%B7%20150%20%5B2015%E2%80%932016%20%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D1%8F%20%D0%A2%D0%B5%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D0%B0%20WEB-DL%201080%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Правила игры / A Regra Do Jogo / Серии:001-150 ( 150 )[2016 TVRip оригинал: португальский субтитры русские(вшитые)]",
+          "magnet": "magnet:?xt=urn:btih:6b1c09bddaadd37ec432907de0f4c887daafa1c2&dn=%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0%20%D0%B8%D0%B3%D1%80%D1%8B%20%2F%20A%20Regra%20Do%20Jogo%20%2F%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B8%3A001-150%20(%20150%20)%5B2016%20TVRip%20%D0%BE%D1%80%D0%B8%D0%B3%D0%B8%D0%BD%D0%B0%D0%BB%3A%20%D0%BF%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D1%83%D0%B1%D1%82%D0%B8%D1%82%D1%80%D1%8B%20%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B5(%D0%B2%D1%88%D0%B8%D1%82%D1%8B%D0%B5)%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Правила игры / A Regra Do Jogo / Серии: 1-31 40-167 из 167 [2015 HDTVRip] MVO (AVEBRASIL.TV)",
+          "magnet": "magnet:?xt=urn:btih:17cfc9ef606de99e553d1cb5700b68b807aacfe6&dn=%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0%20%D0%B8%D0%B3%D1%80%D1%8B%20%2F%20A%20Regra%20Do%20Jogo%20%2F%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B8%3A%201-31%2040-167%20%D0%B8%D0%B7%20167%20%5B2015%20HDTVRip%5D%20MVO%20(AVEBRASIL.TV)&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        }
+      ],
+      "torrent_options_720p": [
+        {
+          "title": "Правила игры / A Regra Do Jogo / Серии: 1-45 из 161 [2015 HDTVRip 720p] MVO AltPro",
+          "magnet": "magnet:?xt=urn:btih:b27741fcb608e50c462a251fcaa9f073b2522cd6&dn=%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0%20%D0%B8%D0%B3%D1%80%D1%8B%20%2F%20A%20Regra%20Do%20Jogo%20%2F%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B8%3A%201-45%20%D0%B8%D0%B7%20161%20%5B2015%20HDTVRip%20720p%5D%20MVO%20AltPro&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        }
+      ],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "that-70s-show-1998-tv",
@@ -38272,7 +38358,48 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [
+        {
+          "title": "Любовь к жизни / Amor a Vida / Серии: 001-160 (160) [2014 TVRip ;оригинал: португальский субтитры русские(вшитые)]",
+          "magnet": "magnet:?xt=urn:btih:ab2aa578f86b8bd4842d3381e2792f4583680cf7&dn=%D0%9B%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C%20%D0%BA%20%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8%20%2F%20Amor%20a%20Vida%20%2F%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B8%3A%20001-160%20(160)%20%5B2014%20TVRip%20%3B%D0%BE%D1%80%D0%B8%D0%B3%D0%B8%D0%BD%D0%B0%D0%BB%3A%20%D0%BF%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D1%83%D0%B1%D1%82%D0%B8%D1%82%D1%80%D1%8B%20%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B5(%D0%B2%D1%88%D0%B8%D1%82%D1%8B%D0%B5)%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Любовь к жизни / Amor a Vida / Серии: 1 7-100 из 221 [2013-2014 HDTVRip] MVO (RG MYDIMKA)",
+          "magnet": "magnet:?xt=urn:btih:0fd8eaed8192eebb50eac8038be0d3ef350e3267&dn=%D0%9B%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C%20%D0%BA%20%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8%20%2F%20Amor%20a%20Vida%20%2F%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B8%3A%201%207-100%20%D0%B8%D0%B7%20221%20%5B2013-2014%20HDTVRip%5D%20MVO%20(RG%20MYDIMKA)&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Любовь к жизни / Amor à Vida / Сезон: 1 / Серии: 1-10 из 221 [2013-2014 HDTVRip] DVO (ViruseProject)",
+          "magnet": "magnet:?xt=urn:btih:2b3cdbb8385dc0576a82b57dbe647c83e43ccb88&dn=%D0%9B%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C%20%D0%BA%20%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8%20%2F%20Amor%20%C3%A0%20Vida%20%2F%20%D0%A1%D0%B5%D0%B7%D0%BE%D0%BD%3A%201%20%2F%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B8%3A%201-10%20%D0%B8%D0%B7%20221%20%5B2013-2014%20HDTVRip%5D%20DVO%20(ViruseProject)&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Rastros De Mentiras: Parte 1.mp4",
+          "magnet": "magnet:?xt=urn:btih:597c74c2de7591efe0d3db70d664ffaf62c8f765&dn=Rastros%20De%20Mentiras%3A%20Parte%201.mp4&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": "1.48 GB",
+          "provider": "Torrentio"
+        }
+      ],
+      "torrent_options_720p": [
+        {
+          "title": "Amor a Vida 2013 - Novela Completa (720p)",
+          "magnet": "magnet:?xt=urn:btih:9f85173572dc41f892289dcd419bca36f14a9fd2&dn=Amor%20a%20Vida%202013%20-%20Novela%20Completa%20(720p)&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        }
+      ],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "sai-de-baixo-1996-tv",
@@ -41010,7 +41137,26 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [
+        {
+          "title": "Полные очарования / Cheias de Charme / Серии: 1-32 из 180 [2012 HDTVRip]",
+          "magnet": "magnet:?xt=urn:btih:08a1f48fa9f99352342d2352d56db1a70f82143c&dn=%D0%9F%D0%BE%D0%BB%D0%BD%D1%8B%D0%B5%20%D0%BE%D1%87%D0%B0%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%2F%20Cheias%20de%20Charme%20%2F%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B8%3A%201-32%20%D0%B8%D0%B7%20180%20%5B2012%20HDTVRip%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Cheias de Charme CAP 002 (17/04/2012)",
+          "magnet": "magnet:?xt=urn:btih:eeef766f44cee5fec0a4157fcf9146db8e45d710&dn=Cheias%20de%20Charme%20CAP%20002%20(17%2F04%2F2012)&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": "886.19 MB",
+          "provider": "Torrentio"
+        }
+      ],
+      "torrent_options_720p": [],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "lacos-de-familia-2000-tv",
@@ -45228,7 +45374,40 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [
+        {
+          "title": "Спаси и сохрани Святой Георгий (международная версия) / Salve Jorge (Internacional) / Серии: 1-98 (139) (Маркос Шехтман Фред Майринк / Marcos Schechtman Fred Mayrink)[2013 HDTV] VO",
+          "magnet": "magnet:?xt=urn:btih:c0fdaf5df48bccbcf69761ef33b358723cd87d10&dn=%D0%A1%D0%BF%D0%B0%D1%81%D0%B8%20%D0%B8%20%D1%81%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B8%20%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B9%20%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B9%20(%D0%BC%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F)%20%2F%20Salve%20Jorge%20(Internacional)%20%2F%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B8%3A%201-98%20(139)%20(%D0%9C%D0%B0%D1%80%D0%BA%D0%BE%D1%81%20%D0%A8%D0%B5%D1%85%D1%82%D0%BC%D0%B0%D0%BD%20%D0%A4%D1%80%D0%B5%D0%B4%20%D0%9C%D0%B0%D0%B9%D1%80%D0%B8%D0%BD%D0%BA%20%2F%20Marcos%20Schechtman%20Fred%20Mayrink)%5B2013%20HDTV%5D%20VO&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Спаси меня Святой Георгий / Salve Jorge / Серии: 1-20 из 179 [2013 HDTV] Субтитры rus",
+          "magnet": "magnet:?xt=urn:btih:811e7179d386429e371300f308e6aac6013b23fd&dn=%D0%A1%D0%BF%D0%B0%D1%81%D0%B8%20%D0%BC%D0%B5%D0%BD%D1%8F%20%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B9%20%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B9%20%2F%20Salve%20Jorge%20%2F%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B8%3A%201-20%20%D0%B8%D0%B7%20179%20%5B2013%20HDTV%5D%20%D0%A1%D1%83%D0%B1%D1%82%D0%B8%D1%82%D1%80%D1%8B%20rus&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Спаси меня Святой Георгий / Salve Jorge / Серии: 1-16 из 179 [2012-2013 HDTVRip] DVO (ViruseProject)",
+          "magnet": "magnet:?xt=urn:btih:dc590c73c51699120e747b66c5ed93abf002239f&dn=%D0%A1%D0%BF%D0%B0%D1%81%D0%B8%20%D0%BC%D0%B5%D0%BD%D1%8F%20%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B9%20%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B9%20%2F%20Salve%20Jorge%20%2F%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B8%3A%201-16%20%D0%B8%D0%B7%20179%20%5B2012-2013%20HDTVRip%5D%20DVO%20(ViruseProject)&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Спаси меня Святой Георгий / Salve Jorge / Серии: 001-140 (140) [2012 HDTVRip720]",
+          "magnet": "magnet:?xt=urn:btih:eb614fa62b4972031feb3e00d50fc270b28c5db3&dn=%D0%A1%D0%BF%D0%B0%D1%81%D0%B8%20%D0%BC%D0%B5%D0%BD%D1%8F%20%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B9%20%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B9%20%2F%20Salve%20Jorge%20%2F%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B8%3A%20001-140%20(140)%20%5B2012%20HDTVRip720%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        }
+      ],
+      "torrent_options_720p": [],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "bus-174-2002-movie",
@@ -45484,7 +45663,19 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [],
+      "torrent_options_720p": [
+        {
+          "title": "Saramandaia.Cap001.720p.HDTV.x264-TrueHD.mkv",
+          "magnet": "magnet:?xt=urn:btih:0480eada5644bfc5ae701acf19efe53d9c4a70c7&dn=Saramandaia.Cap001.720p.HDTV.x264-TrueHD.mkv&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": "1.14 GB",
+          "provider": "Torrentio"
+        }
+      ],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "amour-2012-movie",
@@ -48246,7 +48437,19 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [
+        {
+          "title": "Дороги Индии / Caminho das Índias / Серии: 001-160 (160) [2009 WEB-DLRip 1080p] MVO (Русский Дубляж)",
+          "magnet": "magnet:?xt=urn:btih:53022d37fd242dfbdf481e7dae8e0030052ebf23&dn=%D0%94%D0%BE%D1%80%D0%BE%D0%B3%D0%B8%20%D0%98%D0%BD%D0%B4%D0%B8%D0%B8%20%2F%20Caminho%20das%20%C3%8Dndias%20%2F%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B8%3A%20001-160%20(160)%20%5B2009%20WEB-DLRip%201080p%5D%20MVO%20(%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D0%94%D1%83%D0%B1%D0%BB%D1%8F%D0%B6)&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        }
+      ],
+      "torrent_options_720p": [],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "mystic-river-2003-movie",
@@ -54089,7 +54292,27 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [
+        {
+          "title": "En segundos [HDTV 1080p][Cap.101]",
+          "magnet": "magnet:?xt=urn:btih:6567994376e3ca7a1b2472c2d7c53897175d7406&dn=En%20segundos%20%5BHDTV%201080p%5D%5BCap.101%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": "3.64 GB",
+          "provider": "Torrentio"
+        }
+      ],
+      "torrent_options_720p": [
+        {
+          "title": "En segundos [HDTV 720p][Cap.101]",
+          "magnet": "magnet:?xt=urn:btih:0ccfcedb6b5e26ef6801328f59eaf03b26b8d56f&dn=En%20segundos%20%5BHDTV%20720p%5D%5BCap.101%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": "1.43 GB",
+          "provider": "Torrentio"
+        }
+      ],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "three-identical-strangers-2018-movie",
@@ -58951,7 +59174,41 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [
+        {
+          "title": "O Bandido da Luz Vermelha 1968 1080p WEBRip",
+          "magnet": "magnet:?xt=urn:btih:50c6ec54687d1d2d86aeb4083626ab75f92fd5c6&dn=O%20Bandido%20da%20Luz%20Vermelha%201968%201080p%20WEBRip&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 4,
+          "size": "1.54 GB",
+          "provider": "Torrentio"
+        },
+        {
+          "title": "O Bandido Da Luz Vermelha (1968) 1080p WEBRip-WORLD",
+          "magnet": "magnet:?xt=urn:btih:0b0a231dbcf3acbd34840f8747bb5c33fd9280dc&dn=O%20Bandido%20Da%20Luz%20Vermelha%20(1968)%201080p%20WEBRip-WORLD&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": "1.54 GB",
+          "provider": "Torrentio"
+        }
+      ],
+      "torrent_options_720p": [
+        {
+          "title": "O Bandido Da Luz Vermelha (1968) 720p WEBRip-WORLD",
+          "magnet": "magnet:?xt=urn:btih:0afdc0ef9c84fd12d68880c63deb8f22deee5605&dn=O%20Bandido%20Da%20Luz%20Vermelha%20(1968)%20720p%20WEBRip-WORLD&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": "847.57 MB",
+          "provider": "Torrentio"
+        },
+        {
+          "title": "O Bandido da Luz Vermelha 1968 720p WEBRip",
+          "magnet": "magnet:?xt=urn:btih:cfd4dd517233d6d7fe4ce3839dd505c33ed80375&dn=O%20Bandido%20da%20Luz%20Vermelha%201968%20720p%20WEBRip&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": "847.57 MB",
+          "provider": "Torrentio"
+        }
+      ],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "aquarius-2016-movie",
@@ -64519,7 +64776,62 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [
+        {
+          "title": "Good.Morning.Veronica.S01.PORTUGUESE.1080p.WEBRip.x265-RARBG",
+          "magnet": "magnet:?xt=urn:btih:36d2b2dac4eb380bd25de8d918c8f1cd24102d3e&dn=Good.Morning.Veronica.S01.PORTUGUESE.1080p.WEBRip.x265-RARBG&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Good.Morning.Veronica.S01.PORTUGUESE.1080p.NF.WEBRip.DDP5.1.x264-NTb[rartv]",
+          "magnet": "magnet:?xt=urn:btih:c501eb81f85babf337e584661fe5b3fc30a95821&dn=Good.Morning.Veronica.S01.PORTUGUESE.1080p.NF.WEBRip.DDP5.1.x264-NTb%5Brartv%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Good.Morning.Veronica.S01.DUBBED.1080p.WEBRip.x265-RARBG",
+          "magnet": "magnet:?xt=urn:btih:6516f2bfb1589a4e7f21eed386390e92232260ae&dn=Good.Morning.Veronica.S01.DUBBED.1080p.WEBRip.x265-RARBG&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Bom Dia Verônica (2020) [Sezon 1] [Lektor & Napisy PL] [MULTi] [1080p] [WEB-DL] [x264-KiT]",
+          "magnet": "magnet:?xt=urn:btih:3af8d0dae64654a607462357ed7adfee5de513ff&dn=Bom%20Dia%20Ver%C3%B4nica%20(2020)%20%5BSezon%201%5D%20%5BLektor%20%26%20Napisy%20PL%5D%20%5BMULTi%5D%20%5B1080p%5D%20%5BWEB-DL%5D%20%5Bx264-KiT%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Good Morning Veronica S01 PORTUGUESE 1080p WEBRip x265",
+          "magnet": "magnet:?xt=urn:btih:12aaeb1af32d716734b8ea3baa956ff64ce11ef7&dn=Good%20Morning%20Veronica%20S01%20PORTUGUESE%201080p%20WEBRip%20x265&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Good Morning Veronica S01E01 1080p WEB h264-NOMA",
+          "magnet": "magnet:?xt=urn:btih:92c4124e5eb8018f53986cc8018df073b046e1f9&dn=Good%20Morning%20Veronica%20S01E01%201080p%20WEB%20h264-NOMA&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": "1.1 GB",
+          "provider": "Torrentio"
+        }
+      ],
+      "torrent_options_720p": [
+        {
+          "title": "Good Morning Veronica S01E01 720p WEB h264-NOMA",
+          "magnet": "magnet:?xt=urn:btih:dd24737099b989b373eefb6f3657a26683d4d385&dn=Good%20Morning%20Veronica%20S01E01%20720p%20WEB%20h264-NOMA&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": "671.99 MB",
+          "provider": "Torrentio"
+        }
+      ],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "hamlet-1948-movie",
@@ -64743,7 +65055,27 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [
+        {
+          "title": "Scotland The Promised Land BBC 2016 W Subs 468p",
+          "magnet": "magnet:?xt=urn:btih:3904b1fc583d7ff0b6ea40f233b64af5f445d35a&dn=Scotland%20The%20Promised%20Land%20BBC%202016%20W%20Subs%20468p&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        }
+      ],
+      "torrent_options_720p": [
+        {
+          "title": "S01E001-HDTV-720P-.MKV.-NACIONAL-..A.Terra.Prometida.2016.E001.720pMINI.HDTV.TORRENTDOSFILMES.COM",
+          "magnet": "magnet:?xt=urn:btih:0c3c2fcb03f34da2a15623f207fab22a7407e090&dn=S01E001-HDTV-720P-.MKV.-NACIONAL-..A.Terra.Prometida.2016.E001.720pMINI.HDTV.TORRENTDOSFILMES.COM&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": "1.63 GB",
+          "provider": "Torrentio"
+        }
+      ],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "summer-wars-2009-movie",
@@ -71309,7 +71641,26 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [
+        {
+          "title": "Совершенно бесподобная / Totalmente Demais / Серии: 01-130 из 130 [2015-2016 WEB-DLRip 720]",
+          "magnet": "magnet:?xt=urn:btih:3039475ccb0425ef0c8f7c12141fa414ffd36782&dn=%D0%A1%D0%BE%D0%B2%D0%B5%D1%80%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%20%D0%B1%D0%B5%D1%81%D0%BF%D0%BE%D0%B4%D0%BE%D0%B1%D0%BD%D0%B0%D1%8F%20%2F%20Totalmente%20Demais%20%2F%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B8%3A%2001-130%20%D0%B8%D0%B7%20130%20%5B2015-2016%20WEB-DLRip%20720%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Совершенно бесподобная / Totalmente Demais / Серии: 1-130 (130) [2015 TVRip] rus Sub",
+          "magnet": "magnet:?xt=urn:btih:e0a8e5eee08e152c9eb8d5ef23aae9ef1049525d&dn=%D0%A1%D0%BE%D0%B2%D0%B5%D1%80%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%20%D0%B1%D0%B5%D1%81%D0%BF%D0%BE%D0%B4%D0%BE%D0%B1%D0%BD%D0%B0%D1%8F%20%2F%20Totalmente%20Demais%20%2F%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B8%3A%201-130%20(130)%20%5B2015%20TVRip%5D%20rus%20Sub&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        }
+      ],
+      "torrent_options_720p": [],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "verao-90-2019-tv",
@@ -77209,7 +77560,41 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [
+        {
+          "title": "Limite.1931.1080p.BluRay.x265-RARBG",
+          "magnet": "magnet:?xt=urn:btih:62204732462488715fd42d94343a51c7cc1aa21b&dn=Limite.1931.1080p.BluRay.x265-RARBG&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 2,
+          "size": "1.84 GB",
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Limite.1931.1080p.BluRay.H264.AAC-RARBG",
+          "magnet": "magnet:?xt=urn:btih:06702e4278f16935a43bad0a7514874bf313b157&dn=Limite.1931.1080p.BluRay.H264.AAC-RARBG&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": "2.26 GB",
+          "provider": "Torrentio"
+        }
+      ],
+      "torrent_options_720p": [
+        {
+          "title": "Limit 1931 720p BluRay",
+          "magnet": "magnet:?xt=urn:btih:0b347da403e17eec23de5b05e3a946f31e21e2e9&dn=Limit%201931%20720p%20BluRay&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 2,
+          "size": "1.06 GB",
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Limit (1931) 720p BluRay-WORLD",
+          "magnet": "magnet:?xt=urn:btih:3854d96f67896bf04ba6fac6c93fdb19b148601c&dn=Limit%20(1931)%20720p%20BluRay-WORLD&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": "1.06 GB",
+          "provider": "Torrentio"
+        }
+      ],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "black-god-white-devil-1964-movie",
@@ -77531,7 +77916,26 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [
+        {
+          "title": "A Ostra E O Vento (Dir: Walter Lima Jr. / Brasil 1997)",
+          "magnet": "magnet:?xt=urn:btih:91d870d288462aab1fabf8b03c6f69d6f63899ab&dn=A%20Ostra%20E%20O%20Vento%20(Dir%3A%20Walter%20Lima%20Jr.%20%2F%20Brasil%201997)&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": "2.2 GB",
+          "provider": "Torrentio"
+        },
+        {
+          "title": "A Ostra e o Vento - Walter Lima Jr.",
+          "magnet": "magnet:?xt=urn:btih:bffed859c56426e8868cc4fda6b95893b2fd15c0&dn=A%20Ostra%20e%20o%20Vento%20-%20Walter%20Lima%20Jr.&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": "701.09 MB",
+          "provider": "Torrentio"
+        }
+      ],
+      "torrent_options_720p": [],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "sandy-junior-1999-tv",
@@ -77589,7 +77993,27 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [
+        {
+          "title": "Sandy Jonquille (E01 - 05)",
+          "magnet": "magnet:?xt=urn:btih:b64f8975515b134f2ef542bd123c4e67ae0c4fc8&dn=Sandy%20Jonquille%20(E01%20-%2005)&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": "899.24 MB",
+          "provider": "Torrentio"
+        }
+      ],
+      "torrent_options_720p": [
+        {
+          "title": "Sandy e Júnior - 1ª Temporada 1999 WEB-DL 720p Nacional",
+          "magnet": "magnet:?xt=urn:btih:ba3a3f02e7d022b9620d96c015a96f1591440164&dn=Sandy%20e%20J%C3%BAnior%20-%201%C2%AA%20Temporada%201999%20WEB-DL%20720p%20Nacional&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        }
+      ],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "trash-2014-movie",
@@ -83096,7 +83520,26 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [
+        {
+          "title": "Вавилон / Babilonia / Серии: 101-143 из 143 [2015 HDTVRip] MVO (AVEBRASIL.TV)",
+          "magnet": "magnet:?xt=urn:btih:13447a395f2762b9c3fb7cf8fcb22a736cde61f2&dn=%D0%92%D0%B0%D0%B2%D0%B8%D0%BB%D0%BE%D0%BD%20%2F%20Babilonia%20%2F%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B8%3A%20101-143%20%D0%B8%D0%B7%20143%20%5B2015%20HDTVRip%5D%20MVO%20(AVEBRASIL.TV)&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Вавилон / Babilonia / Серии: 1-50 из 143 [2015 HDTVRip] MVO (AVEBRASIL.TV)",
+          "magnet": "magnet:?xt=urn:btih:0ab6dca95f5871af0a2f5d7ea8ea5e8403a21940&dn=%D0%92%D0%B0%D0%B2%D0%B8%D0%BB%D0%BE%D0%BD%20%2F%20Babilonia%20%2F%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B8%3A%201-50%20%D0%B8%D0%B7%20143%20%5B2015%20HDTVRip%5D%20MVO%20(AVEBRASIL.TV)&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        }
+      ],
+      "torrent_options_720p": [],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "girls-from-ipanema-2019-tv",
@@ -84055,7 +84498,26 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [
+        {
+          "title": "Пересечение / Travessia / Серии: 001-080 (080) [2022 WEB-DL 1080p] MVO Goodtime Media",
+          "magnet": "magnet:?xt=urn:btih:e29137edbc2b552786ba1dc256673a4a81d282f4&dn=%D0%9F%D0%B5%D1%80%D0%B5%D1%81%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%2F%20Travessia%20%2F%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B8%3A%20001-080%20(080)%20%5B2022%20WEB-DL%201080p%5D%20MVO%20Goodtime%20Media&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Travessia S01E01 WEB-DL 1080p NACIONAL 2.0",
+          "magnet": "magnet:?xt=urn:btih:5ebc8b2e10aa93db8cd4980ea46132e08dcc2ae8&dn=Travessia%20S01E01%20WEB-DL%201080p%20NACIONAL%202.0&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": "2.53 GB",
+          "provider": "Torrentio"
+        }
+      ],
+      "torrent_options_720p": [],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "rancho-fundo-2024-tv",
@@ -88261,7 +88723,19 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [
+        {
+          "title": "С замиранием сердца / Haja Coracao / Серии: 001-60(138) [2016 HDTVRip] Avebrasil",
+          "magnet": "magnet:?xt=urn:btih:fd914fdb71f9128a0ccbf2aeb17980340244e5b7&dn=%D0%A1%20%D0%B7%D0%B0%D0%BC%D0%B8%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC%20%D1%81%D0%B5%D1%80%D0%B4%D1%86%D0%B0%20%2F%20Haja%20Coracao%20%2F%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B8%3A%20001-60(138)%20%5B2016%20HDTVRip%5D%20Avebrasil&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        }
+      ],
+      "torrent_options_720p": [],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "the-super-mario-bros-movie-2023-movie",
@@ -89761,7 +90235,76 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [
+        {
+          "title": "Macunaima 1969 1080p BluRay",
+          "magnet": "magnet:?xt=urn:btih:e90bb2a6a45b404158cb02963e2ed0332a535cc1&dn=Macunaima%201969%201080p%20BluRay&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 8,
+          "size": "1.63 GB",
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Макунаима / Макунайма / Macunaíma (Macunaima) [1969 BDRemux 1080p] [Kino Lorber] AVO (Алексеев) + Sub Rus (Offshorepublic) Eng + Original Por",
+          "magnet": "magnet:?xt=urn:btih:a2764c1b58608823b577bb91b9f167979eee0179&dn=%D0%9C%D0%B0%D0%BA%D1%83%D0%BD%D0%B0%D0%B8%D0%BC%D0%B0%20%2F%20%D0%9C%D0%B0%D0%BA%D1%83%D0%BD%D0%B0%D0%B9%D0%BC%D0%B0%20%2F%20Macuna%C3%ADma%20(Macunaima)%20%5B1969%20BDRemux%201080p%5D%20%5BKino%20Lorber%5D%20AVO%20(%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2)%20%2B%20Sub%20Rus%20(Offshorepublic)%20Eng%20%2B%20Original%20Por&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": "19.9 GB",
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Macunaíma 1969 Nacional Bluray 1080p",
+          "magnet": "magnet:?xt=urn:btih:b4f9cf1e5247c5746ddde13346a874aac75e710e&dn=Macuna%C3%ADma%201969%20Nacional%20Bluray%201080p&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": "1.74 GB",
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Macunaima.1969.PORTUGUESE.1080p.BluRay.H264.AAC-VXT",
+          "magnet": "magnet:?xt=urn:btih:5aed2b0bc9b0121947108ec228ef14e0124bc9b3&dn=Macunaima.1969.PORTUGUESE.1080p.BluRay.H264.AAC-VXT&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": "1.98 GB",
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Macunaima.1969.1080p.BluRay.x264-USURY",
+          "magnet": "magnet:?xt=urn:btih:b75274a6ab2c7f010c35d7a1f0123cc45e982b45&dn=Macunaima.1969.1080p.BluRay.x264-USURY&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": "7.95 GB",
+          "provider": "Torrentio"
+        }
+      ],
+      "torrent_options_720p": [
+        {
+          "title": "Macunaima 1969 720p BluRay",
+          "magnet": "magnet:?xt=urn:btih:fd898312c2eb1eca9204d9aa3844ba4cf6ae1ad8&dn=Macunaima%201969%20720p%20BluRay&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 4,
+          "size": "848.07 MB",
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Макунаима / Макунайма / Macunaima [1969 BDRip 720p] AVO (Алексеев) + Sub Rus Eng + Original Por",
+          "magnet": "magnet:?xt=urn:btih:663149ab61885d50b58ded304c8169b57280b063&dn=%D0%9C%D0%B0%D0%BA%D1%83%D0%BD%D0%B0%D0%B8%D0%BC%D0%B0%20%2F%20%D0%9C%D0%B0%D0%BA%D1%83%D0%BD%D0%B0%D0%B9%D0%BC%D0%B0%20%2F%20Macunaima%20%5B1969%20BDRip%20720p%5D%20AVO%20(%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2)%20%2B%20Sub%20Rus%20Eng%20%2B%20Original%20Por&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": "4.86 GB",
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Macunaíma 1969 Nacional Bluray 720p",
+          "magnet": "magnet:?xt=urn:btih:1c8a8f38327ae2ed7c55798141b924626e2f4865&dn=Macuna%C3%ADma%201969%20Nacional%20Bluray%20720p&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": "962.93 MB",
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Macunaima.1969.720p.BluRay.x264-USURY",
+          "magnet": "magnet:?xt=urn:btih:3a856f0d20ca9fb25294c46e77239f7da799dba9&dn=Macunaima.1969.720p.BluRay.x264-USURY&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": "4.37 GB",
+          "provider": "Torrentio"
+        }
+      ],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "the-little-prince-s-rap-against-the-wicked-souls-2000-movie",
@@ -90709,7 +91252,26 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [
+        {
+          "title": "Безрассудное сердце / Insensato Coração / Серии: 001-150 (150) [2011 TVRip]",
+          "magnet": "magnet:?xt=urn:btih:2d8ea87ed94f0e6393e52143de9c8c9c5eb929ef&dn=%D0%91%D0%B5%D0%B7%D1%80%D0%B0%D1%81%D1%81%D1%83%D0%B4%D0%BD%D0%BE%D0%B5%20%D1%81%D0%B5%D1%80%D0%B4%D1%86%D0%B5%20%2F%20Insensato%20Cora%C3%A7%C3%A3o%20%2F%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B8%3A%20001-150%20(150)%20%5B2011%20TVRip%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "БЕЗРАССУДНОЕ СЕРДЦЕ / Insensato Coração / Серии: 001-150(150) [2011 TVRip rus Sub вшитые]",
+          "magnet": "magnet:?xt=urn:btih:b05b4eaeed30c4df7c2d417da0d6e9f9464cdc8b&dn=%D0%91%D0%95%D0%97%D0%A0%D0%90%D0%A1%D0%A1%D0%A3%D0%94%D0%9D%D0%9E%D0%95%20%D0%A1%D0%95%D0%A0%D0%94%D0%A6%D0%95%20%2F%20Insensato%20Cora%C3%A7%C3%A3o%20%2F%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B8%3A%20001-150(150)%20%5B2011%20TVRip%20rus%20Sub%20%D0%B2%D1%88%D0%B8%D1%82%D1%8B%D0%B5%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        }
+      ],
+      "torrent_options_720p": [],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "howards-end-1992-movie",
@@ -94338,7 +94900,26 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [
+        {
+          "title": "03-1080P-.MKV.Família é Tudo S01E01-03 2024 WEB-DL 1080p x264 NACIONAL 5.1",
+          "magnet": "magnet:?xt=urn:btih:09921dd4b6a42ed58a9a256d87233704183f4270&dn=03-1080P-.MKV.Fam%C3%ADlia%20%C3%A9%20Tudo%20S01E01-03%202024%20WEB-DL%201080p%20x264%20NACIONAL%205.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        },
+        {
+          "title": "03-1080P-.MKV.Família é Tudo S01E01-03 2024 WEB-DL 1080p x264 NACIONAL 5.1 - REPACK",
+          "magnet": "magnet:?xt=urn:btih:6f82e7f75d3082987a66b9c9e2dcee80abadb357&dn=03-1080P-.MKV.Fam%C3%ADlia%20%C3%A9%20Tudo%20S01E01-03%202024%20WEB-DL%201080p%20x264%20NACIONAL%205.1%20-%20REPACK&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        }
+      ],
+      "torrent_options_720p": [],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "room-at-the-top-1959-movie",
@@ -97654,7 +98235,19 @@
       "poster_s3_key": null,
       "encrypted": false,
       "media_codecs": null,
-      "acquisition_exhausted": true
+      "acquisition_exhausted": true,
+      "torrent_options": [
+        {
+          "title": "Porto Alegre Meu Canto No Mundo [2007] DvDRiP-BaRneY84",
+          "magnet": "magnet:?xt=urn:btih:970925995b4eef5a46342ddf890ef91818b299ba&dn=Porto%20Alegre%20Meu%20Canto%20No%20Mundo%20%5B2007%5D%20DvDRiP-BaRneY84&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": "700.26 MB",
+          "provider": "Torrentio"
+        }
+      ],
+      "torrent_options_720p": [],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "the-babadook-2014-movie",
@@ -101783,7 +102376,19 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [],
+      "torrent_options_720p": [
+        {
+          "title": "Vai na Fé (2023) [E01-10] PL.720p.WEB-DL.-Y / pl",
+          "magnet": "magnet:?xt=urn:btih:a641098017c9a0cf5ed3e475b17d9068117748f3&dn=Vai%20na%20F%C3%A9%20(2023)%20%5BE01-10%5D%20PL.720p.WEB-DL.-Y%20%2F%20pl&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        }
+      ],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "the-yearling-1946-movie",
@@ -106308,7 +106913,19 @@
       "attachments": [],
       "poster_s3_key": null,
       "encrypted": false,
-      "media_codecs": null
+      "media_codecs": null,
+      "torrent_options": [
+        {
+          "title": "Время не остановить / O Tempo Não Para / Серии: 1-113 из 156 [2018 HDTV 1080] MVO (AVEBRASIL.TV)",
+          "magnet": "magnet:?xt=urn:btih:f71c0af973404b8a8b7fd6695fd6bfb2584f1abd&dn=%D0%92%D1%80%D0%B5%D0%BC%D1%8F%20%D0%BD%D0%B5%20%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C%20%2F%20O%20Tempo%20N%C3%A3o%20Para%20%2F%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B8%3A%201-113%20%D0%B8%D0%B7%20156%20%5B2018%20HDTV%201080%5D%20MVO%20(AVEBRASIL.TV)&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        }
+      ],
+      "torrent_options_720p": [],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "lower-city-2005-movie",
@@ -112873,7 +113490,19 @@
       "poster_s3_key": null,
       "encrypted": false,
       "media_codecs": null,
-      "acquisition_exhausted": true
+      "acquisition_exhausted": true,
+      "torrent_options": [
+        {
+          "title": "Movies of 1940",
+          "magnet": "magnet:?xt=urn:btih:b9c93de31eb7c40a12c3d3f57fe6364d4c955ed3&dn=Movies%20of%201940&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        }
+      ],
+      "torrent_options_720p": [],
+      "current_torrent_index": 0,
+      "current_torrent_index_720p": 0
     },
     {
       "id": "medusa-2021-movie",
@@ -116161,7 +116790,15 @@
       "origin": "Brazilian",
       "plot": "Brazilian version of the hit drag queen competition show hosted by RuPaul and judge Gretchen.",
       "plot_pt": "Versão brasileira do reality show de drag queens apresentado por RuPaul com a judge Gretchen.",
-      "torrent_options": [],
+      "torrent_options": [
+        {
+          "title": "Drag Race Brasil S01E01 1080p WEB h264-SECRETOS",
+          "magnet": "magnet:?xt=urn:btih:9e034ec81e3df45fe2072d93d862ed3d0e8c6313&dn=Drag%20Race%20Brasil%20S01E01%201080p%20WEB%20h264-SECRETOS&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": "2.56 GB",
+          "provider": "Torrentio"
+        }
+      ],
       "torrent_options_720p": [],
       "content_type": "tv",
       "original_title": null,
@@ -116218,8 +116855,52 @@
         "Igor Chmela",
         "Marie Dolezalová"
       ],
-      "torrent_options": [],
-      "torrent_options_720p": [],
+      "torrent_options": [
+        {
+          "title": "Canadas Drag Race All Stars S01E01 1080p HEVC x265-MeGusta EZTV",
+          "magnet": "magnet:?xt=urn:btih:f0bf45f1ce9b95e3966058bcbf40737b5155ab2b&dn=Canadas%20Drag%20Race%20All%20Stars%20S01E01%201080p%20HEVC%20x265-MeGusta%20EZTV&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 17,
+          "size": "1.29 GB",
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Canadas Drag Race All Stars S01E01 1080p WEB h264-BAE EZTV",
+          "magnet": "magnet:?xt=urn:btih:3539562a953792ac6b889ce4aaaefbc1da38bd37&dn=Canadas%20Drag%20Race%20All%20Stars%20S01E01%201080p%20WEB%20h264-BAE%20EZTV&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 8,
+          "size": "3.58 GB",
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Drag Race All Stars US S1-8 [1080p-720p]",
+          "magnet": "magnet:?xt=urn:btih:bc791886dce2e4d88ba6f939bc43f60aef69b1a3&dn=Drag%20Race%20All%20Stars%20US%20S1-8%20%5B1080p-720p%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        }
+      ],
+      "torrent_options_720p": [
+        {
+          "title": "Canadas Drag Race All Stars S01E01 Miss Charisma Uniqueness Nerve and Talent Pageant 720p AMZN WEB-DL DDP5 1 H 264-RAWR",
+          "magnet": "magnet:?xt=urn:btih:67aeeee69e8e4b6746f4ff5d4777af9cfcc91774&dn=Canadas%20Drag%20Race%20All%20Stars%20S01E01%20Miss%20Charisma%20Uniqueness%20Nerve%20and%20Talent%20Pageant%20720p%20AMZN%20WEB-DL%20DDP5%201%20H%20264-RAWR&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 70,
+          "size": "2.17 GB",
+          "provider": "Torrentio"
+        },
+        {
+          "title": "RuPauls Drag Race All Stars Untucked S01E01 720p WEB h264-SECRETOS",
+          "magnet": "magnet:?xt=urn:btih:aecfc978ce6e3aeabfbf252e68869cb9c298884b&dn=RuPauls%20Drag%20Race%20All%20Stars%20Untucked%20S01E01%20720p%20WEB%20h264-SECRETOS&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 3,
+          "size": "431.99 MB",
+          "provider": "Torrentio"
+        },
+        {
+          "title": "Drag Race All Stars US S1-8 [1080p-720p]",
+          "magnet": "magnet:?xt=urn:btih:bc791886dce2e4d88ba6f939bc43f60aef69b1a3&dn=Drag%20Race%20All%20Stars%20US%20S1-8%20%5B1080p-720p%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce",
+          "seeders": 0,
+          "size": null,
+          "provider": "Torrentio"
+        }
+      ],
       "content_type": "tv",
       "original_title": null,
       "director": null,
