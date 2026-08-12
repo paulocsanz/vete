@@ -123,5 +123,6 @@
   "reservoir-dogs-1992-movie": "videos/reservoir-dogs-1992-movie/hls/index.m3u8",
   "lawrence-of-arabia-1962-movie": "videos/lawrence-of-arabia-1962-movie/hls/index.m3u8",
   "singin-in-the-rain-1952-movie": "videos/singin-in-the-rain-1952-movie/hls/index.m3u8",
-  "full-metal-jacket-1987-movie": "videos/full-metal-jacket-1987-movie/hls/index.m3u8"
+  "full-metal-jacket-1987-movie": "videos/full-metal-jacket-1987-movie/hls/index.m3u8",
+  "oldboy-2003-movie": "videos/oldboy-2003-movie/hls/index.m3u8"
 }
