@@ -170,5 +170,6 @@
   "dune-2021-movie": "videos/dune-2021-movie/hls/index.m3u8",
   "batman-begins-2005-movie": "videos/batman-begins-2005-movie/hls/index.m3u8",
   "brainstorm-2000-movie": "videos/brainstorm-2000-movie/hls/index.m3u8",
-  "the-invisible-life-of-euridice-gusmao-2019-movie": "videos/the-invisible-life-of-euridice-gusmao-2019-movie/hls/index.m3u8"
+  "the-invisible-life-of-euridice-gusmao-2019-movie": "videos/the-invisible-life-of-euridice-gusmao-2019-movie/hls/index.m3u8",
+  "the-terminator-1984-movie": "videos/the-terminator-1984-movie/hls/index.m3u8"
 }
