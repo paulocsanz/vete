@@ -167,5 +167,6 @@
   "bus-174-2002-movie": "videos/bus-174-2002-movie/hls/index.m3u8",
   "the-dark-knight-rises-2012-movie": "videos/the-dark-knight-rises-2012-movie/hls/index.m3u8",
   "back-to-the-future-part-ii-1989-movie": "videos/back-to-the-future-part-ii-1989-movie/hls/index.m3u8",
-  "dune-2021-movie": "videos/dune-2021-movie/hls/index.m3u8"
+  "dune-2021-movie": "videos/dune-2021-movie/hls/index.m3u8",
+  "batman-begins-2005-movie": "videos/batman-begins-2005-movie/hls/index.m3u8"
 }

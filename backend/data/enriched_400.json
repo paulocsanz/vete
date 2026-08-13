@@ -48017,8 +48017,9 @@
       "trailer_subtitles": [],
       "attachments": [],
       "poster_s3_key": null,
-      "encrypted": false,
-      "media_codecs": null
+      "encrypted": true,
+      "media_codecs": null,
+      "hls_playlist_s3_key": "videos/batman-begins-2005-movie/hls/index.m3u8"
     },
     {
       "id": "the-color-purple-1985-movie",
