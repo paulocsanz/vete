@@ -46513,8 +46513,9 @@
       "trailer_subtitles": [],
       "attachments": [],
       "poster_s3_key": null,
-      "encrypted": false,
-      "media_codecs": null
+      "encrypted": true,
+      "media_codecs": null,
+      "hls_playlist_s3_key": "videos/back-to-the-future-part-ii-1989-movie/hls/index.m3u8"
     },
     {
       "id": "dune-2021-movie",
