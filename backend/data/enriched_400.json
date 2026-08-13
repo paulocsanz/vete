@@ -54052,8 +54052,9 @@
       "trailer_subtitles": [],
       "attachments": [],
       "poster_s3_key": null,
-      "encrypted": false,
-      "media_codecs": null
+      "encrypted": true,
+      "media_codecs": null,
+      "hls_playlist_s3_key": "videos/carandiru-2003-movie/hls/index.m3u8"
     },
     {
       "id": "the-longest-day-1962-movie",
