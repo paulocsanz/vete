@@ -49147,7 +49147,7 @@
       "trailer_subtitles": [],
       "attachments": [],
       "poster_s3_key": null,
-      "encrypted": false,
+      "encrypted": true,
       "media_codecs": null,
       "torrent_options_720p": [
         {
@@ -49158,7 +49158,8 @@
           "provider": "Torrentio/Comando"
         }
       ],
-      "current_torrent_index_720p": 0
+      "current_torrent_index_720p": 0,
+      "hls_playlist_s3_key": "videos/brainstorm-2000-movie/hls/index.m3u8"
     },
     {
       "id": "the-invisible-life-of-euridice-gusmao-2019-movie",
