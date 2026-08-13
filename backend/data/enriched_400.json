@@ -53289,8 +53289,9 @@
       "trailer_subtitles": [],
       "attachments": [],
       "poster_s3_key": null,
-      "encrypted": false,
-      "media_codecs": null
+      "encrypted": true,
+      "media_codecs": null,
+      "hls_playlist_s3_key": "videos/behind-the-sun-2001-movie/hls/index.m3u8"
     },
     {
       "id": "the-social-dilemma-2020-movie",
