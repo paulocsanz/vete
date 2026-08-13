@@ -59161,8 +59161,9 @@
       "trailer_subtitles": [],
       "attachments": [],
       "poster_s3_key": null,
-      "encrypted": false,
-      "media_codecs": null
+      "encrypted": true,
+      "media_codecs": null,
+      "hls_playlist_s3_key": "videos/star-wars-episode-iii-revenge-of-the-sith-2005-movie/hls/index.m3u8"
     },
     {
       "id": "foreign-land-1996-movie",
