@@ -49223,8 +49223,9 @@
       "trailer_subtitles": [],
       "attachments": [],
       "poster_s3_key": null,
-      "encrypted": false,
-      "media_codecs": null
+      "encrypted": true,
+      "media_codecs": null,
+      "hls_playlist_s3_key": "videos/the-invisible-life-of-euridice-gusmao-2019-movie/hls/index.m3u8"
     },
     {
       "id": "zodiac-2007-movie",
