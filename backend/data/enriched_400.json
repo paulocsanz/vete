@@ -64719,8 +64719,9 @@
       "trailer_subtitles": [],
       "attachments": [],
       "poster_s3_key": null,
-      "encrypted": false,
-      "media_codecs": null
+      "encrypted": true,
+      "media_codecs": null,
+      "hls_playlist_s3_key": "videos/toy-story-5-2026-movie/hls/index.m3u8"
     },
     {
       "id": "aquele-beijo-2011-tv",
