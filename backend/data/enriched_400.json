@@ -59560,7 +59560,7 @@
       "trailer_subtitles": [],
       "attachments": [],
       "poster_s3_key": null,
-      "encrypted": false,
+      "encrypted": true,
       "media_codecs": null,
       "torrent_options_720p": [
         {
@@ -59591,7 +59591,8 @@
           "contentScore": 800
         }
       ],
-      "current_torrent_index": 0
+      "current_torrent_index": 0,
+      "hls_playlist_s3_key": "videos/black-orpheus-1959-movie/hls/index.m3u8"
     },
     {
       "id": "the-french-connection-1971-movie",
