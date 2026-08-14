@@ -72280,7 +72280,7 @@
       "trailer_subtitles": [],
       "attachments": [],
       "poster_s3_key": null,
-      "encrypted": false,
+      "encrypted": true,
       "media_codecs": null,
       "torrent_options_720p": [
         {
@@ -72312,7 +72312,8 @@
           "provider": "Torrentio/ThePirateBay"
         }
       ],
-      "current_torrent_index_720p": 0
+      "current_torrent_index_720p": 0,
+      "hls_playlist_s3_key": "videos/amarelo-manga-2002-movie/hls/index.m3u8"
     },
     {
       "id": "bingo-the-king-of-the-mornings-2017-movie",
