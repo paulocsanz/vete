@@ -65689,7 +65689,7 @@
       "trailer_subtitles": [],
       "attachments": [],
       "poster_s3_key": null,
-      "encrypted": false,
+      "encrypted": true,
       "media_codecs": null,
       "torrent_options_720p": [
         {
@@ -65707,7 +65707,8 @@
           "provider": "Torrentio/ThePirateBay"
         }
       ],
-      "current_torrent_index_720p": 0
+      "current_torrent_index_720p": 0,
+      "hls_playlist_s3_key": "videos/bye-bye-brasil-1979-movie/hls/index.m3u8"
     },
     {
       "id": "frozen-2013-movie",
