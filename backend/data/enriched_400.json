@@ -59483,7 +59483,7 @@
       "trailer_subtitles": [],
       "attachments": [],
       "poster_s3_key": null,
-      "encrypted": false,
+      "encrypted": true,
       "media_codecs": null,
       "torrent_options_720p": [
         {
@@ -59501,7 +59501,8 @@
           "provider": "Torrentio/Torrentio"
         }
       ],
-      "current_torrent_index_720p": 0
+      "current_torrent_index_720p": 0,
+      "hls_playlist_s3_key": "videos/barren-lives-1963-movie/hls/index.m3u8"
     },
     {
       "id": "black-orpheus-1959-movie",
