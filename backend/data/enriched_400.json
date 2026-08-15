@@ -106065,8 +106065,9 @@
       "trailer_subtitles": [],
       "attachments": [],
       "poster_s3_key": null,
-      "encrypted": false,
-      "media_codecs": null
+      "encrypted": true,
+      "media_codecs": null,
+      "hls_playlist_s3_key": "videos/star-wars-episode-i-the-phantom-menace-1999-movie/hls/index.m3u8"
     },
     {
       "id": "the-big-house-1930-movie",
