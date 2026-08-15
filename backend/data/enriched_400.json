@@ -72976,7 +72976,7 @@
       "trailer_subtitles": [],
       "attachments": [],
       "poster_s3_key": null,
-      "encrypted": false,
+      "encrypted": true,
       "media_codecs": null,
       "torrent_options_720p": [
         {
@@ -72988,7 +72988,8 @@
           "contentScore": 800
         }
       ],
-      "current_torrent_index_720p": 0
+      "current_torrent_index_720p": 0,
+      "hls_playlist_s3_key": "videos/the-clown-2011-movie/hls/index.m3u8"
     },
     {
       "id": "the-guns-of-navarone-1961-movie",
