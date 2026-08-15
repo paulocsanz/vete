@@ -78868,8 +78868,9 @@
       "trailer_subtitles": [],
       "attachments": [],
       "poster_s3_key": null,
-      "encrypted": false,
-      "media_codecs": null
+      "encrypted": true,
+      "media_codecs": null,
+      "hls_playlist_s3_key": "videos/my-name-ain-t-johnny-2008-movie/hls/index.m3u8"
     },
     {
       "id": "dangerous-liaisons-1988-movie",
