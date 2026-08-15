@@ -93659,8 +93659,9 @@
       "trailer_subtitles": [],
       "attachments": [],
       "poster_s3_key": null,
-      "encrypted": false,
-      "media_codecs": null
+      "encrypted": true,
+      "media_codecs": null,
+      "hls_playlist_s3_key": "videos/the-lion-king-ii-simba-s-pride-1998-movie/hls/index.m3u8"
     },
     {
       "id": "a-thousand-clowns-1965-movie",
