@@ -75155,8 +75155,9 @@
       "trailer_subtitles": [],
       "attachments": [],
       "poster_s3_key": null,
-      "encrypted": false,
-      "media_codecs": null
+      "encrypted": true,
+      "media_codecs": null,
+      "hls_playlist_s3_key": "videos/star-wars-the-force-awakens-2015-movie/hls/index.m3u8"
     },
     {
       "id": "bridge-of-spies-2015-movie",
