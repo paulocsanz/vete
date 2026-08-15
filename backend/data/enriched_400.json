@@ -95308,7 +95308,7 @@
       "trailer_subtitles": [],
       "attachments": [],
       "poster_s3_key": null,
-      "encrypted": false,
+      "encrypted": true,
       "media_codecs": null,
       "torrent_options_720p": [
         {
@@ -95319,7 +95319,8 @@
           "provider": "Torrentio/Comando"
         }
       ],
-      "current_torrent_index_720p": 0
+      "current_torrent_index_720p": 0,
+      "hls_playlist_s3_key": "videos/two-sons-of-francisco-2005-movie/hls/index.m3u8"
     },
     {
       "id": "heaven-can-wait-1943-movie",
