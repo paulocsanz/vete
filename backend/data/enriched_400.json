@@ -104593,8 +104593,9 @@
       "trailer_subtitles": [],
       "attachments": [],
       "poster_s3_key": null,
-      "encrypted": false,
-      "media_codecs": null
+      "encrypted": true,
+      "media_codecs": null,
+      "hls_playlist_s3_key": "videos/gladiator-ii-2024-movie/hls/index.m3u8"
     },
     {
       "id": "rachel-rachel-1968-movie",
